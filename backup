@@ -1,0 +1,6 @@
+!#/bin/bash
+
+find . -size +100M | sed 's|^\./||g' | cat >> .gitignore
+git add .
+git commit -m "backing up"
+git push
