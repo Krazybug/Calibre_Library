@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cbd053d-a9ee-4df4-9e99-b1daf7b1c0b4</dc:identifier>
+        <dc:title>Python Cookbook</dc:title>
+        <dc:creator opf:file-as="Beazley, David &amp; Jones, Brian K." opf:role="aut">David Beazley</dc:creator>
+        <dc:creator opf:file-as="Beazley, David &amp; Jones, Brian K." opf:role="aut">Brian K. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-08T14:02:33+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>IT eBooks</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <meta content="{&quot;Brian K. Jones&quot;: &quot;&quot;, &quot;David Beazley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:23:18.780544+00:00" name="calibre:timestamp"/>
+        <meta content="Python Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

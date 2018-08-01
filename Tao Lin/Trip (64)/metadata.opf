@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1183d845-4075-43b2-9d95-efb787a4757e</dc:identifier>
+        <dc:title>Trip</dc:title>
+        <dc:creator opf:file-as="Lin, Tao" opf:role="aut">Tao Lin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Part memoir, part history, part journalistic expos&amp;eacute;, &lt;i&gt;Trip&lt;/i&gt; is a look at psychedelic drugs, literature, and alienation from one of the twenty-first century's most innovative novelists&amp;#8212;&lt;i&gt;The Electric Kool-Aid Acid Test&lt;/i&gt; for a new generation. A Vintage Original.&lt;/b&gt;&lt;br&gt;While isolating himself to work on his novel &lt;i&gt;Taipei,&lt;/i&gt; Tao Lin discovered the prolific work of Terence McKenna&amp;#8212;the leading advocate of psychotropic drugs since Timothy Leary. Tao became obsessed with McKenna, whose worldview (and particular theory of drug use) seemed to present an alternate way of being. In &lt;i&gt;Trip,&lt;/i&gt; Tao's first ever book-length work of nonfiction, he explores parallels between McKenna's life and his own in a far-reaching search for answers to looming questions: Why do we make art? What is language for? And are there essential, universal truths out there, beyond our limited range of perception?&lt;br&gt;&lt;i&gt;Trip &lt;/i&gt;takes readers on a trip through psychedelic culture,...</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Tao Lin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T18:32:37+00:00" name="calibre:timestamp"/>
+        <meta content="Trip" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

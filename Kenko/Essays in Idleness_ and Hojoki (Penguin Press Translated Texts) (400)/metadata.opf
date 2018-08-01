@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fded850-c1bd-4fb0-a1ff-8a1f1db853d2</dc:identifier>
+        <dc:title>Essays in Idleness: and Hojoki (Penguin Press Translated Texts)</dc:title>
+        <dc:creator opf:file-as="Kenko &amp; Chomei" opf:role="aut">Kenko</dc:creator>
+        <dc:creator opf:file-as="Kenko &amp; Chomei" opf:role="aut">Chomei</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-05T00:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00D8Q0DFU</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780141957876</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kenko&quot;: &quot;&quot;, &quot;Chomei&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-29T12:04:01.246620+00:00" name="calibre:timestamp"/>
+        <meta content="Essays in Idleness: and Hojoki (Penguin Press Translated Texts)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

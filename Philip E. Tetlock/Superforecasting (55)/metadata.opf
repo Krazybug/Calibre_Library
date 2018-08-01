@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9b89aab-5777-4d37-aae5-3c727458913b</dc:identifier>
+        <dc:title>Superforecasting</dc:title>
+        <dc:creator opf:file-as="Tetlock, Philip E." opf:role="aut">Philip E. Tetlock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-29T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From one of the world's most highly regarded social scientists, a transformative book on the habits of mind that lead to the best predictions&lt;/b&gt;&lt;br&gt;  &lt;br&gt; Everyone would benefit from seeing further into the future, whether buying stocks, crafting policy, launching a new product, or simply planning the week's meals. Unfortunately, people tend to be terrible forecasters. As Wharton professor Philip Tetlock showed in a landmark 2005 study, even experts' predictions are only slightly better than chance. However, an important and underreported conclusion of that study was that some experts do have real foresight, and Tetlock has spent the past decade trying to figure out why. What makes some people so good? And can this talent be taught?&lt;br&gt;  &lt;br&gt; In &lt;i&gt;Superforecasting&lt;/i&gt;, Tetlock and coauthor Dan Gardner offer a masterwork on prediction, drawing on decades of research and the results of a massive, government-funded forecasting tournament. The Good Judgment Project involves tens...</dc:description>
+        <dc:publisher>Crown/Archetype</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Philip E. Tetlock&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T08:27:32+00:00" name="calibre:timestamp"/>
+        <meta content="Superforecasting" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

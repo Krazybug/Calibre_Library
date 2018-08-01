@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df8dae3b-241c-4ae1-ac86-3e06722d8d7d</dc:identifier>
+        <dc:title>The Secret Adversary: A Tommy &amp; Tuppence Adventure</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-30T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The first Tommy and Tuppence mystery, including an all-new introduction by Agatha Christie expert John Curran&lt;br&gt;&lt;/p&gt;&lt;p&gt;Tommy and Tuppence, two people flat broke and out of work, are restless for excitement. They embark on a daring business scheme—Young Adventurers Ltd.—"willing to do anything, go anywhere." But their first assignment, for the sinister Mr. Whittington, draws them into a diabolical, political conspiracy. Under the eye of the elusive, ruthless Mr. Brown, they find themselves plunged into more danger than they ever imagined.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Any mystery writer who wants to learn how to plot should spend a few days reading Agatha Christie. She’ll show you everything you want to know.” (Donna Leon, international bestselling author of the Commissario Guido Brunetti novels )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Refreshingly original.” (Times Literary Supplement (London) ) &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'Refreshingly original.' Times Literary Supplement &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061753749</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FCK67U</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gmrtPTLY8YcC</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FCK67U</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Tommy &amp; Tuppence" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-02-08T18:50:47+00:00" name="calibre:timestamp"/>
+        <meta content="Secret Adversary: A Tommy &amp; Tuppence Adventure, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

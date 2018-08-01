@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40d72d42-d847-498f-8d16-96e9565bda96</dc:identifier>
+        <dc:title>How Linux Works</dc:title>
+        <dc:creator opf:file-as="Brian Ward" opf:role="aut">Brian Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-18T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Unlike some operating systems, Linux doesn't try to hide the important bits from you&amp;#8212;it gives you full control of your computer. But to truly master Linux, you need to understand its internals, like how the system boots, how networking works, and what the kernel actually does.&lt;p&gt;In this completely revised second edition of the perennial best seller How Linux Works, author Brian Ward makes the concepts behind Linux internals accessible to anyone curious about the inner workings of the operating system. Inside, you'll find the kind of knowledge that normally comes from years of experience doing things the hard way. You'll learn:&lt;p&gt;How Linux boots, from boot loaders to init implementations (systemd, Upstart, and System V)&lt;p&gt;How the kernel manages devices, device drivers, and processes&lt;p&gt;How networking, interfaces, firewalls, and servers work&lt;p&gt;How development tools work and relate to shared libraries&lt;p&gt;How to write effective shell scripts&lt;p&gt;You'll also explore the kernel...</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593276454</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Operating Systems / Linux</dc:subject>
+        <meta content="{&quot;Brian Ward&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:32:48.187100+00:00" name="calibre:timestamp"/>
+        <meta content="How Linux Works" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0289011-2f48-420a-99e4-9b33846698bd</dc:identifier>
+        <dc:title>The transparent society</dc:title>
+        <dc:creator opf:file-as="David Brin" opf:role="aut">David Brin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-05T19:30:25+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;David Brin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-23T12:01:47+00:00" name="calibre:timestamp"/>
+        <meta content="The transparent society" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

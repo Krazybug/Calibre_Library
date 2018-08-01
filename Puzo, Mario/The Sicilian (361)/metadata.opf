@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac61ea9e-3df4-4eae-972a-1ee1df7d993e</dc:identifier>
+        <dc:title>The Sicilian</dc:title>
+        <dc:creator opf:file-as="Puzo, Mario" opf:role="aut">Puzo, Mario</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;After Mario Puzo wrote his internationally acclaimed The Godfather, he has often been imitated but never equaled. Puzo's classic novel, The Sicilian, stands as a cornerstone of his worka lushly romantic, unforgettable tale of bloodshed, justice, and treachery. . . .&lt;/p&gt;&lt;p&gt;The year is 1950. Michael Corleone is nearing the end of his exile in Sicily. The Godfather has commanded Michael to bring a young Sicilian bandit named Salvatore Guiliano back with him to America. But Guiliano is a man entwined in a bloody web of violence and vendettas. In Sicily, Guiliano is a modern day Robin Hood who has defied corruptionand defied the Cosa Nostra. Now, in the land of mist-shrouded mountains and ancient ruins, Michael Corleone's fate is entwined with the dangerous legend of Salvatore Guiliano: warrior, lover, and the ultimate Siciliano.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arrow</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345441706</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="{&quot;Puzo, Mario&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Godfather" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2018-07-12T09:34:51.497084+00:00" name="calibre:timestamp"/>
+        <meta content="Sicilian, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

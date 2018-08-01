@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f588f43-18e3-4243-beb3-2dadb0e9ca87</dc:identifier>
+        <dc:title>Appointment With Death: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Hercule Poirot may be on vacation, but a killer isn't. The victim's a hateful tourist despised even by her own children. For the guests at the resort hotel, sympathies are with the murderer, which means a tough job for the Belgian detective.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“The quickness of Christie’s hand still continues to deceive our eyes.” (Val McDermid,&lt;em&gt; New York Times&lt;/em&gt; bestselling author )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Twice as brilliant as &lt;em&gt;Death on the Nile&lt;/em&gt;, which was entirely brilliant.” (&lt;em&gt;The Observer&lt;/em&gt; (UK) ) &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Twice as brilliant as Death on the Nile, which was entirely brilliant" Observer &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0425108589</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FC2RS6</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC2RS6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T18:21:00+00:00" name="calibre:timestamp"/>
+        <meta content="Appointment With Death: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d30968b5-9fb8-4b98-b3c0-e8c9cc094331</dc:identifier>
+        <dc:title>Bad Blood</dc:title>
+        <dc:creator opf:file-as="Carreyrou, John" opf:role="aut">John Carreyrou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-21T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The full inside story of the breathtaking rise and shocking collapse of Theranos, the multibillion-dollar biotech startup, by the prize-winning journalist who first broke the story and pursued it to the end, despite pressure from its charismatic CEO and threats by her lawyers.&lt;br&gt;"Crime thriller authors have nothing on Carreyrou's exquisite sense of suspenseful pacing and multifaceted character development in this riveting, read-in-one-sitting tour de force....Carreyrou's commitment to unraveling Holmes' crimes was literally of life-saving value." -&lt;i&gt;Booklist&lt;/i&gt;&lt;/b&gt;&lt;br&gt;In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the female Steve Jobs: a brilliant Stanford dropout whose startup "unicorn" promised to revolutionize the medical industry with a machine that would make blood testing significantly faster and easier. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at more than $9...</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;John Carreyrou&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-29T12:03:58.112428+00:00" name="calibre:timestamp"/>
+        <meta content="Bad Blood" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

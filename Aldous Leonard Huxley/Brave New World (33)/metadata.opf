@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2a530ec-89dc-452f-b3c2-6bb59809dcb6</dc:identifier>
+        <dc:title>Brave New World</dc:title>
+        <dc:creator opf:file-as="Huxley, Aldous Leonard" opf:role="aut">Aldous Leonard Huxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-04T04:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Post Apocalypse</dc:subject>
+        <meta content="{&quot;Aldous Leonard Huxley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-13T15:15:33+00:00" name="calibre:timestamp"/>
+        <meta content="Brave New World" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

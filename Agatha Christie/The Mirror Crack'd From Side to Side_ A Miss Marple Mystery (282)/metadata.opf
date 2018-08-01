@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9c708c8-8cda-4090-9398-9ac18e5b7e4c</dc:identifier>
+        <dc:title>The Mirror Crack'd From Side to Side: A Miss Marple Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;One minute, silly Heather Babcock had been babbling on at her movie idol, the glamorous Marina Gregg. The next, Heather suffered a massive seizure, poisoned by a deadly cocktail.&lt;/p&gt;&lt;p&gt;It seems likely that the cocktail was intended for the beautiful actress. But while the police fumble to find clues, Miss Marple begins to ask her own questions, because as she knows—even the most peaceful village can hide dark secrets.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;Agatha Christie deserves her fame...an incomparably...skillful and amusing detective story. -- &lt;strong&gt;Times Literary Supplement&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Entertaining and enlightening...a faultless puzzle plot. -- &lt;strong&gt;New York Times&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073679</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073672</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1RCS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Miss Marple" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-01-31T15:35:04+00:00" name="calibre:timestamp"/>
+        <meta content="Mirror Crack'd From Side to Side: A Miss Marple Mystery, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

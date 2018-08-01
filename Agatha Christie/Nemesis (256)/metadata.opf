@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e84a9cb-26d6-4aae-9ea6-9da96dad5d5b</dc:identifier>
+        <dc:title>Nemesis</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;In utter disbelief, Miss Marple read the letter addressed to her from the recently deceased Mr. Rafiel—an acquaintance she had met briefly on her travels. He had left instructions for her to investigate a crime after his death. The only problem was, he had failed to tell her who was involved or where and when the crime had been committed. It was most intriguing.&lt;/p&gt;&lt;p&gt;Soon she is faced with a new crime—the ultimate crime—murder. It seems someone is adamant that past evils remained buried. . . .&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie proves that if you really are good enough, you can break all the ‘rules’ and still come up with a winner.” (Anne Perry, New York Times bestselling author of the Thomas Pitt and William Monk series of Victorian mysteries )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Miss Marple was an old lady now, knowing that a scent for evil was still, in the evening of her days, her peculiar gift.” (Times Literary Supplement (London) ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073709</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073702</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1PM0</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/nemesis-agatha-christie/1100154354</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Miss Marple" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-01-31T15:40:22+00:00" name="calibre:timestamp"/>
+        <meta content="Nemesis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

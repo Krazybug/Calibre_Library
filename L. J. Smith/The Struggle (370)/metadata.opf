@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98941606-751e-4420-9cc1-4f468ce9bee3</dc:identifier>
+        <dc:title>The Struggle</dc:title>
+        <dc:creator opf:file-as="Smith, L. J." opf:role="aut">L. J. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-06-08T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Damon, the evil vampire brother is detemined to make school beauty Elena
+ his queen of darkness. Even if it means killing his own brother to 
+possess her. Stefan, Damon's brother and Elena's boyfriend, is desperate
+ for the power to destroy Damon - but knows that means succumbing to his
+ thirst for human blood. Elena, irresistibly drawn to both brothers, 
+knows her choice will decide their fate. But who will she choose...?&lt;/p&gt;</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dark Fantasy; Romance; Young-adult Fiction</dc:subject>
+        <meta content="{&quot;L. J. Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="The Vampire Diaries" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2018-07-12T09:35:24.309044+00:00" name="calibre:timestamp"/>
+        <meta content="Struggle, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

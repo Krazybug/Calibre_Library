@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1974cfc4-6170-4b17-8ebd-0b5c4ef144b0</dc:identifier>
+        <dc:title>How to Change Your Mind</dc:title>
+        <dc:creator opf:file-as="Pollan, Michael" opf:role="aut">Michael Pollan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;&lt;b&gt;A brilliant and brave investigation by Michael Pollan, author of five &lt;/b&gt;&lt;b&gt;&lt;i&gt;New York Times&lt;/i&gt;&lt;/b&gt;&lt;b&gt; best sellers, into the medical and scientific revolution taking place around psychedelic drugs&amp;#8212;and the spellbinding story of his own life-changing psychedelic experiences &lt;/b&gt;&lt;/b&gt;&lt;br&gt;When Michael Pollan set out to research how LSD and psilocybin (the active ingredient in magic mushrooms) are being used to provide relief to people suffering from difficult-to-treat conditions such as depression, addiction and anxiety, he did not intend to write what is undoubtedly his most personal book. But upon discovering how these remarkable substances are improving the lives not only of the mentally ill but also of healthy people coming to grips with the challenges of everyday life, he decided to explore the landscape of the mind in the first person as well as the third. Thus began a singular adventure into the experience of various altered states of consciousness, along with a...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Michael Pollan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T18:32:41+00:00" name="calibre:timestamp"/>
+        <meta content="How to Change Your Mind" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

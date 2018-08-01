@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d587f327-1060-482b-8d32-0feb56a1a36e</dc:identifier>
+        <dc:title>Sleeping Murder: Miss Marple's Last Case</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Soon after Gwenda moved into her new home, odd things started to happen. Despite her best efforts to modernize the house, she only succeeded in dredging up its past. Worse, she felt an irrational sense of terror every time she climbed the stairs.&lt;/p&gt;&lt;p&gt;In fear, Gwenda turned to Miss Marple to exorcise her ghosts. Between them, they were to solve a “perfect” crime committed many years before.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Miss Marple has endured as the quintessential amateur sleuth, using intellect and intuition to solve crimes. She is the sort of character that makes a cozy truly cozy.” (Nevada Barr, New York Times bestselling author of the Anna Pigeon mysteries )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A puzzle that is tortuous, surprising and finally satisfying.” (Sunday Express (London) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Miss Marple is spry, shrewd and compassionate.” (Sunday Telegraph ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073723</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073729</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1PES</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Miss Marple" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-01-31T15:42:28+00:00" name="calibre:timestamp"/>
+        <meta content="Sleeping Murder: Miss Marple's Last Case" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

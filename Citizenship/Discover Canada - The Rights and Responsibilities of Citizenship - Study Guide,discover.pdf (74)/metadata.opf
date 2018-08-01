@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fefff72-40ae-4fd6-be9f-9b351126def6</dc:identifier>
+        <dc:title>Discover Canada - The Rights and Responsibilities of Citizenship - Study Guide,discover.pdf</dc:title>
+        <dc:creator opf:file-as="Citizenship &amp; Canada, Immigration" opf:role="aut">Citizenship</dc:creator>
+        <dc:creator opf:file-as="Citizenship &amp; Canada, Immigration" opf:role="aut">Immigration Canada</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-20T15:48:26+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Immigration Canada&quot;: &quot;&quot;, &quot;Citizenship&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-26T08:48:29+00:00" name="calibre:timestamp"/>
+        <meta content="Discover Canada - The Rights and Responsibilities of Citizenship - Study Guide,discover.pdf" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

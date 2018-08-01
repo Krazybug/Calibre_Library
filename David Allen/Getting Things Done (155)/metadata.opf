@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f84e7277-db46-429b-95db-21988f1321df</dc:identifier>
+        <dc:title>Getting Things Done</dc:title>
+        <dc:creator opf:file-as="Allen, David" opf:role="aut">David Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-06T23:50:48+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;David Allen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:22:52.716156+00:00" name="calibre:timestamp"/>
+        <meta content="Getting Things Done" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

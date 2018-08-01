@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34f79b25-9c8e-4e55-a0e4-e69865da0e6c</dc:identifier>
+        <dc:title>When Prophecy Fails</dc:title>
+        <dc:creator opf:file-as="Festinger, Leon" opf:role="aut">Leon Festinger</dc:creator>
+        <dc:creator opf:file-as="Festinger, Leon" opf:role="aut">Stanley Schachter</dc:creator>
+        <dc:creator opf:file-as="Festinger, Leon" opf:role="aut">Henry W. Riecken</dc:creator>
+        <dc:creator opf:file-as="Festinger, Leon" opf:role="aut">Elliot Aronson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;In 1954 Leon Festinger, a brilliant young experimental social psychologist in the process of inventing a new theory of human behavior - the theory of cognitive dissonance - and two of his colleagues, Henry Riecken and Stanley Schachter, infiltrated a cult who believed the end of the world was only months away. How would these people feel when their prophecy remained unfulfilled? Would they admit the error of their prediction, or would they, as Festinger predicted, readjust their reality to make sense of the new circumstances? Not only is When Prophecy Fails of great historical importance as the first test of a powerful theory, but it is also a surprisingly touching account of what happens to ordinary people under extraordinary circumstances.“Reconnecting with this book after fifty years has given me a renewed appreciation for the genius and audacity of Leon Festinger and his colleagues. I prophesy that it will do the same for you.” Elliot Aronson, author of The Social Animal and Mistakes were made (but not by me) in his foreword&lt;/p&gt;</dc:description>
+        <dc:publisher>Pinter &amp; Martin</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">7ddfc53b-0f49-461e-8fd4-d117004f6ac4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>PSY031000</dc:subject>
+        <meta content="{&quot;Leon Festinger&quot;: &quot;&quot;, &quot;Stanley Schachter&quot;: &quot;&quot;, &quot;Henry W. Riecken&quot;: &quot;&quot;, &quot;Elliot Aronson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T12:59:30.992536+00:00" name="calibre:timestamp"/>
+        <meta content="When Prophecy Fails" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

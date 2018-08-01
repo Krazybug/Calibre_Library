@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40c0aad8-e7ca-4a16-83d6-a974c70887a9</dc:identifier>
+        <dc:title>A PRIMER OF LIBERTARIAN EDUCATION - JOEL SPRING</dc:title>
+        <dc:creator opf:file-as="SPRING, JOEL" opf:role="aut">JOEL SPRING</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A PRIMER OF LIBERTARIAN EDUCATION</dc:description>
+        <dc:identifier opf:scheme="ARK">ark:/13960/t6sz0mz9k</dc:identifier>
+        <dc:identifier opf:scheme="ACCESS URL">http://archive.org/details/APrimerOfLibertarianEducation-JoelSpring</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>A PRIMER OF LIBERTARIAN EDUCATION</dc:subject>
+        <meta content="{&quot;JOEL SPRING&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T13:00:14.223638+00:00" name="calibre:timestamp"/>
+        <meta content="PRIMER OF LIBERTARIAN EDUCATION - JOEL SPRING, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bfe1bca-acb5-4fc3-a6a8-817417598ad5</dc:identifier>
+        <dc:title>Amulet</dc:title>
+        <dc:creator opf:file-as="Bolano, Roberto" opf:role="aut">Roberto Bolaño</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-10T18:30:00+00:00</dc:date>
+        <dc:description>A tour de force, Amulet is a highly charged first-person, semi-hallucinatory novel that embodies in one woman's voice the melancholy and violent recent history of Latin America.
+It is September 1968 and the Mexican student movement is about to run head-on into the repressive right-wing government of Mexico: hundreds of young people will soon die.
+When the army invades the university, one woman hides in a fourth-floor ladies' room and for twelve days she is the only person left on campus. Staring at the floor, she recounts her bohemian life among the young poets of Mexico City -inventing and reinventing freely-and along the way she creates a cosmology of literature. She is Auxilio Lacouture, the Mother of Mexican Poetry.
+Auxilio speaks of her passionate attachment to young poets as well as to two beloved aged poets, to a woman who once slept with Che Guevera, and to the painter Remedios Varo, recalling visits which never occurred. And as they grow ever more hallucinatory, her "memories" become mythologies before completely transforming into riveting dark prophecies.
+Hair-raising and enthralling, Amulet is a heart-breaking novel and another brilliant example of the art of Roberto Bolaño, "the most admired novelist," as Susan Sontag noted, "in the Spanish-speaking world."</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>prose_contemporary</dc:subject>
+        <meta content="{&quot;Roberto Bolaño&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:34:14.686738+00:00" name="calibre:timestamp"/>
+        <meta content="Amulet" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

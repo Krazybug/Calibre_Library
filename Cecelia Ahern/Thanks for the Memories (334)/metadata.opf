@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8350412-4e24-4238-96c3-e6c332afd59d</dc:identifier>
+        <dc:title>Thanks for the Memories</dc:title>
+        <dc:creator opf:file-as="Ahern, Cecelia" opf:role="aut">Cecelia Ahern</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Offered at a low price of $1.99 for a limited time, this charming novel by New York Times bestselling author Cecelia Ahern explores what happens when "what if" becomes a reality for two strangers whose lives are at a crossroads. This special e-book edition also includes an excerpt of Cecelia's latest novel, The Book of Tomorrow. How can you know someone you've never met? That's the question haunting Joyce Conway these days. Recovering from a terrible accident and with her marriage in pieces, Joyce is suddenly plagued by an overwhelming sense of dÉjÀ vu that makes her feel as if the life she's living is not her own. During the day she has vivid memories of things she's never seen—such as cobblestoned Parisian streets she's never visited—and at night she dreams of a little girl she's sure she's never met. Joyce is convinced she's lost her mind . . . until a series of coincidences leads her on a journey to meet the one person who may hold the answer she needs. Someone's life could be depending on you right now . . . . That's the pitch that finally persuades Justin Hitchcock to donate blood—the first thing to come straight from his heart in a long time. Restless and lonely, Justin chased his ex-wife and daughter from Chicago to London, and now he's in Dublin, guest-lecturing to bored college students. When he receives a basket of muffins with a thank-you note attached, he's sure someone's playing a joke on him, but then the presents keep coming. Intrigued, Justin is determined to solve the mystery—a quest that will change his life forever. Thanks for the Memories is a heartwarming story of hope, love, and second chances. If you love this, don't miss The Book of Tomorrow, available in bookstores and in e-book format on January 25, 2011.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">zcVTOkYCSMgC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062080554</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Cecelia Ahern&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:33:42.162457+00:00" name="calibre:timestamp"/>
+        <meta content="Thanks for the Memories" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

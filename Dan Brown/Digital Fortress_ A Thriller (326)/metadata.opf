@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d79df5d-5f9a-4f13-afa8-e44bc357abe2</dc:identifier>
+        <dc:title>Digital Fortress: A Thriller</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;When the NSA's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant, beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage--not by guns or bombs -- but by a code so complex that if released would cripple U.S. intelligence. Caught in an accelerating tempest of secrecy and lies, Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;In most thrillers, "hardware" consists of big guns, airplanes, military vehicles, and weapons that make things explode. Dan Brown has written a thriller for those of us who like our hardware with disc drives and who rate our heroes by big brainpower rather than big firepower. It's an Internet user's spy novel where the good guys and bad guys struggle over secrets somewhat more intellectual than just where the secret formula is hidden--they have to gain understanding of what the secret formula actually is.&lt;/p&gt;&lt;p&gt;In this case, the secret formula is a new means of encryption, capable of changing the balance of international power. Part of the fun is that the book takes the reader along into an understanding of encryption technologies. You'll find yourself better understanding the political battles over such real-life technologies as the Clipper Chip and PGP (Pretty Good Privacy) software even though the book looks at the issues through the eyes of fiction.&lt;/p&gt;&lt;p&gt;Although there's enough globehopping in this book for James Bond, the real battleground is cyberspace, because that's where the "bomb" (or rather, the new encryption algorithm) will explode. Yes, there are a few flaws in the plot if you look too closely, but the cleverness and the sheer fun of it all more than make up for them. There are enough twists and turns to keep you guessing and a lot of high, gee-whiz-level information about encryption, code breaking, and the role they play in international politics. Set aside the whole afternoon and evening for it and have finger food on hand for supper--you may want to read this one straight through. &lt;/p&gt;&lt;h3&gt;From Booklist&lt;/h3&gt;&lt;p&gt;The National Security Agency (NSA) is one setting for this exciting thriller; the other is Seville, where on page 1 the protagonist, lately dismissed from NSA, drops dead of a supposed heart attack. Though dead, he enjoys a dramaturgical afterlife in the form of his computer program. Digital Fortress creates unbreakable codes, which could render useless NSA's code-cracking supercomputer called TRANSLTR, but the deceased programmer slyly embossed a decryption key on a ring he wore. Pursuit of this ring is the engine of the plot. NSA cryptology boss Trevor Strathmore dispatches linguist Dave Becker to recover the ring, while he and Becker's lover, senior code-cracker Susan Fletcher, ponder the vulnerability of TRANSLTR. In Seville, over-the-top chase scenes abound; meanwhile, the critical events unfold at NSA. In a crescendo of murder, infernos, and explosions, it emerges that Strathmore has as agenda that goes beyond breaching Digital Fortress, and Brown's skill at hinting and concealing Strathmore's deceit will rivet cyber-minded readers. &lt;em&gt;Gilbert Taylor&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003JH8LPW</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0312944926</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_FKPcZcTKNMC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781429902304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <meta content="{&quot;Dan Brown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2018-07-12T09:33:22.502848+00:00" name="calibre:timestamp"/>
+        <meta content="Digital Fortress: A Thriller" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

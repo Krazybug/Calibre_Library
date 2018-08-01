@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cd55cc2-d83d-4fc9-8b05-56d714fda72d</dc:identifier>
+        <dc:title>Symmetric Decomposition of Asymmetric Games</dc:title>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Karl Tuyls</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Julien Pamp#x000E9;rolat</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Marc Lanctot</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Georg Ostrovski</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Rahul Savani</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Joel Z Leibo</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Toby Ord</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Thore Graepel</dc:creator>
+        <dc:creator opf:file-as="Tuyls, Karl &amp; Pamp#x000E9;rolat, Julien &amp; Lanctot, Marc &amp; Ostrovski, Georg &amp; Savani, Rahul &amp; Leibo, Joel Z &amp; Ord, Toby &amp; Graepel, Thore &amp; Legg, Shane" opf:role="aut">Shane Legg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-09T06:49:44+00:00</dc:date>
+        <dc:description>Scientific Reports, doi:10.1038/s41598-018-19194-4</dc:description>
+        <dc:publisher>Springer US</dc:publisher>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1038/s41598-018-19194-4</dc:identifier>
+        <dc:identifier opf:scheme="DOI">10.1038/s41598-018-19194-4</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Scientific Reports</dc:subject>
+        <dc:subject>doi:10.1038/s41598-018-19194-4</dc:subject>
+        <meta content="{&quot;Marc Lanctot&quot;: &quot;&quot;, &quot;Georg Ostrovski&quot;: &quot;&quot;, &quot;Toby Ord&quot;: &quot;&quot;, &quot;Karl Tuyls&quot;: &quot;&quot;, &quot;Rahul Savani&quot;: &quot;&quot;, &quot;Joel Z Leibo&quot;: &quot;&quot;, &quot;Julien Pamp#x000E9;rolat&quot;: &quot;&quot;, &quot;Thore Graepel&quot;: &quot;&quot;, &quot;Shane Legg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-26T08:48:58+00:00" name="calibre:timestamp"/>
+        <meta content="Symmetric Decomposition of Asymmetric Games" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

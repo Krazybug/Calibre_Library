@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba79f852-add1-4ca3-8a41-bdd6786482eb</dc:identifier>
+        <dc:title>Conspiracy</dc:title>
+        <dc:creator opf:file-as="Holiday, Ryan" opf:role="aut">Ryan Holiday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;In the tradition of Janet Malcolm's THE JOURNALIST AND THE MURDERER and Robert Greene's THE 48 LAWS OF POWER, author Ryan Holiday examines the case that rocked the media world&amp;#8212;and the billionaire mastermind behind it&lt;/b&gt;&lt;br&gt;In 2007, a short blogpost on Valleywag, the Silicon Valley-vertical of Gawker Media, outed PayPal founder and billionaire investor Peter Thiel as gay. Thiel's sexuality had been known to close friends and family, but he didn't consider himself a public figure, and believed the information was private. &lt;br/&gt; &lt;br/&gt;This post would be the casus belli for a meticulously plotted conspiracy that would end nearly a decade later with a $140 million dollar judgment against Gawker, its bankruptcy and with Nick Denton, Gawker's CEO and founder, out of a job. Only later would the world learn that Gawker's demise was not incidental&amp;#8212;it had been masterminded by Thiel.&lt;br/&gt; &lt;br/&gt;For years, Thiel had searched endlessly for a solution to what he'd come to call the...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ryan Holiday&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-02T05:27:18+00:00" name="calibre:timestamp"/>
+        <meta content="Conspiracy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

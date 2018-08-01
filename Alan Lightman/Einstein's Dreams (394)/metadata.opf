@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7c6e144-9404-4ae6-a2c1-7e4836bec0e0</dc:identifier>
+        <dc:title>Einstein's Dreams</dc:title>
+        <dc:creator opf:file-as="Lightman, Alan" opf:role="aut">Alan Lightman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Now available:  New signed, boxed edition!&lt;br&gt;&lt;br&gt;An imaginary re-creation of Einstein's discovery of the nature of time, this novel takes us through the young patent clerk's many dreams depicting compelling conceptions of time.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Hardcover edition.&lt;/i&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-78974-7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Alan Lightman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-25T12:52:25.907857+00:00" name="calibre:timestamp"/>
+        <meta content="Einstein's Dreams" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

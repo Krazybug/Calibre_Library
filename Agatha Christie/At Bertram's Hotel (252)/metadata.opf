@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3b70c6f-8185-4c18-b8b5-4caa04741268</dc:identifier>
+        <dc:title>At Bertram's Hotel</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;An old-fashioned London hotel is not quite as reputable as it makes out to be.…&lt;/p&gt;&lt;p&gt;When Miss Marple comes up from the country for a holiday in London, she finds what she’s looking for at Bertram’s Hotel: traditional decor, impeccable service, and an unmistakable atmosphere of danger behind the highly polished veneer. Yet, not even Miss Marple can foresee the violent chain of events set in motion when an eccentric guest makes his way to the airport on the wrong day.…&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Lots of people have underestimated Miss Marple, and they’re always wrong.” (J. A. Jance, New York Times bestselling author )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A joy to read from beginning to end, especially in its acute sensitivity to the contrasts between this era and that of Miss Marple’s youth.” (New York Times )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Miss Christie’s pearly talent for dealing with all the words and pomps that go with murder English-style shimmers steadily in this tale of the noisy woe that shatters the extremely expensive peace of Bertram’s famously old-fashioned hotel.” (New Yorker ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073693</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073699</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC10P2</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/at-bertrams-hotel-agatha-christie/1100616044</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Miss Marple" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-01-31T15:38:40+00:00" name="calibre:timestamp"/>
+        <meta content="At Bertram's Hotel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

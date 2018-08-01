@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43d86356-54f0-4dbf-af91-bc20c4b4ed18</dc:identifier>
+        <dc:title>Principles: Life and Work</dc:title>
+        <dc:creator opf:file-as="Dalio, Ray" opf:role="aut">Ray Dalio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-18T18:30:00+00:00</dc:date>
+        <dc:publisher>SIMON &amp; SCHUSTER</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B071CTK28D</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ray Dalio&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-26T08:48:24+00:00" name="calibre:timestamp"/>
+        <meta content="Principles: Life and Work" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

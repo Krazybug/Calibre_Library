@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3d687d9-b27b-4358-be4d-a75292521d58</dc:identifier>
+        <dc:title>The Clocks: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks. Time is ticking away for a murderer in Christie’s classic, &lt;em&gt;The Clocks&lt;/em&gt;, as Poirot investigates the strange case of a corpse surrounded by numerous timepieces in a blind woman’s house.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Hercule Poirot is one of those rare fictional characters who came to shape my thinking as both a lawyer and a crime novelist.” (James Grippando, New York Times bestselling author of the Jack Swyteck Novels )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Here is the grand-manner detective story in all its glory.” (New York Times Book Review )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Christie addicts will cherish this book. Total absorption is guaranteed.” (Sunday Times (London) ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Sheila Webb expected to find a respectable blind lady waiting for her at 19 Wilbraham Crescent—not the body of a middle-aged man sprawled across the living room floor. But when old Miss Pebmarsh denies sending for her in the first place, or of owning all the clocks that surround the body, it’s clear that they are going to need a very good detective.&lt;/p&gt;&lt;p&gt;“This crime is so complicated that it must be quite simple,” declares Hercule Poirot. But there’s a murderer on the loose, and time is ticking away.…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073815</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073818</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC2IYY</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="32" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T17:56:23+00:00" name="calibre:timestamp"/>
+        <meta content="Clocks: A Hercule Poirot Mystery, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

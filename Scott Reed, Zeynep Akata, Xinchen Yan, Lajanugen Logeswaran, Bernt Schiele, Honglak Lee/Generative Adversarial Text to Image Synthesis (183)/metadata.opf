@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63601e5c-2e00-484e-aa32-06635419a293</dc:identifier>
+        <dc:title>Generative Adversarial Text to Image Synthesis</dc:title>
+        <dc:creator opf:file-as="Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee" opf:role="aut">Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Proceedings of the International Conference on Machine Learning 2016</dc:subject>
+        <dc:subject>GAN</dc:subject>
+        <dc:subject>image generation</dc:subject>
+        <dc:subject>vision and language</dc:subject>
+        <meta content="{&quot;Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:23:31.823938+00:00" name="calibre:timestamp"/>
+        <meta content="Generative Adversarial Text to Image Synthesis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

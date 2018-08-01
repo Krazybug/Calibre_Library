@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09519e13-bc6f-4b4c-bb68-f121d266ff59</dc:identifier>
+        <dc:title>The Under Dog and Other Stories</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to William Morrow Paperbacks. A dead heiress on a train, a murdered recluse, a wealthy playboy slain at a costume ball are but a few of the unfortunate victims of confounding crimes committed in the pages of Christie’s &lt;em&gt;The Under Dog and Other Stories,&lt;/em&gt; a superior collection of short mystery fiction all featuring Hercule Poirot as the investigator. &lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Reading a perfectly plotted Agatha Christie is like crunching into a perfect apple: that pure, crisp, absolute satisfaction.” (Tana French, &lt;em&gt;New York Times&lt;/em&gt; bestselling author of &lt;em&gt;In the Woods&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“It would take a remarkably alert reader to single out the murderer before the last page in each story.” (New Yorker ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;A beautiful heiress has been found dead on a train. A playboy has been stabbed through the heart during a costume ball. An elderly woman suspects that she is being slowly poisoned to death. A prince fears for his reputation when his fiancée is embroiled in another man's murder. A forgotten recluse makes headlines after he is shot in the head.&lt;/p&gt;&lt;p&gt;Who but Agatha Christie could concoct such canny crimes? Who but Belgian detective Hercule Poirot could possibly solve them? It's a challenge to be met—in a triumph of detection.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="EDELWEISS">0062094424</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">b9jJygAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062094421</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062094424</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008HSED5A</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/under-dog-and-other-stories-agatha-christie/1100818891</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13622133</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction / Mystery &amp; Detective</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="33.10" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-03-27T04:26:36+00:00" name="calibre:timestamp"/>
+        <meta content="Under Dog and Other Stories, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

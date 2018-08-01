@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1b1bcc5-985b-4a94-985a-ae69c93d280a</dc:identifier>
+        <dc:title>The Tale of Genji (unabridged)</dc:title>
+        <dc:creator opf:file-as="Murasaki, Shikibu" opf:role="aut">Shikibu Murasaki</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-26T22:00:00+00:00</dc:date>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00ZDGUYIE</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Shikibu Murasaki&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T03:37:20.862583+00:00" name="calibre:timestamp"/>
+        <meta content="Tale of Genji (unabridged), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

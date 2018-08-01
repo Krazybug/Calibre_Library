@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8c405d3-5d62-4010-ac4e-3a58c195211b</dc:identifier>
+        <dc:title>The Open Society And Its Enemies (1962)</dc:title>
+        <dc:creator opf:file-as="Popper, Karl R." opf:role="aut">Karl R. Popper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-04T20:09:51+00:00</dc:date>
+        <dc:description>Robby's eLibrary</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Robby's eLibrary</dc:subject>
+        <dc:subject>social sciences</dc:subject>
+        <meta content="{&quot;Karl R. Popper&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-23T12:01:48+00:00" name="calibre:timestamp"/>
+        <meta content="Open Society And Its Enemies (1962), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

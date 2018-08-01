@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c03db452-962e-4456-97d6-c098a4331ca3</dc:identifier>
+        <dc:title>Learning Python</dc:title>
+        <dc:creator opf:file-as="Lutz, Mark" opf:role="aut">Mark Lutz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-11T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz&amp;#8217;s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It&amp;#8217;s an ideal way to begin, whether you&amp;#8217;re new to programming or a professional developer versed in other languages.&lt;/p&gt;</dc:description>
+        <dc:publisher>O’Reilly Media</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Programming Languages / Python</dc:subject>
+        <meta content="{&quot;Mark Lutz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:32:43.117267+00:00" name="calibre:timestamp"/>
+        <meta content="Learning Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

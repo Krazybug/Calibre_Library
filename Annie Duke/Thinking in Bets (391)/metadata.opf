@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d666f9f8-2cfc-4434-80a9-e4d075f983b5</dc:identifier>
+        <dc:title>Thinking in Bets</dc:title>
+        <dc:creator opf:file-as="Duke, Annie" opf:role="aut">Annie Duke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Poker champion turned business consultant Annie Duke teaches you how to get comfortable with uncertainty and make better decisions as a result.&lt;/b&gt;&lt;br&gt;In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversial calls in football history: With 26 seconds remaining, and trailing by four at the Patriots' one-yard line, he called for a pass instead of a handing off to his star running back. The pass was intercepted and the Seahawks lost. Critics called it the dumbest play in history. But was the call really that bad? Or did Carroll actually make a great move that was ruined by bad luck?&lt;br/&gt;Even the best decision doesn't yield the best outcome every time. There's always an element of luck that you can't control, and there is always information that is hidden from view. So the key to long-term success (and avoiding worrying yourself to death) is to think in bets: How sure am I? What are the possible ways things could turn out? What decision has the highest...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Annie Duke&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-25T12:52:11.827416+00:00" name="calibre:timestamp"/>
+        <meta content="Thinking in Bets" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

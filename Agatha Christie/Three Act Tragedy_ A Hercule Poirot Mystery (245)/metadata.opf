@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43f6b16d-66cf-4fa1-84e0-a60c17b3f84a</dc:identifier>
+        <dc:title>Three Act Tragedy: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks. In her classic &lt;em&gt;Three Act Tragedy&lt;/em&gt;, the normally unflappable Poirot faces his most baffling investigation: the seemingly motiveless murder of the thirteenth guest at dinner party, who choked to death on a cocktail containing not a trace of poison.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“There has never been, and probably never will be, a P.I. more fun to observe and listen to, than Hercule Poirot.” (Joseph Wambaugh, &lt;em&gt;New York Times&lt;/em&gt; bestselling author )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Makes uncommonly good reading.” (New York Times )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Mrs. Christie at the top of her form.” (Dorothy L. Sayers, Sunday Times (London) ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Sir Charles Cartwright should have known better than to allow thirteen guests to sit down for dinner. For at the end of the evening one of them is dead—choked by a cocktail that contained no trace of poison.&lt;/p&gt;&lt;p&gt;Predictable, says Hercule Poirot, the great detective. But entirely unpredictable is that he can find absolutely no motive for murder.…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073839</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073834</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC146M</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-03-26T17:42:59+00:00" name="calibre:timestamp"/>
+        <meta content="Three Act Tragedy: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

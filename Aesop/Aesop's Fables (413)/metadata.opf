@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">721a5221-0019-4e83-81e5-a6df7eed48be</dc:identifier>
+        <dc:title>Aesop's Fables</dc:title>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Aesop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-04T12:57:54+00:00</dc:date>
+        <dc:description>9781434001467</dc:description>
+        <dc:publisher>Sony CONNECT Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Unread</dc:subject>
+        <meta content="{&quot;Aesop&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T12:59:28.114207+00:00" name="calibre:timestamp"/>
+        <meta content="Aesop's Fables" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

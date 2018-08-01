@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f305ddb-69e3-4b13-9822-32d6b53284dd</dc:identifier>
+        <dc:title>"Yellow Kid" Weil; the autobiography of America's master swindler</dc:title>
+        <dc:creator opf:file-as="Weil, Joseph R &amp; Brannon, William T" opf:role="aut">Weil, Joseph R</dc:creator>
+        <dc:creator opf:file-as="Weil, Joseph R &amp; Brannon, William T" opf:role="aut">Brannon, William T</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Chicago, Ziff-Davis Pub. Co.</dc:publisher>
+        <dc:identifier opf:scheme="ARK">ark:/13960/t1bk1hb3j</dc:identifier>
+        <dc:identifier opf:scheme="ACCESS URL">http://www.archive.org/details/yellowkidweilaut00weil</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Weil</dc:subject>
+        <dc:subject>Joe</dc:subject>
+        <dc:subject>Swindlers and swindling</dc:subject>
+        <meta content="{&quot;Weil, Joseph R&quot;: &quot;&quot;, &quot;Brannon, William T&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-29T12:04:02.787663+00:00" name="calibre:timestamp"/>
+        <meta content="Yellow Kid&quot; Weil; the autobiography of America's master swindler" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

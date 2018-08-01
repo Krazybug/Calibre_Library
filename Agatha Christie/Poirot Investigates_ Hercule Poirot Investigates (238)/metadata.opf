@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d045cbf7-128b-454c-ab95-f96ed130447c</dc:identifier>
+        <dc:title>Poirot Investigates: Hercule Poirot Investigates</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;First there was the mystery of the film star and the diamond . . . then came the 'suicide' that was murder . . . the mystery of the absurdly chaep flat . . . a suspicious death in a locked gun-room . . . a million dollar bond robbery . . . the curse of a pharoah's tomb . . . a jewel robbery by the sea . . . the abduction of a Prime Minister . . . the disappearance of a banker . . . a phone call from a dying man . . . and, finally, the mystery of the missing will. &lt;/p&gt;&lt;p&gt;What links these fascinating cases? Only the brilliant deductive powers of Hercule Poirot!&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Hercule Poirot taught me that ‘all that matters is the little grey cells within. Secretly and silently they do their part.’ No action sequence rivals Poirot using his intelligence and logic to solve a crime.” (M. J. Rose, international bestselling author ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;First there was the mystery of the film star and thediamond . . . then came the “suicide” that wasmurder . . . the mystery of the absurdly cheap flat . . .a suspicious death in a locked gun room . . . a milliondollarbond robbery . . . the curse of a pharaoh’stomb . . . a jewel robbery by the sea . . . theabduction of a prime minister . . . the disappearanceof a banker . . . a phone call from a dying man . . .and, finally, the mystery of the missing will.&lt;/p&gt;&lt;p&gt;What links these fascinating cases? Only the brilliantdeductive powers of Hercule Poirot!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061749605</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FCK9DG</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FCK9DG</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-03-26T17:32:52+00:00" name="calibre:timestamp"/>
+        <meta content="Poirot Investigates: Hercule Poirot Investigates" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

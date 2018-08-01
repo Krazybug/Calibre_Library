@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f474746-0ff5-47f8-b895-71ad5ce5b590</dc:identifier>
+        <dc:title>P.S., I Love You</dc:title>
+        <dc:creator opf:file-as="Ahern, Cecelia" opf:role="aut">Cecelia Ahern</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-29T22:00:00+00:00</dc:date>
+        <dc:publisher>Time Warner Book Group</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta content="{&quot;Cecelia Ahern&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:33:38.254858+00:00" name="calibre:timestamp"/>
+        <meta content="P.S., I Love You" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

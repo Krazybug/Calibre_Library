@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c7565ec-efe5-4210-ac98-9a519bcecd09</dc:identifier>
+        <dc:title>The Canterville Ghost</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1887-07-14T18:30:00+00:00</dc:date>
+        <dc:description>The Canterville Ghost is a popular 1887 novella by Oscar Wilde, widely adapted for the screen and stage.
+“The Canterville Ghost” is a parody featuring a dramatic spirit named Sir Simon and the United States minister (ambassador) to the Court of St. James's, Hiram B. Otis. Mr. Otis travels to England with his family and moves into a haunted country house. Lord Canterville, the previous owner of the house, warns Mr. Otis that the ghost of Sir Simon de Canterville has haunted it ever since he killed his wife, Eleonore, three centuries before. But Mr. Otis dismisses the ghost story as bunk and disregards Lord Canterville’s warnings. When the Otises learn that the house is indeed haunted, they succeed in victimizing the ghost and in disregarding age-old British traditions. What emerges is a satire of American materialism, a lampoon of traditional British values, and an amusing twist on the traditional gothic horror tale.</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn:uuid:27f090b0-3e73-11e4-83e2-4c72b9252ec6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.feedbooks.com/book/7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Occult &amp; Supernatural</dc:subject>
+        <dc:subject>Supernatural Creatures</dc:subject>
+        <dc:subject>Ghost</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <meta content="{&quot;Oscar Wilde&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:36:23.936886+00:00" name="calibre:timestamp"/>
+        <meta content="Canterville Ghost, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

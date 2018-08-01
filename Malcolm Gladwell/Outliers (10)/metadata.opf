@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">151eec06-5e02-485d-9941-9febbb58e31b</dc:identifier>
+        <dc:title>Outliers</dc:title>
+        <dc:creator opf:file-as="Gladwell, Malcolm" opf:role="aut">Malcolm Gladwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;There is a story that is usually told about extremely successful people, a story that focuses on intelligence and ambition. Gladwell argues that the true story of success is very different, and that if we want to understand how some people thrive, we should spend more time looking &lt;i&gt;around&lt;/i&gt; them-at such things as their family, their birthplace, or even their birth date. And in revealing that hidden logic, Gladwell presents a fascinating and provocative blueprint for making the most of human potential.&lt;br&gt;&lt;br&gt;In &lt;i&gt;The Tipping Point&lt;/i&gt; Gladwell changed the way we understand the world. In &lt;i&gt;Blink&lt;/i&gt; he changed the way we think about thinking. In OUTLIERS he transforms the way we understand success.</dc:description>
+        <dc:publisher>Little, Brown and Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316040341</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">1703c223-b9a9-479d-a9e5-671eebd8bb4d</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Malcolm Gladwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-25T12:58:00+00:00" name="calibre:timestamp"/>
+        <meta content="Outliers" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

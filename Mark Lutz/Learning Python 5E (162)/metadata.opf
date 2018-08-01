@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a17734ca-5655-48ab-a6ca-031a60a601c2</dc:identifier>
+        <dc:title>Learning Python 5E</dc:title>
+        <dc:creator opf:file-as="Lutz, Mark" opf:role="aut">Mark Lutz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-11T18:09:22+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>IT eBooks</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <meta content="{&quot;Mark Lutz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:23:02.265160+00:00" name="calibre:timestamp"/>
+        <meta content="Learning Python 5E" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

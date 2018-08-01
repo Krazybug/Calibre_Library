@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b16e775-2856-4291-937d-e7e6bbd4492c</dc:identifier>
+        <dc:title>Between Parentheses: Essays, Articles and Speeches, 1998-2003</dc:title>
+        <dc:creator opf:file-as="Bolaño, Roberto" opf:role="aut">Bolaño, Roberto</dc:creator>
+        <dc:creator opf:file-as="Bolaño, Roberto" opf:role="aut">Echevarria, Ignacio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-01T04:00:00+00:00</dc:date>
+        <dc:publisher>Norton</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007R9CG68</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Bolaño, Roberto&quot;: &quot;&quot;, &quot;Echevarria, Ignacio&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:33:58.019821+00:00" name="calibre:timestamp"/>
+        <meta content="Between Parentheses: Essays, Articles and Speeches, 1998-2003" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

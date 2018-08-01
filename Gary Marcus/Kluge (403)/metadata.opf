@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d7144e0-e922-4f1c-a5d6-1842da145c35</dc:identifier>
+        <dc:title>Kluge</dc:title>
+        <dc:creator opf:file-as="Marcus, Gary" opf:role="aut">Gary Marcus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-07T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;How is it that we can recognize photos from our high school yearbook decades later, but cannot remember what we ate for breakfast yesterday? And why are we inclined to buy more cans of soup if the sign says "LIMIT 12 PER CUSTOMER" rather than "LIMIT 4 PER CUSTOMER?" In &lt;i&gt;Kluge, &lt;/i&gt;Gary Marcus argues convincingly that our minds are not as elegantly designed as we may believe. The imperfections result from a haphazard evolutionary process that often proceeds by piling new systems on top of old ones—and those systems don't always work well together. The end product is a "kluge," a clumsy, cobbled-together contraption. Taking us on a tour of the essential areas of human experience—memory, belief, decision making, language, and happiness—Marcus unveils a fundamentally new way of looking at the evolution of the human mind and simultaneously sheds light on some of the most mysterious aspects of human nature.&lt;/p&gt;</dc:description>
+        <dc:publisher>Mariner Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003JTHWQ4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Itzy</dc:subject>
+        <dc:subject>Kickass.to</dc:subject>
+        <meta content="{&quot;Gary Marcus&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-29T12:04:05.646555+00:00" name="calibre:timestamp"/>
+        <meta content="Kluge" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df5cb0e0-fe18-4a98-b1aa-3b4a18789238</dc:identifier>
+        <dc:title>Death Comes as the End</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-13T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to William Morrow Paperbacks. In &lt;em&gt;Death Comes As the End&lt;/em&gt;, Dame Agatha transports us back to ancient Egypt 2000 B.C. where a priest’s daughter, investigating a suspicious death, uncovers an asp’s nest of jealousy, betrayal, and serial murder.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie was the absolute master of misdirection. No matter how logical we think we’re being when we read her, she always manages to send us swimming after her red herrings while ignoring that huge whale in the corner of the tank.” (Margaret Maron, award-winning author of the Deborah Knott Mysteries )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Startlingly new....My admiration for her leaps even higher.” (Observer (London) ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;It is Egypt in 2000 BC, where death gives meaning to life. At the foot of a cliff lies the broken, twisted body of Nofret, concubine to a ka-priest. Young, beautiful, and venomous, most agree that it was fate—she deserved to die like a snake!&lt;/p&gt;&lt;p&gt;But at her father's house on the banks of the Nile, the priest's daughter Renisenb believes that the woman's death is suspicious. Increasingly, she becomes convinced that the source of evil lurks within their household—and watches helplessly as the family's passions explode in murder. . . .&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062074133</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">006207413X</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003A7I2MS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-27T22:14:28+00:00" name="calibre:timestamp"/>
+        <meta content="Death Comes as the End" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

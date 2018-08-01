@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68287c57-03b5-48c7-9f63-5ca9f4f1168c</dc:identifier>
+        <dc:title>The Courage to Be Disliked</dc:title>
+        <dc:creator opf:file-as="Kishimi, Ichiro &amp; Koga, Fumitake" opf:role="aut">Ichiro Kishimi</dc:creator>
+        <dc:creator opf:file-as="Kishimi, Ichiro &amp; Koga, Fumitake" opf:role="aut">Fumitake Koga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;i&gt;The Courage to Be Disliked&lt;/i&gt;, already an enormous bestseller in Asia with more than 3.5 million copies sold, demonstrates how to unlock the power within yourself to be the person you truly want to be.&lt;BR&gt;Using the theories of Alfred Adler, one of the three giants of twentieth century psychology, &lt;i&gt;The Courage to Be Disliked&lt;/i&gt; follows an illuminating conversation between a philosopher and a young man. The philosopher explains to his pupil how each of us is able to determine our own life, free from the shackles of past experiences, doubts, and the expectations of others. It's a way of thinking that is deeply liberating, allowing us to develop the courage to change, and to ignore the limitations that we and other people have placed on us. The result is a book that is both highly accessible and profound in its importance. Millions have already read and benefitted from its wisdom. This truly life-changing book will help you declutter your mind of harmful thoughts and attitudes,...</dc:description>
+        <dc:publisher>Atria Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ichiro Kishimi&quot;: &quot;&quot;, &quot;Fumitake Koga&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:24:00.061960+00:00" name="calibre:timestamp"/>
+        <meta content="Courage to Be Disliked, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

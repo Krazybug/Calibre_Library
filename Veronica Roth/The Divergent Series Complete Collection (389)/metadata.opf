@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5eab209-c1a4-4697-93fc-10ef408d3347</dc:identifier>
+        <dc:title>The Divergent Series Complete Collection</dc:title>
+        <dc:creator opf:file-as="Roth, Veronica" opf:role="aut">Veronica Roth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;All three books in the #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling Divergent trilogy are available together for the first time! Perfect for gift givers, collectors, and fans new to the series, the collection includes &lt;em&gt;Divergent&lt;/em&gt;, &lt;em&gt;Insurgent&lt;/em&gt;, and &lt;em&gt;Allegiant&lt;/em&gt;, as well as bonus content: a 48-page guide to the series, including Faction Manifestos, a Faction Quiz and Results, a Q&amp;amp;A with Veronica Roth, playlists, discussion questions, series inspirations, and much more!&lt;/p&gt;&lt;p&gt;&lt;em&gt;Divergent&lt;/em&gt;: One choice can transform you. Veronica Roth's #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling debut is a gripping dystopian tale of electrifying choices, powerful consequences, unexpected romance, and a deeply flawed "perfect society."&lt;/p&gt;&lt;p&gt;&lt;em&gt;Insurgent&lt;/em&gt;: One choice can destroy you. Veronica Roth's second #1 &lt;em&gt;New York Times&lt;/em&gt; bestseller continues the dystopian thrill ride. As war surges in the factions all around her, Tris attempts to save those she loves—and herself—while grappling with haunting questions of grief and forgiveness, identity and loyalty, politics and love.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Allegiant&lt;/em&gt;: The explosive conclusion to Veronica Roth's #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling Divergent trilogy reveals the secrets of the dystopian world that has captivated millions of readers.&lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;All three books in the #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling Divergent trilogy are available boxed together for the first time! Perfect for gift givers, collectors, and fans new to the series, the box set includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A specially designed slipcase&lt;/li&gt;&lt;li&gt;Hardcover editions of Divergent, Insurgent, and Divergent #3&lt;/li&gt;&lt;li&gt;Bonus booklet! "The World of Veronica Roth's Divergent Series," a forty-eight-page booklet including Faction Manifestos, a Faction Quiz and Results, a Q&amp;amp;A with Veronica Roth, playlists, discussion questions, series inspirations, and much more!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Divergent&lt;/em&gt;: One choice can transform you. Veronica Roth's #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling debut is a gripping dystopian tale of electrifying choices, powerful consequences, unexpected romance, and a deeply flawed "perfect society."&lt;/p&gt;&lt;p&gt;&lt;em&gt;Insurgent&lt;/em&gt;: One choice can destroy you. Veronica Roth's second #1 &lt;em&gt;New York Times&lt;/em&gt; bestseller continues the dystopian thrill ride. As war surges in the factions all around her, Tris attempts to save those she loves—and herself—while grappling with haunting questions of grief and forgiveness, identity and loyalty, politics and love.&lt;/p&gt;&lt;p&gt;Divergent #3: The explosive conclusion to Veronica Roth's #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling Divergent trilogy reveals the secrets of the dystopian world that has captivated millions of readers in &lt;em&gt;Divergent&lt;/em&gt; and *Insurgent. *&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Veronica Roth is the #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author of &lt;em&gt;Divergent&lt;/em&gt; and &lt;em&gt;Insurgent&lt;/em&gt;, the first two books in the Divergent trilogy. Now a full-time writer, Ms. Roth and her husband live in Chicago. You can visit her online at Twitter, Tumblr, her blog, and her website.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Katherine Tegen Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00BW3AY64</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00BW3AY64</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teen &amp; Young Adult</dc:subject>
+        <dc:subject>Love &amp; Romance</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="{&quot;Veronica Roth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2018-07-12T09:36:26.848223+00:00" name="calibre:timestamp"/>
+        <meta content="Divergent Series Complete Collection, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

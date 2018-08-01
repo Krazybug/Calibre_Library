@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e44435d3-5029-45db-9c02-a7aa5d1c879e</dc:identifier>
+        <dc:title>Joy on Demand</dc:title>
+        <dc:creator opf:file-as="Tan, Chade-Meng" opf:role="aut">Chade-Meng Tan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A long-awaited follow-up to the New York Times bestselling Search Inside Yourself shows us how to cultivate joy within the context of our fast-paced lives and explains why it is critical to creativity, innovation, confidence, and ultimately success in every arena.&lt;/p&gt;&lt;p&gt;In Joy on Demand, Chade-Meng Tan shows that you don't need to meditate for hours, days, months or years to achieve lasting joy&amp;#8212;you can actually get consistent access to it in as little as fifteen seconds. Explaining joy and meditation as complementary things that naturally reinforce each other, Meng explains how these two skills form a virtuous cycle, and once put into motion, become a solid practice that can be sustained in daily life.&lt;/p&gt;&lt;p&gt;For many years, meditation has been taught and practiced in cultures where almost all meditators practice full-time for years, resulting in training programs optimized for practitioners with lots of free time and not much else to do but develop profound mastery over...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Chade-Meng Tan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T08:27:45+00:00" name="calibre:timestamp"/>
+        <meta content="Joy on Demand" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

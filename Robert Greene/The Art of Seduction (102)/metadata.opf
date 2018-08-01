@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecbfe086-ae19-4992-b562-5aa61689579e</dc:identifier>
+        <dc:title>The Art of Seduction</dc:title>
+        <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-12T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This mesmerizing exploration of the most subtle, elusive, and effective form of power is a masterful analysis of civilization's greatest seducers, from Cleopatra to JFK, as well as the classic literature of seduction from Freud to Kierkegaard and Ovid to Casanova. Robert Greene once again identifies the rules of a timeless, amoral game and explores how to cast a spell, break down resistance, and, ultimately, compel a target to surrender. Presenting the timeless profiles of each type of seducer and the twenty-four maneuvers that will guide you step by step in the game of seduction, &lt;i&gt;The Art of Seduction&lt;/i&gt; is an indispensable primer of persuasion that reveals the timeless power of this age-old art.&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin USA, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b730f3a6-af52-4da9-a12c-a6cab7e7c38f</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robert Greene&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-02T08:15:38+00:00" name="calibre:timestamp"/>
+        <meta content="Art of Seduction, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

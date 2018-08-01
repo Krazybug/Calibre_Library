@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">392</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2beed16-36d5-425a-8c21-d773fc3ef80d</dc:identifier>
+        <dc:title>Nietzsche: The Birth of Tragedy and Other Writings (Cambridge Texts in the History of Philosophy)</dc:title>
+        <dc:creator opf:file-as="Nietzsche, Friedrich" opf:role="aut">Friedrich Nietzsche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T11:16:27+00:00</dc:date>
+        <dc:description>Cambridge University Press</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780521630160</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>9780521630160</dc:subject>
+        <dc:subject>9780521639873</dc:subject>
+        <dc:subject>0521630169</dc:subject>
+        <dc:subject>0521639875</dc:subject>
+        <meta content="{&quot;Friedrich Nietzsche&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-25T12:52:17.262294+00:00" name="calibre:timestamp"/>
+        <meta content="Nietzsche: The Birth of Tragedy and Other Writings (Cambridge Texts in the History of Philosophy)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bac8a88-b979-405a-9d5a-ba93d224f759</dc:identifier>
+        <dc:title>A Pocket Full of Rye</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Rex Fortescue, king of a financial empire, was sipping tea in his “counting house” when he suffered an agonizing and sudden death. On later inspection, the pockets of the deceased were found to contain traces of cereals.&lt;/p&gt;&lt;p&gt;Yet, it was the incident in the parlor which confirmed Miss Marple’s suspicion that here she was looking at a case of crime by rhyme. . . .&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;It hardly seems possible for anyone to best Hugh Fraser's savvy audio performance of Christie's Hickory Dickory Dock, but Rosalind Ayres produces an amazing range of voices and accents to create her own one-woman full-cast audio book. After the death by poisoning of wealthy Rex Fortescue, others in the household are murdered in ways that mimic a Mother Goose rhyme. Ayres's Miss Marple is well-mannered, polite and even diffident. Ayres seems to be mocking stereotypes of British accents. Percival, the elder son, is stuffy and nasally clogged. Lancelot, the younger son, is ironic and cavalier. Ayres can slip effortlessly from one accent to another, as when the lofty voice of Rex's secretary collapses into the low-class accent of an East Ender after she discovers her boss's body. The greatest mystery in this 1953 novel is why any mid-century father would name his children Lancelot and Percival. Though the story lacks action and enough Jane Marple for Ayres to develop, her performance is a delightful romp for any Christie fan. &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie was the absolute master of misdirection. No matter how logical we think we’re being when we read her, she always manages to send us swimming after her red herrings while ignoring that huge whale in the corner of the tank.” (Margaret Maron, award-winning author of the Deborah Knott Mysteries )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“This is the best of the novels starring Christie’s Miss Marple.” (New York Times )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A model of complex skulduggery.” (New Yorker )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Ingenious.” (Times Literary Supplement (London) ) &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073655</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073656</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00512KUBQ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/pocket-full-of-rye-agatha-christie/1100152970</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Miss Marple" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-01-31T15:29:03+00:00" name="calibre:timestamp"/>
+        <meta content="Pocket Full of Rye, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

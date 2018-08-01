@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d391246-2139-4eb2-9c39-006a4ce97d80</dc:identifier>
+        <dc:title>The Mysterious Affair at Styles</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1920-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Christie s first published novel, The Mysterious Affair at Styles is notable for introducing many of the character types, plot twists, and red herrings that would become commonplace during the Golden Age of Detective Fiction. Set in a remote country manor with a small handful of suspects, The Mysterious Affair at Styles is the quintessential detective story and remains one of the most significant literary works in the mystery genre.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;This excellent audio production is recommended for discriminating listeners seeking quality audio additions to home libraries. Agatha Christie's tale presents master detective Hercule Poirot, who faces a Sherlock Holmes-style mystery complete with numerous suspects, a myriad of seemingly different clues, and real intrigue. Stan Winiarski's voice lends high drama and tension to this riveting story. --&lt;em&gt;Midwest Book Review&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From the Inside Flap&lt;/h3&gt;&lt;p&gt;Who poisoned the wealthy Emily Inglethorpe, and how did the murderer penetrate and escape from her locked bedroom? Sus-pects abound in the quaint village of Styles St. Mary?from the heiress?s fawning new husband to her two stepsons, her volatile housekeeper, and a pretty nurse who works in a hospital dispensary. Making his unforgettable debut, the brilliant Belgian detective Hercule Poirot is on the case. &lt;br&gt;?The key to the success of this style of detective novel,? writes Elizabeth George in her Introduction, ?lies in how the author deals with both the clues and the red herrings, and it has to be said that no one bettered Agatha Christie at this game.? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Empire Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781619493728</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1434404374</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00BXVGMKW</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/mysterious-affair-at-styles</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">16343</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T16:41:46+00:00" name="calibre:timestamp"/>
+        <meta content="Mysterious Affair at Styles, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

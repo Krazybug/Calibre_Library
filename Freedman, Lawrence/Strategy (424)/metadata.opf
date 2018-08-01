@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d07beba-67f5-4f34-933b-f562e78e78b5</dc:identifier>
+        <dc:title>Strategy</dc:title>
+        <dc:creator opf:file-as="Freedman, Lawrence" opf:role="aut">Freedman, Lawrence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Oxford University Press, USA</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Freedman, Lawrence&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T13:00:03.120945+00:00" name="calibre:timestamp"/>
+        <meta content="Strategy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

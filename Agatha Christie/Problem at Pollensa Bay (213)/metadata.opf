@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f52df9c-3ab1-4a18-85fd-bd4934407f62</dc:identifier>
+        <dc:title>Problem at Pollensa Bay</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;A collection of short stories featuring some of Agatha Christie's best-loved detectives -- Hercule Poirot, Parker Pyne, Mr Satterthwaite and Harley Quin! All great crime writers have their favourite creations. Similarly, every great sleuth has his own preferred method of deduction. Take the charming Parker Pyne, who relies upon an intuitive knowledge of human nature to solve the Problem at Pollensa Bay. Or Mr Satterthwaite, who seeks inspiration through his collaboration with the enigmatic Mr Quin in The Harlequin Tea Set mystery. Then, of course, there's Poirot, whose measured analysis of motive and opportunity is tested to the full in Yellow Iris, when he receives an anonymous call about a matter of life and death.&lt;/p&gt;&lt;h3&gt;From Library Journal&lt;/h3&gt;&lt;p&gt;Dame Agatha Christie's prolific output of novels, short stories, and plays have sold more than 400 million copies and have been translated into 103 languages. Only the Bible and works by Shakespeare have outdistanced her. Problems at Pollensa Bay &amp;amp; Other Stories provides a delightful addition to this vast body of writing by "the mistress of mystery." Though these eight stories are not new, several are less well known, and this audiobook represents an exciting renewal of one of the world's most popular authors. "The Harlequin Tea Set," thought to be Dame Agatha's last short story, is a tale of mistaken identity and features Mr. Saterthwaite and Harley Quin, who also appear together in "The Love Detectives," a little-known story about a messy love triangle. Mr. Parker Pyne, Christie's goverment statistician turned detective, is called upon to save a love-struck young man in the title story. Also included is a mystery involving the eccentric and slightly pompous Hercule Poirot. The audiobook is narrated by Jonathan Cecil, whose superb vocal adaptations greatly enhance Dame Agatha's work. This is an excellent production, highly entertaining, and a most worthwhile purchase for any library.?Gretchen Browne, Rockville Centre P.L., &lt;br&gt;Copyright 1995 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;‘The acknowledged queen of detective fiction’Observer &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Fontana</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0002239221</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">N1vGQgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780006472421</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/problem-at-pollensa-bay</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">735107</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Detective and Mystery Stories</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Crime &amp; mystery</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Detective and Mystery Stories; English</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2012-07-02T00:44:22+00:00" name="calibre:timestamp"/>
+        <meta content="Problem at Pollensa Bay" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

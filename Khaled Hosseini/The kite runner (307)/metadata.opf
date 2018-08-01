@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37d42f31-0d77-4c0b-9383-9beabe1acf61</dc:identifier>
+        <dc:title>The kite runner</dc:title>
+        <dc:creator opf:file-as="Hosseini, Khaled" opf:role="aut">Khaled Hosseini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+An epic tale of fathers and sons, of friendship and betrayal, that takes us from Afghanistan in the final days of the monarchy to the atrocities of the present. The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father's servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed. It is about the power of reading, the price of betrayal, and the possibility of redemption, and it is also about the power of fathers over sons-their love, their sacrifices, their lies.</dc:description>
+        <dc:publisher>Riverhead Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594480003</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction - General</dc:subject>
+        <dc:subject>Social classes</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Coming of age</dc:subject>
+        <dc:subject>Male friendship</dc:subject>
+        <dc:subject>Boys</dc:subject>
+        <dc:subject>Afghanistan</dc:subject>
+        <dc:subject>Kabul (Afghanistan)</dc:subject>
+        <dc:subject>Betrayal</dc:subject>
+        <dc:subject>Kābol (Afghanistan)</dc:subject>
+        <meta content="{&quot;Khaled Hosseini&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-07-12T09:32:26.889276+00:00" name="calibre:timestamp"/>
+        <meta content="kite runner, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

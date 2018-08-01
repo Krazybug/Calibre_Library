@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7803c224-1551-4cba-abca-23861f1b2432</dc:identifier>
+        <dc:title>The Book of Why</dc:title>
+        <dc:creator opf:file-as="PEARL, JUDEA / MACKENZIE, DANA" opf:role="aut">Judea Pearl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;A Turing Prize-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence&lt;/b&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;p&gt;"Correlation is not causation." This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality&amp;#8212;the study of cause and effect&amp;#8212;on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to...</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Judea Pearl&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-21T19:42:20+00:00" name="calibre:timestamp"/>
+        <meta content="Book of Why, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

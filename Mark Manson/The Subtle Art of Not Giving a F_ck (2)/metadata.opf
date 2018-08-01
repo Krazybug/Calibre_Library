@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71953f4d-6973-43b0-8646-e84e53e18942</dc:identifier>
+        <dc:title>The Subtle Art of Not Giving a F*ck</dc:title>
+        <dc:creator opf:file-as="Manson, Mark" opf:role="aut">Mark Manson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be "positive" all the time so that we can truly become better, happier people.&lt;/p&gt;&lt;p&gt;For decades, we've been told that positive thinking is the key to a happy, rich life. "F**k positivity," Mark Manson says. "Let's be honest, shit is f**ked and we have to live with it." In his wildly popular Internet blog, Mason doesn't sugarcoat or equivocate. He tells it like it is&amp;#8212;a dose of raw, refreshing, honest truth that is sorely lacking today. The Subtle Art of Not Giving a F**k is his antidote to the coddling, let's-all-feel-good mindset that has infected American society and spoiled a generation, rewarding them with gold medals just for showing up. &lt;/p&gt;&lt;p&gt;Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mark Manson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-11T13:53:25+00:00" name="calibre:timestamp"/>
+        <meta content="Subtle Art of Not Giving a F*ck, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

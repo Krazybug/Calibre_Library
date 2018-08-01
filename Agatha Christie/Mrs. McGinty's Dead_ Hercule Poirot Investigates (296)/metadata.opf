@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bce4cf39-b9fd-4425-a5ba-9a8e26cbae2b</dc:identifier>
+        <dc:title>Mrs. McGinty's Dead: Hercule Poirot Investigates</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Well, it's no wonder. The plot-suspicion for an elderly woman's murder falls on her mysterious lodger-is from Agatha Christie. The wonderful character happens to be the world's most famous sleuth, Hercule Poirot.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“The best Poirot since such prewar classics as &lt;em&gt;Cards on the Table&lt;/em&gt;.” (&lt;em&gt;New York Times&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The plot is perfect and the characters are wonderful.” (&lt;em&gt;San Francisco Chronicle&lt;/em&gt; ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Mrs. McGinty died from a brutal blow to the back of her head. Suspicion falls immediately on her shifty lodger, James Bentley, whose clothes reveal traces of the victim’s blood and hair. Yet something is amiss: Bentley just doesn’t seem like a murderer.&lt;/p&gt;&lt;p&gt;Could the answer lie in an article clipped from a newspaper two days before the death? With a desperate killer still free, Hercule Poirot will have to stay alive long enough to find out. . . .&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0062074083</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FC2RSG</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC2RSG</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="27" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T18:04:02+00:00" name="calibre:timestamp"/>
+        <meta content="Mrs. McGinty's Dead: Hercule Poirot Investigates" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

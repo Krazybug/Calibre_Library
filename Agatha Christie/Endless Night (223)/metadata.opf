@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7d0c22b-4495-40db-a518-60c59ab726fd</dc:identifier>
+        <dc:title>Endless Night</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1967-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks…including one of her own ten favorite novels, the classic thriller &lt;em&gt;Endless Night.&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“One of the best things Agatha Christie has ever done.” (Sunday Times (London) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“I suffer nostalgia for the world of Agatha Christie as I remember it.” (Gregory Maguire, New York Times bestselling author of Wicked ) &lt;/p&gt;&lt;h3&gt;Language Notes&lt;/h3&gt;&lt;p&gt;Text: English, Spanish, German (translation) &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007151677</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B009F76QHK</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005CL8DPQ</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/endless-night</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">16366</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-03-27T22:23:01+00:00" name="calibre:timestamp"/>
+        <meta content="Endless Night" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

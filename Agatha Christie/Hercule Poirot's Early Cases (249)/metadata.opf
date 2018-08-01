@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b12d0e2-8906-4cf6-a468-08a2793ab827</dc:identifier>
+        <dc:title>Hercule Poirot's Early Cases</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1957-01-02T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Poirot's Early Cases was published in 1974. It includes the following short stories: The Affair at the Victory Ball, The Adventure of the Clapham Cook, The Cornish Mystery, The Adventure of Johnnie Waverly, The Double Clue, The Adventure of the King of Clubs, The LeMesurier Inheritance, The Lost Mine, The Plymouth Express, The Chocolate Box, The Submarine Plans, Third Floor Flat, Double Sin, The Market Basing Mystery, Wasp's Nest, The Veiled Lady, Problem at Sea and How Does Your Garden Grow?.&lt;/p&gt;</dc:description>
+        <dc:publisher>Dodd Mead</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0396070213</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DngBAAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780396070214</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/hercule-poirots-early-cases-agatha-christie/1001604502</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">1125985</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Detective and Mystery Stories</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Mystery Fiction</dc:subject>
+        <dc:subject>Private Investigators</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Traditional British</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Detective and Mystery Stories; English</dc:subject>
+        <dc:subject>Private Investigators - England - Fiction</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="38" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2012-07-02T02:49:27+00:00" name="calibre:timestamp"/>
+        <meta content="Hercule Poirot's Early Cases" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

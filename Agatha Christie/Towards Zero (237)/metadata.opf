@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11f86a24-2a22-44bf-85f0-79d61e7a3770</dc:identifier>
+        <dc:title>Towards Zero</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1944-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Lady Tressilian, an old and humourless woman confined to her bed, invites several guests into her seaside home of Gull's Point for two weeks at the end of the summer. Tennis star Nevile Strange, former ward of Lady Tressilian's deceased husband, incurs her displeasure by bringing his new wife, Kay, and his ex, Audrey, under her roof together, thus causing awkward romantic misunderstandings. But events soon turn when Lady Tressilian is killed and Superintendent Battle, who is vacationing nearby in the home of his nephew, Inspector James Leach, finds himself in a labyrinthine maze of clues and deception.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007136803</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B005CL8DA6</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005CL8DA6</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/towards-zero</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/towards-zero-agatha-christie/1100154451</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">16351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Superintendent Battle" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-02-08T17:10:53+00:00" name="calibre:timestamp"/>
+        <meta content="Towards Zero" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

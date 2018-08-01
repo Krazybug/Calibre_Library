@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">837f918c-2e28-46a9-ae14-9e11ee7182be</dc:identifier>
+        <dc:title>Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships</dc:title>
+        <dc:creator opf:file-as="Ryan, Christopher &amp; Jetha, Cacilda" opf:role="aut">Christopher Ryan</dc:creator>
+        <dc:creator opf:file-as="Ryan, Christopher &amp; Jetha, Cacilda" opf:role="aut">Cacilda Jetha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Since Darwin's day, we've been told that sexual monogamy comes naturally to our species. Mainstream science—as well as religious and cultural institutions—has maintained that men and women evolved in families in which a man's possessions and protection were exchanged for a woman's fertility and fidelity. But this narrative is collapsing. Fewer and fewer couples are getting married, and divorce rates keep climbing as adultery and flagging libido drag down even seemingly solid marriages.&lt;/p&gt;&lt;p&gt;How can reality be reconciled with the accepted narrative? It can't be, according to renegade thinkers Christopher Ryan and Cacilda Jethå. While debunking almost everything we "know" about sex, they offer a bold alternative explanation in this provocative and brilliant book.&lt;/p&gt;&lt;p&gt;Ryan and Jethå's central contention is that human beings evolved in egalitarian groups that shared food, child care, and, often, sexual partners. Weaving together convergent, frequently overlooked evidence from anthropology, archaeology, primatology, anatomy, and psychosexuality, the authors show how far from human nature monogamy really is. Human beings everywhere and in every era have confronted the same familiar, intimate situations in surprisingly different ways. The authors expose the ancient roots of human sexuality while pointing toward a more optimistic future illuminated by our innate capacities for love, cooperation, and generosity.&lt;/p&gt;&lt;p&gt;With intelligence, humor, and wonder, Ryan and Jethå show how our promiscuous past haunts our struggles over monogamy, sexual orientation, and family dynamics. They explore why long-term fidelity can be so difficult for so many; why sexual passion tends to fade even as love deepens; why many middle-aged men risk everything for transient affairs with younger women; why homosexuality persists in the face of standard evolutionary logic; and what the human body reveals about the prehistoric origins of modern sexuality. &lt;/p&gt;&lt;p&gt;In the tradition of the best historical and scientific writing, &lt;em&gt;Sex at Dawn&lt;/em&gt; unapologetically upends unwarranted assumptions and unfounded conclusions while offering a revolutionary understanding of why we live and love as we do.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“You clearly have an exciting book on your hands, whether people agree with it or not: these are issues that will need debating over and over before we will arrive at a resolution.” &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Funny, witty, and light ... Sex at Dawn is a scandal in the best sense, one that will have you reading the best parts aloud and reassessing your ideas about humanity's basic urges well after the book is done."--Newsweek &lt;/p&gt;</dc:description>
+        <dc:publisher>Harper Perennial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007679QTG</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0061707805</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Cacilda Jetha&quot;: &quot;&quot;, &quot;Christopher Ryan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T08:27:38+00:00" name="calibre:timestamp"/>
+        <meta content="Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

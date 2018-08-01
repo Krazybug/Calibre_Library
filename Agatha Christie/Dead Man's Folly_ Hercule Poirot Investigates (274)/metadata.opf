@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">458aa605-c29f-4d5c-8461-0ab1f9c036fe</dc:identifier>
+        <dc:title>Dead Man's Folly: Hercule Poirot Investigates</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-05T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Whilst organising a mock murder hunt for the village fete hosted by Sir George and Lady Stubbs, a feeling of dread settles on the famous crime novelist Adriane Oliver. Call it instinct, but it's a feeling she just can't explain...or get away from. &lt;/p&gt;&lt;p&gt;In desperation she summons her old friend, Hercule Poirot -- and her instincts are soon proved correct when the 'pretend' murder victim is discovered playing the scene for real, a rope wrapped tightly around her neck.&lt;/p&gt;&lt;p&gt;But it's the great detective who first discovers that in murder hunts, whether mock or real, everyone is playing a part.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'The infallibly original Agatha Christie has come up, once again, with a new and highly ingenious puzzle-construction.' New York Times 'The solution is of the colossal ingenuity we have been conditioned to expect.' Times Literary Supplement &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'The infallibly original Agatha Christie has come up, once again, with a new and highly ingenious puzzle-construction.' New York Times 'The solution is of the colossal ingenuity we have been conditioned to expect.' Times Literary Supplement &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0425174735</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FCK9CM</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FCK9CM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="30" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T17:59:22+00:00" name="calibre:timestamp"/>
+        <meta content="Dead Man's Folly: Hercule Poirot Investigates" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

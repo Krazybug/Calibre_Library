@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c78e05ec-d224-4b1b-be42-f84ec958342f</dc:identifier>
+        <dc:title>One, Two, Buckle My Shoe: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks. Poirot investigates the murder of a dentist, found dead in his own surgery, in Christie’s classic &lt;em&gt;One, Two, Buckle My Shoe&lt;/em&gt;.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“A swift course of unflagging suspense leads to a complete surprise.” (New York Times )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“This is major Christie.” (New York Herald Tribune ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Even the great detective Hercule Poirot harbored a deep and abiding fear of the dentist, so it was with some trepidation that he arrived at the celebrated Dr. Morley’s surgery for a dental examination. But what neither of them knew was that only hours later Poirot would be back to examine the dentist, found dead in his own surgery.&lt;/p&gt;&lt;p&gt;Turning to the other patients for answers, Poirot finds other, darker, questions.…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073778</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">006207377X</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC2NGM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="21" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T18:15:17+00:00" name="calibre:timestamp"/>
+        <meta content="One, Two, Buckle My Shoe: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

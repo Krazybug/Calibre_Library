@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9b744b0-8f64-4963-a4b1-2f3226832f69</dc:identifier>
+        <dc:title>Destination Unknown</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1954-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to William Morrow Paperbacks. In Christie’s gripping international thriller &lt;em&gt;Destination Unknown&lt;/em&gt;, a woman at the end of her rope chooses a more exciting way to die when she embarks upon an almost certain suicide mission to find a missing scientist.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie is a phenomenon.” (Antonia Fraser )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Agatha Christie gives us one of her rare thrillers—just to show that she can.” (Sunday Times (London) ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;When a number of leading scientists disappear without a trace, concern grows within the international intelligence community. And the one woman who appears to hold the key to the mystery is dying from injuries sustained in a plane crash.&lt;/p&gt;&lt;p&gt;Meanwhile, in a Casablanca hotel room, Hilary Craven prepares to take her own life. But her suicide attempt is about to be interrupted by a man who will offer her an altogether more thrilling way to die. . . .&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Center Point Pub</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007154906</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062074105</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007XIE2OM</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/destination-unknown</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">310226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-03-27T22:12:28+00:00" name="calibre:timestamp"/>
+        <meta content="Destination Unknown" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

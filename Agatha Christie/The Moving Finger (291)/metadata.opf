@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dbfd4de-a34f-42b4-bb9c-6be34f5cf533</dc:identifier>
+        <dc:title>The Moving Finger</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Lymstock is a town with more than its share of shameful secrets—a town where even a sudden outbreak of anonymous hate mail causes only a minor stir.&lt;/p&gt;&lt;p&gt;But all that changes when one of the recipients, Mrs. Symmington, commits suicide. Her final note says “I can’t go on,” but Miss Marple questions the coroner’s verdict of suicide. Soon nobody is sure of anyone—as secrets stop being shameful and start becoming deadly.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie is in a class by herself. For those of us who write mysteries, there’s no better muse, and for those of us who read them, no deeper pleasure.” (Mary Jane Clark, New York Times bestselling author )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Beyond all doubt the puzzle in The Moving Finger is fit for experts.” (The Times (London) ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073624</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073621</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1PL6</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/moving-finger-agatha-christie/1100152659</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Miss Marple" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-01-31T15:13:35+00:00" name="calibre:timestamp"/>
+        <meta content="Moving Finger, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

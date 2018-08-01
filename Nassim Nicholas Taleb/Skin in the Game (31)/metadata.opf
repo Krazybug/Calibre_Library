@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c1d71f0-fea0-4234-a223-666dc9a8ed40</dc:identifier>
+        <dc:title>Skin in the Game</dc:title>
+        <dc:creator opf:file-as="Taleb, Nassim Nicholas" opf:role="aut">Nassim Nicholas Taleb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From the &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;The Black Swan,&lt;/i&gt; a bold new work that challenges many of our long-held beliefs about risk and reward, politics and religion, finance and personal responsibility&lt;/b&gt;&lt;br&gt; &lt;br&gt; In his most provocative and practical book yet,&lt;b&gt; &lt;/b&gt;one of the foremost thinkers of our time redefines what it means to understand the world, succeed in a profession, contribute to a fair and just society, detect nonsense, and influence others. Citing examples ranging from Hammurabi to Seneca, Antaeus the Giant to Donald Trump, Nassim Nicholas Taleb shows how the willingness to accept one's own risks is an essential attribute of heroes, saints, and flourishing people in all walks of life.&lt;br&gt; &lt;br&gt; As always both accessible and iconoclastic, Taleb challenges long-held beliefs about the values of those who spearhead military interventions, make financial investments, and propagate religious faiths. Among his insights:&lt;br&gt; &lt;br&gt; &lt;b&gt;&amp;bull; &lt;i&gt;For...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Nassim Nicholas Taleb&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-13T14:31:50+00:00" name="calibre:timestamp"/>
+        <meta content="Skin in the Game" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

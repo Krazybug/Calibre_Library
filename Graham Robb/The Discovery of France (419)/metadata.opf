@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">788838a2-a508-426e-8eb7-c5a75388dce4</dc:identifier>
+        <dc:title>The Discovery of France</dc:title>
+        <dc:creator opf:file-as="Robb, Graham" opf:role="aut">Graham Robb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-02T23:01:43+00:00</dc:date>
+        <dc:publisher>Picador</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780330471572</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f45d757f-e4ea-487b-8a1b-428579b0b8ef</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Graham Robb&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T12:59:46.398148+00:00" name="calibre:timestamp"/>
+        <meta content="Discovery of France, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

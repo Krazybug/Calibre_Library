@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">428</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d7b29dd-c663-4947-b02f-6e2dc5b5d55e</dc:identifier>
+        <dc:title>The Summa Theologica: Complete Edition</dc:title>
+        <dc:creator opf:file-as="Aquinas, Saint Thomas" opf:role="aut">Saint Thomas Aquinas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Catholic Way Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-78379-314-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Saint Thomas Aquinas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T13:00:17.294256+00:00" name="calibre:timestamp"/>
+        <meta content="Summa Theologica: Complete Edition, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

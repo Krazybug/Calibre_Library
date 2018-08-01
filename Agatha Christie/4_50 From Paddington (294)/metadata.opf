@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">987916cd-fabd-4f36-85fd-556015de8e22</dc:identifier>
+        <dc:title>4:50 From Paddington</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;For an instant the two trains ran together, side by side. In that frozen moment, Elspeth witnessed a murder. Helplessly, she stared out of her carriage window as a man remorselessly tightened his grip around a woman’s throat. The body crumpled. Then the other train drew away.&lt;/p&gt;&lt;p&gt;But who, apart from Miss Marple, would take her story seriously? After all, there were no suspects, no other witnesses . . . and no corpse.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Of all Christie’s detectives, it’s Jane Marple who best understood what can drive ordinary people to the extraordinary act of taking a life.” (S. J. Rozan, Edgar Award-winning author )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The great mistress of the last-minute switch is at it again…. Even the experts have given up any attempts to out-guess Miss Christie.” (New Yorker )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Precisely what one expects: the most delicious bamboozling possible in a babble of bright talk and a comprehensive bristle of suspicion all adeptly managed to keep you much too alert elsewhere to see the neat succession of clues that catch a murderer we never so much as thought of.” (New York Herald Tribune )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A model detective story, there is never a dull moment.” (The Times (London) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The suspense is agonizing.” (Daily Mail (London) ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073662</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073664</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1PLQ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/4-50-from-paddington-agatha-christie/1013985491</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Miss Marple" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-01-31T15:32:50+00:00" name="calibre:timestamp"/>
+        <meta content="4:50 From Paddington" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

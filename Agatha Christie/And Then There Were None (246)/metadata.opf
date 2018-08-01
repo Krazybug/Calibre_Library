@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a07ec2a8-7e1e-400b-a234-2374e7812a27</dc:identifier>
+        <dc:title>And Then There Were None</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks…including &lt;em&gt;And Then There Were None&lt;/em&gt;, the world’s bestselling mystery, in which ten strangers, each with a dark secret, are lured to a mansion on an uninhabited island and killed off one by one.&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Considered the best mystery novel ever written by many readers, &lt;em&gt;And Then There Were None&lt;/em&gt; is the story of 10 strangers, each lured to Indian Island by a mysterious host. Once his guests have arrived, the host accuses each person of murder. Unable to leave the island, the guests begin to share their darkest secrets--until they begin to die. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“The whole thing is utterly impossible and utterly fascinating. It is the most baffling mystery Agatha Christie has ever written.” (New York Times )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“One of the most ingenious thrillers in many a day.” (Time magazine )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“One of the very best, most genuinely bewildering Christies.” (The Observer (UK) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“There is no cheating; the reader is just bamboozled in a straightforward way from first to last….The most colossal achievement of a colossal career. The book must rank with Mrs. Christie’s previous best—on the top notch of detection.” (New Statesman (UK) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The most astonishingly impudent, ingenious and altogether successful mystery story since The Murder of Roger Ackroyd.” (Daily Herald (UK) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“What Agatha Christie taught me was all about the delicate placement of the red herring. She was the ultimate genius behind ‘by indirections shall we find directions out.’ ” (Elizabeth George, New York Times bestselling author of the Inspector Lynley novels ) &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073488</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073486</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1RCI</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-27T22:31:17+00:00" name="calibre:timestamp"/>
+        <meta content="And Then There Were None" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

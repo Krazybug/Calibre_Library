@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98f916ef-3df8-428b-bd2b-a47754c38216</dc:identifier>
+        <dc:title>The Signal and the Noise: Why So Many Predictions Fail-but Some Don't</dc:title>
+        <dc:creator opf:file-as="Silver, Nate" opf:role="aut">Silver, Nate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-27T05:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Silver, Nate&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-11T13:53:28+00:00" name="calibre:timestamp"/>
+        <meta content="Signal and the Noise: Why So Many Predictions Fail-but Some Don't, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

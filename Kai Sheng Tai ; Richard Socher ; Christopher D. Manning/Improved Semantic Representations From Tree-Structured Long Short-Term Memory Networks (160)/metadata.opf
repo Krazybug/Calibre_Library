@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af9c4637-1bf3-43a7-8605-a4cb07c2d86e</dc:identifier>
+        <dc:title>Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks</dc:title>
+        <dc:creator opf:file-as="Manning, Kai Sheng Tai ; Richard Socher ; Christopher D." opf:role="aut">Kai Sheng Tai ; Richard Socher ; Christopher D. Manning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>ACL-IJCNLP 2015</dc:subject>
+        <meta content="{&quot;Kai Sheng Tai ; Richard Socher ; Christopher D. Manning&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:22:59.593212+00:00" name="calibre:timestamp"/>
+        <meta content="Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

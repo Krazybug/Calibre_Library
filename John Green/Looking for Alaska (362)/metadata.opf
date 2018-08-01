@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">362</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50887fb8-e5a9-4ea5-8fb9-858bfeebe734</dc:identifier>
+        <dc:title>Looking for Alaska</dc:title>
+        <dc:creator opf:file-as="Green, John" opf:role="aut">John Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-02T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Winner of the Michael L. Printz Award&lt;/p&gt;&lt;p&gt;An ALA Best Book for Young Adults&lt;/p&gt;&lt;p&gt;An ALA Quick Pick&lt;/p&gt;&lt;p&gt;A Los Angeles Times 2005 Book Prize Finalist&lt;/p&gt;&lt;p&gt;A New York Public Library Book for the Teen Age&lt;/p&gt;&lt;p&gt;A 2005 Booklist Editor’s Choice&lt;/p&gt;&lt;p&gt;A 2005 School Library Journal Best Book of the Year&lt;/p&gt;&lt;p&gt;Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . After. Nothing is ever the same.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;From School Library Journal&lt;/h3&gt;&lt;p&gt;Grade 9 Up - Sixteen-year-old Miles Halter's adolescence has been one long nonevent - no challenge, no girls, no mischief, and no real friends. Seeking what Rabelais called the "Great Perhaps," he leaves Florida for a boarding school in Birmingham, AL. His roommate, Chip, is a dirt-poor genius scholarship student with a Napoleon complex who lives to one-up the school's rich preppies. Chip's best friend is Alaska Young, with whom Miles and every other male in her orbit falls instantly in love. She is literate, articulate, and beautiful, and she exhibits a reckless combination of adventurous and self-destructive behavior. She and Chip teach Miles to drink, smoke, and plot elaborate pranks. Alaska's story unfolds in all-night bull sessions, and the depth of her unhappiness becomes obvious. Green's dialogue is crisp, especially between Miles and Chip. His descriptions and Miles's inner monologues can be philosophically dense, but are well within the comprehension of sensitive teen readers. The chapters of the novel are headed by a number of days "before" and "after" what readers surmise is Alaska's suicide. These placeholders sustain the mood of possibility and foreboding, and the story moves methodically to its ambiguous climax. The language and sexual situations are aptly and realistically drawn, but sophisticated in nature. Miles's narration is alive with sweet, self-deprecating humor, and his obvious struggle to tell the story truthfully adds to his believability. Like Phineas in John Knowles's &lt;em&gt;A Separate Peace&lt;/em&gt;(S &amp;amp; S, 1960), Green draws Alaska so lovingly, in self-loathing darkness as well as energetic light, that readers mourn her loss along with her friends.&lt;em&gt; - Johanna Lewis, New York Public Library&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;Readers will only hope that this is not the last word from this promising new author. (Publishers Weekly)&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Speak</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0142402516</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5v1NBhR1W88C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780142402511</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;John Green&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-07-12T09:34:54.073021+00:00" name="calibre:timestamp"/>
+        <meta content="Looking for Alaska" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

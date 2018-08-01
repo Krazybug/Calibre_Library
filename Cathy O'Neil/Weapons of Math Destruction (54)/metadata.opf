@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6ce791a-1094-49dd-983c-a82f2c630286</dc:identifier>
+        <dc:title>Weapons of Math Destruction</dc:title>
+        <dc:creator opf:file-as="O’Neil, Cathy" opf:role="aut">Cathy O'Neil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;A former Wall Street quant sounds an alarm on mathematical modeling&amp;#8212;a pervasive new force in society that threatens to undermine democracy and widen inequality.&lt;/b&gt;&lt;br&gt; &lt;br&gt; We live in the age of the algorithm. Increasingly, the decisions that affect our lives&amp;#8212;where we go to school, whether we get a car loan, how much we pay for health insurance&amp;#8212;are being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated. But as Cathy O'Neil reveals in this shocking book, the opposite is true. The models being used today are opaque, unregulated, and uncontestable, even when they're wrong. Most troubling, they reinforce discrimination: If a poor student can't get a loan because a lending model deems him too risky (by virtue of his race or neighborhood), he's then cut off from the kind of education that could pull him out of poverty, and a vicious spiral ensues....</dc:description>
+        <dc:publisher>Crown/Archetype</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Cathy O'Neil&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T08:27:29+00:00" name="calibre:timestamp"/>
+        <meta content="Weapons of Math Destruction" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

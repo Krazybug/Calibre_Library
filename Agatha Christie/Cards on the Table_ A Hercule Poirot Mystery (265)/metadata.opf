@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cacb4a86-cc19-410a-a492-e4b0cbda0f77</dc:identifier>
+        <dc:title>Cards on the Table: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Mr. Shaitana was famous as a flamboyant party host, but he was a man of whome everybody was a little afraid. So, when he boasted to Hercule Poirot that he considered murder and art form, the detective had some reservations about accepting a party invitation to view Shaitana's private collection. Indeed, what began as an absorbing evening of bridge was to turn into a more dangerous game altogether ...&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“When you think it’s Colonel Mustard in the basement with the crescent wrench, you owe the fun to Dame Christie.” (William Dietrich, &lt;em&gt;New York Times&lt;/em&gt; bestselling author of the Ethan Gage Adventures )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The finest murder story of her career….Mrs. Christie has never been more ingenious.” (Daily Mail (London) ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Mr. Shaitana is famous as a flamboyant party host. Nevertheless, he is a man of whom everybody is a little afraid. So when he boasts to Hercule Poirot that he considers murder an art form, the detective has some reservations about accepting a party invitation to view Shaitana’s “private collection.”&lt;/p&gt;&lt;p&gt;Indeed, what begins as an absorbing evening of bridge is to turn into a more dangerous game altogether.…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0062073737</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FC10ZC</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC10ZC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T18:35:26+00:00" name="calibre:timestamp"/>
+        <meta content="Cards on the Table: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

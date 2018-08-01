@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4163daa-0400-428a-a7a9-cd000c2c6a25</dc:identifier>
+        <dc:title>Hallowe'en Party: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks. When a &lt;em&gt;Hallowe’en Party&lt;/em&gt; turns deadly, it falls to Hercule Poirot to unmask a murderer.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie needed to create an exceptional detective to outthink every reader and Hercule Poirot is the result.” (Peter Lovesey, Anthony award-winning author of &lt;em&gt;Stagestruck&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A thundering success….A triumph for Hercule Poirot.” (Daily Mirror (London) ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;At a Hallowe’en party, Joyce—a hostile thirteen-year-old—boasts that she once witnessed a murder. When no one believes her, she storms off home. But within hours her body is found, still in the house, drowned in an apple-bobbing tub.&lt;/p&gt;&lt;p&gt;That night, Hercule Poirot is called in to find the “evil presence.” But first he must establish whether he is looking for a murderer or a double murderer.…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073952</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B009F7B3CS</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC122I</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="34" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-03-26T17:53:18+00:00" name="calibre:timestamp"/>
+        <meta content="Hallowe'en Party: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d9c4ea7-90c6-4bad-91d8-562309053689</dc:identifier>
+        <dc:title>Taken at the Flood: Hercule Poirot Investigates</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;When a widow weaves a web... &lt;/p&gt;&lt;p&gt;Rosaleen Cloade has come to collect on her late husband's sizeable inheritance. But this is only the first intrusion on the Cloade family. The second is murder. And it is up to Detective Poirot to see the intrusions come to an end.&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Hercule Poirot fans will be pleased to hear Hugh Fraser, who plays Captain Hastings on PBS's &lt;em&gt;Mystery!&lt;/em&gt; and A&amp;amp;E's &lt;em&gt;Poirot&lt;/em&gt;, recount Christie's intriguing 1948 novel (published in the U.S. as &lt;em&gt;There Is a Tide&lt;/em&gt;). The celebrated Belgian sleuth visits the sleepy English village of Warmsley Vale to check into the background of Gordon Cloade, supposedly a victim of the London Blitz. He had wed an attractive young widow, the former Mrs. Underhay, now the sole possessor of the Cloade family fortune. The deceased's sister-in-law told Poirot that "spirits" informed her that the widow's first husband is still among the living, raising suspicions about Cloade's demise. Fraser's tone at once reassures listeners that, just as on television, they are in capable hands. He does a fine job creating a variety of character voices, distinguishing one from another with clarity but without excessive flamboyance. The release of any Christie is an event, and it does not taken an abundance of "little gray cells" to deduce that this audio will be well-received.&lt;em&gt; (June)&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'One of the best... her gift for blending the cosy with the macabre has seldom been more in evidence than it is here.' Elizabeth Bowen, Tatler 'Told briskly, vivaciously, and with ever-fertile imagination.' Manchester Evening News 'One of the better Christies... Don't miss.' New York Herald Tribune &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">042506803X</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FC2RSQ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC2RSQ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="26" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T18:05:29+00:00" name="calibre:timestamp"/>
+        <meta content="Taken at the Flood: Hercule Poirot Investigates" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

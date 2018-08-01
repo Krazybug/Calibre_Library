@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">170e75ab-88be-4718-80e0-ceaa9e336c37</dc:identifier>
+        <dc:title>Hacker's Delight</dc:title>
+        <dc:creator opf:file-as="Warren, Henry S." opf:role="aut">Henry S. Warren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-02T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;-- At long last, proven short-cuts to mastering difficult aspects of computer programming.-- Learn to program at a more advanced level than is generally taught in schools and training courses, and much more advanced than can be learned through individual study/experience.-- An instant cult classic for programmers!Computer programmers are often referred to as hackers -- solitary problem solvers engrossed in a world of code as they seek elegant solutions to building better software. While many view these unique individuals as "madmen, " the truth is that much of the computer programmer's job involves a healthy mix of arithmetic and logic. In Hacker's Delight, veteran programmer Hank Warren shares the collected wisdom -- namely tips and tricks -- from his considerable experience in the world of application development. The resulting work is an irresistible collection that will help even the most seasoned programmers better their craft.&lt;/p&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780201914658</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Personal Computers</dc:subject>
+        <dc:subject>Computer Hackers</dc:subject>
+        <dc:subject>Electronic Books</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>Computer Programming</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <meta content="{&quot;Henry S. Warren&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-07-12T09:33:26.698338+00:00" name="calibre:timestamp"/>
+        <meta content="Hacker's Delight" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

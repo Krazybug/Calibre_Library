@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3849bd04-7162-4105-9e33-ffd456dcd740</dc:identifier>
+        <dc:title>Essentialism: The Disciplined Pursuit of Less</dc:title>
+        <dc:creator opf:file-as="Mckeown, Greg" opf:role="aut">Mckeown, Greg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Uploaded by [StormRG]&lt;/b&gt;</dc:description>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00G1J1D28</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780804137393</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mckeown, Greg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-06T10:58:23+00:00" name="calibre:timestamp"/>
+        <meta content="Essentialism: The Disciplined Pursuit of Less" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

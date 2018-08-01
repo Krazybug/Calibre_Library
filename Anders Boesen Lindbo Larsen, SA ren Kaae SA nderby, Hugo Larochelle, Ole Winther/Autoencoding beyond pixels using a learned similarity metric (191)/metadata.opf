@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1513497c-6fac-4954-a2ec-73e569930d4c</dc:identifier>
+        <dc:title>Autoencoding beyond pixels using a learned similarity metric</dc:title>
+        <dc:creator opf:file-as="Anders Boesen Lindbo Larsen, SÃ¸ren Kaae SÃ¸nderby, Hugo Larochelle, Ole Winther" opf:role="aut">Anders Boesen Lindbo Larsen, SÃ¸ren Kaae SÃ¸nderby, Hugo Larochelle, Ole Winther</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Anders Boesen Lindbo Larsen, SÃ¸ren Kaae SÃ¸nderby, Hugo Larochelle, Ole Winther&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:23:47.793290+00:00" name="calibre:timestamp"/>
+        <meta content="Autoencoding beyond pixels using a learned similarity metric" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

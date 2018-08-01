@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f2e92ac-3b26-42f4-bb10-46a2e8a7a235</dc:identifier>
+        <dc:title>file:///Users/clement/Calibre%20Library/Brin/The%20transparent%20society%20(111)/The%20transparent%20society%20-%20Brin/index.html</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-05T19:30:25+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:20:59.174812+00:00" name="calibre:timestamp"/>
+        <meta content="file:///Users/clement/Calibre%20Library/Brin/The%20transparent%20society%20(111)/The%20transparent%20society%20-%20Brin/index.html" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

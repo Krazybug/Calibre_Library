@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b3f7558-ea41-4cf9-9f43-f25d90a046c6</dc:identifier>
+        <dc:title>The Man in the Brown Suit</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Pretty, young Anne came to London looking for adventure. In fact, adventure comes looking for her—and finds her immediately at Hyde Park Corner tube station. Anne is present on the platform when a thin man, reeking of mothballs, loses his balance and is electrocuted on the rails. &lt;/p&gt;&lt;p&gt;The Scotland Yard verdict is accidental death. But Anne is not satisfied. After all, who was the man in the brown suit who examined the body? And why did he race off, leaving a cryptic message behind: "17-122 Kilmorden Castle"? &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Agatha Christie’s ability to devise intricate plots, coupled with her understanding of human nature—at its best and worst—have made her tales timeless.” (Jan Burke, award-winning author of the Irene Kelly mysteries )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The acknowledged queen of detective fiction the world over.” (Observer (UK) ) &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'The acknowledged queen of detective fiction the world over' OBSERVER &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062006653</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B007XIE0H6</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">z06H3Zgb53EC</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007XIE0H6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-03-27T22:26:39+00:00" name="calibre:timestamp"/>
+        <meta content="Man in the Brown Suit, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

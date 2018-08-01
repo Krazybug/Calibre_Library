@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfc239db-8c43-4627-9619-c567f21a9c0b</dc:identifier>
+        <dc:title>An Autobiography</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1976-01-02T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;In an all-new edition, an engaging and illuminating chronicle of the life of the “Queen of Mystery,” complete with a bonus CD featuring the voice of the grande dame herself &lt;/p&gt;&lt;p&gt;Agatha Christie was a woman of mystery, in every sense of the word. Her novels made her the world’s best-selling author, but her private life was hidden from view. For many years she dodged reporters and gave no interviews, and for a brief time she famously disappeared. She started writing her autobiography in April 1950 and finished it fifteen years later, when she was seventy-five years old and decided “it seems the right moment to stop.” &lt;/p&gt;&lt;p&gt;In this book, which was originally published in 1977 in the United States by Dodd, Mead &amp;amp; Company, Agatha Christie sheds light on her past. She tells of her childhood in Victorian England, her volunteer work during World War II, her rise to success, her working habits, the inspiration for her most famous characters—Hercule Poirot and Jane Marple—and the places and people that influenced her. After being out of print for several years, this book is being brought back in a new hardcover edition with a CD featuring excerpts dictated by Agatha Christie herself. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“This book proves as inspiring as it is charming and absorbing.” (&lt;em&gt;Boston Globe&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Brisk and admirable....Capturing the experience of a generation too often made over-grim or over-glorious, it is the autobiography of a woman, not merely a writer.” (&lt;em&gt;Los Angeles Times&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Especially welcome.” (&lt;em&gt;Publishers Weekly&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Contains some wonderful treats....Christie writes with such wit and insight that all 542 pages fly.” (&lt;em&gt;Cleveland Plain Dealer&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A fun read, full of detail about upper-crust life in the Victorian era and about Christie’s own surprise at finding herself a mystery novelist.” (&lt;em&gt;Charlotte News &amp;amp; Observer&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The history of a unique upbringing in a time long gone. It’s a portrait of a childhood and young womanhood that vanished with World War I.” (&lt;em&gt;Pittsburgh Tribune-Review&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Christie writes with a wonderful dry wit. It is fascinating to see how people she met became characters in her novels.” (&lt;em&gt;Daily American&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Joyful adventure....She brings the sense of wonder...to her extraordinary career.” (New York Times Book Review )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Agatha Christie is no longer merely one of my favorite writers. She is now one of my favorite people.” (Chicago Tribune )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A delightful autobiography....Warm, witty and discerning.” (Los Angeles Times )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Wonderfully easy to read and engrossing.” (The Times (London) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Agatha Christie’s most absorbing mystery – the story of her own unusual life. She has put it all on record: her early romances; a broken (and a happy) marriage; strange events on the path to roaring success.” (Daily Mail (London) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A wonderful book—written with a delight in the gradual unfolding of 75 years through the eyes of an exceptional old lady and writer.” (Financial Times (London) ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. Her books have sold over a billion copies in English and another billion in one hundred foreign countries. She is the author of eighty novels and short-story collections, nineteen plays, and six novels under the name Mary Westmacott. She died in 1976. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">2WsuYgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062073594</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073591</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/autobiography</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/autobiography-agatha-christie/1100158392</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">10728224</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Detective and Mystery Stories</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Biography</dc:subject>
+        <dc:subject>Personal Memoirs</dc:subject>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Authors; English</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-07-02T02:51:03+00:00" name="calibre:timestamp"/>
+        <meta content="Autobiography, An" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

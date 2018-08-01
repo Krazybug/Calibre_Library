@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39d20bbb-1a7c-4f51-9591-2e8d70f218eb</dc:identifier>
+        <dc:title>Unexpected Guest</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Agatha Christie is the most widely published author of all time with her works outsold only by Shakespeare and the Bible. She is regarded by generations of fans as the greatest mystery writer ever, and her novels are read and cherished the world over.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Clarissa, the young wife of a Foreign Office Diplomat, delights in tweaking the sensibilities of her more serious friends and for playing a game she calls "supposing" - imagining a difficult situation and figuring out how people would respond. But Clarissa's lighthearted game becomes deadly serious when she discovers the dead body of an unknown person in her own drawing room. If that wasn't bad enough, her husband is on the way home with an important foreign politician and the attendant scandal of the dead body would irrevocably damage his career at the very least. Therefore, Clarissa decides to dispose of the body and persuades her three houseguests to help. &lt;br&gt;&lt;/p&gt;&lt;p&gt;But before she can get the body off the premises, a policeman arrives at her front door. The police received an anonymous tip about a murder in the house and have shown up to investigate. Now Clarissa must keep the body hidden, convince the skeptical police inspector that there has been no murder, and, in the meantime, find out who has been murdered, why, and what the body is doing in her house.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;As he did with Black Coffee (1998), Osborne has taken one of Christie's original play scripts and turned it into a (slight) novel. For those who can't see the play in production or who find a script dull or difficult reading, Osborne's adaptation may fill a need. But Osborne has added little flesh to the bones of the drama, which, with its single-room setting, absolutely retains the feel of a play merely masquerading as a novel rather than transformed into one. That's not all bad, as this novelization preserves the lightning-quick pace of the original. Christie's play had its premiere in 1958, yet remains undated by the passing years. When a stranger having car trouble at night on a lonely road enters a house through the French windows of its study, he finds an invalid who has been shot dead and a woman (his wife) standing nearby and holding a gun. Apparently on impulse, the stranger decides to help the woman hide her crime. Those two plus a small castAthe victim's mother; the victim's teenage half-brother; his housekeeper/secretary; and his male nurseAparade kaleidoscopically in and out of the study with two investigating police officers. Christie cleverly shifts suspicion and parcels out new facts and perspectives in marvelous fashion, proving ingeniously that the obvious isn't always obvious. (Oct.) &lt;br&gt;Copyright 1999 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;From Booklist&lt;/h3&gt;&lt;p&gt;Like a martini--crisp, dry, sophisticated, habit-forming, ever-so-slightly dated--Christite's smoothly polished mysteries go down easy. This one was written as a stage play, first performed in 1958, and is here adapted into novel form by Osborne, who last year published a novelization of Christie's &lt;em&gt;Black Coffee &lt;/em&gt;. Like Christie's endlessly running &lt;em&gt;Mousetrap&lt;/em&gt;, the plot here is full of twists around a single room, with people who are not what they seem. Michael Starkwedder's car runs into a ditch in Wales in the fog, and when he opens the French doors of the nearest house he finds an attractive woman with a gun in her hand, and the very dead corpse of her husband in a wheelchair in the same room. Mentally deficient relatives, loyal and twisted servants, patient inspectors, family secrets, and dramatic dialogue will satisfy all devotees of Christie's neat plotting, even without either Poirot or Marple. Ready for the beach or the fireside. &lt;em&gt;GraceAnne A. DeCandido&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0312975120</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">sMlO3VAgOKIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780312975128</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/unexpected-guest-agatha-christie/1100259198</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Detective and Mystery Stories</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Murder</dc:subject>
+        <dc:subject>Mystery Fiction</dc:subject>
+        <dc:subject>Traditional British</dc:subject>
+        <dc:subject>Murder - Wales</dc:subject>
+        <dc:subject>Wales</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-07-02T00:42:32+00:00" name="calibre:timestamp"/>
+        <meta content="Unexpected Guest" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

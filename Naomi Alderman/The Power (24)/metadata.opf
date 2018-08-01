@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3aed1fc1-504b-4ea6-8fb3-a63527357dbd</dc:identifier>
+        <dc:title>The Power</dc:title>
+        <dc:creator opf:file-as="Alderman, Naomi" opf:role="aut">Naomi Alderman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-27T11:36:12+00:00</dc:date>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670919970</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Naomi Alderman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-06T10:58:18+00:00" name="calibre:timestamp"/>
+        <meta content="Power, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

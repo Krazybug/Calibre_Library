@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5286b372-4a97-4d26-8947-27828a570c8a</dc:identifier>
+        <dc:title>The Return: Midnight</dc:title>
+        <dc:creator opf:file-as="Smith, L. J." opf:role="aut">L. J. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The vampire love triangle that spawned hundreds of thousands of fans-and
+ inspired a hit television show-concludes in this powerful final volume 
+of The Vampire Diaries. In Midnight, golden girl Elena Gilbert is back 
+from the Dark Dimension, having successfully freed her vampire boyfriend
+ Stefan Salvatore from imprisonment. Saving Stefan had an unlikely 
+consequence: his vampire brother Damon Salvatore has become a mortal. 
+While the trio reels from this latest twist, they must still deal with 
+the demons that have taken over Elena's hometown, Fell's Church. As in 
+every L.J. Smith novel, no matter how dark the night, there is always a 
+happy ending. MIDNIGHT takes Elena, Stefan, and Damon to their darkest 
+moments yet...Danger, romance, and paranormal mystery will keep readers 
+fascinated with this captivating finale to the New York Times 
+bestselling series.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dark Fantasy; Romance; Young-adult Fiction</dc:subject>
+        <meta content="{&quot;L. J. Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="The Vampire Diaries" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="2018-07-12T09:35:28.272119+00:00" name="calibre:timestamp"/>
+        <meta content="Return: Midnight, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffc5471d-daed-4a08-bed1-529f696d8d32</dc:identifier>
+        <dc:title>The Savage Detectives</dc:title>
+        <dc:creator opf:file-as="Bolaño, Roberto" opf:role="aut">Roberto Bolaño</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-16T18:30:00+00:00</dc:date>
+        <dc:description>The late Chilean writer Roberto Bolaño has been called the García Marquez of his generation, but his novel The Savage Detectives is a lot closer to Y Tu Mamá También than it is to One Hundred Years of Solitude. Hilarious and sexy, meandering and melancholy, full of inside jokes about Latin American literati that you don't have to understand to enjoy, The Savage Detectives is a companionable and complicated road trip through Mexico City, Barcelona, Israel, Liberia, and finally the desert of northern Mexico. It's the first of Bolaño's two giant masterpieces to be translated into English (the second, 2666, is due out next year), and you can see how he's influenced an era.</dc:description>
+        <dc:identifier opf:scheme="URI">urn:uuid:fbd-d8aa24-721c-074d-7082-1912-2e4e-9201c3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>prose_contemporary</dc:subject>
+        <meta content="{&quot;Roberto Bolaño&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:34:02.526782+00:00" name="calibre:timestamp"/>
+        <meta content="Savage Detectives, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

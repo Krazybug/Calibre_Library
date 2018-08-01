@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">971e63ea-c0d1-4759-9e49-954d1faae207</dc:identifier>
+        <dc:title>The Age of Comfort</dc:title>
+        <dc:creator opf:file-as="DeJean, Joan" opf:role="aut">Joan DeJean</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-02T21:00:00+00:00</dc:date>
+        <dc:publisher>Bloomsbury Publishing Plc</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">44618b4a-f7fc-4408-b9f6-6f70d5a03e37</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Joan DeJean&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-26T08:49:05+00:00" name="calibre:timestamp"/>
+        <meta content="Age of Comfort, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

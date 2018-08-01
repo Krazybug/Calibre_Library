@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56e626bf-280e-417f-8adf-168d59e45227</dc:identifier>
+        <dc:title>The ABC Murders</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1935-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Alice Ascher, a shopkeeper in Andover, is bludgeoned to death at her place of work. Next to die is Miss Bernard in Bexhill, then Mr. Clarke in Churston. More disturbing than the alphabetic sequence of the killings or the ABC Railway guide that the killer leaves at the scene of each crime are the taunting notes Hercule Poirot receives each time the killer is about to strike again. It is one of Poirot's most challenging cases yet.&lt;/p&gt;</dc:description>
+        <dc:publisher>Center Point Large Print</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781611731613</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC10IE</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/abc-murders</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">16322</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2012-12-23T02:09:27+00:00" name="calibre:timestamp"/>
+        <meta content="ABC Murders, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

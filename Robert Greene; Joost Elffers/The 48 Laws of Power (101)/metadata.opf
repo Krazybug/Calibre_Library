@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07e8bac0-f61a-4552-bef6-2c836ca638f2</dc:identifier>
+        <dc:title>The 48 Laws of Power</dc:title>
+        <dc:creator opf:file-as="Elffers, Robert Greene; Joost" opf:role="aut">Robert Greene; Joost Elffers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-07T06:04:58+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;THE BESTSELLING BOOK FOR THOSE WHO WANT POWER, WATCH POWER, OR WANT TO ARM THEMSELVES AGAINST POWER . . .A moral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power into forty-eight well-explicated laws. As attention-grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. Some laws require prudence ("Law 1: Never Outshine the Master"), some stealth ("Law 3: Conceal Your Intentions"), and some the total absence of mercy ("Law 15: Crush Your Enemy Totally") but like it or not, all have applications in real-life situations. Illustrated through the tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum, and other famous figures who have wielded -- or been victimized by -- power, these laws will fascinate any reader interested in gaining, observing, or defending against ultimate control.&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780140280197</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ae51f044-5d76-419f-9d7f-e5a00d717bc6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <meta content="{&quot;Robert Greene; Joost Elffers&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-30T09:14:44+00:00" name="calibre:timestamp"/>
+        <meta content="48 Laws of Power, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd867157-1fcf-42f0-af4f-167192304ea9</dc:identifier>
+        <dc:title>The Three-Body Problem</dc:title>
+        <dc:creator opf:file-as="Liu, Cixin" opf:role="aut">Cixin Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-11T00:00:00+00:00</dc:date>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781466853447</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00IQO403K</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Cixin Liu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-11T13:53:27+00:00" name="calibre:timestamp"/>
+        <meta content="Three-Body Problem, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

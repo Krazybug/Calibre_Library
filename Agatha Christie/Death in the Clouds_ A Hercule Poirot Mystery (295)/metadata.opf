@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e4eabe7-de39-43dd-9798-227ca4a009fe</dc:identifier>
+        <dc:title>Death in the Clouds: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks. Poirot must solve a perplexing case of midair murder in &lt;em&gt;Death in the Clouds&lt;/em&gt; when he discovers that the woman in seat two of the airborne aeroplane he’s traveling on is quite unexpectedly—and unnaturally—deceased.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“As a crime writer I quickly realized that I’d already learned a great deal from Agatha Christie, and even after four decades in the game, I feel I’m still learning.” (Reginald Hill, author of the Dalziel and Pascoe mysteries )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“It will be a very acute reader who does not receive a complete surprise at the end.” (Times Literary Supplement (London) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“[A] crime puzzle of the first order.” (New York Times ) &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;From seat No. 9, Hercule Poirot was ideally placed to observe his fellow air passengers. Over to his right sat a pretty young woman, clearly infatuated with the man opposite; ahead, in seat No. 13, sat a countess with a poorly concealed cocaine habit; across the gangway in seat No. 8, a detective writer was being troubled by an aggressive wasp. What Poirot did not yet realize was that behind him, in seat No. 2, sat the slumped, lifeless body of a woman.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0062073745</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073745</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC1PFM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T17:44:31+00:00" name="calibre:timestamp"/>
+        <meta content="Death in the Clouds: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

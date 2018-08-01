@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85621a50-bc7b-4eb6-bf1c-169fbffc3c91</dc:identifier>
+        <dc:title>India’s Most Fearless</dc:title>
+        <dc:creator opf:file-as="Aroor, Shiv &amp; Singh, Rahul" opf:role="aut">Aroor, Shiv</dc:creator>
+        <dc:creator opf:file-as="Aroor, Shiv &amp; Singh, Rahul" opf:role="aut">Singh, Rahul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-19T18:30:00+00:00</dc:date>
+        <dc:publisher>Penguin Random House India Private Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789386815422</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Aroor, Shiv&quot;: &quot;&quot;, &quot;Singh, Rahul&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-19T14:19:37+00:00" name="calibre:timestamp"/>
+        <meta content="India’s Most Fearless" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8506205d-5990-4f40-bf25-34dc664820d4</dc:identifier>
+        <dc:title>Good to Great</dc:title>
+        <dc:creator opf:file-as="Collins, Jim" opf:role="aut">Jim Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-15T03:53:40+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;The Challenge &lt;/b&gt;&lt;p&gt;&lt;i&gt;Built to Last,&lt;/i&gt; the defining management study of the nineties, showed how great companies triumph over time and how long-term sustained performance can be engineered into the DNA of an enterprise from the verybeginning.&lt;p&gt;But what about the company that is not born with great DNA? How can good companies, mediocre companies, even bad companies achieve enduring greatness?&lt;p&gt;&lt;b&gt;The Study &lt;/b&gt;&lt;p&gt;For years, this question preyed on the mind of Jim Collins. Are there companies that defy gravity and convert long-term mediocrity or worse into long-term superiority? And if so, what are the universal distinguishing characteristics that cause a company to go from good to great?&lt;p&gt;&lt;b&gt;The Standards &lt;/b&gt;&lt;p&gt;Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative...</dc:description>
+        <dc:publisher>HarperCollins US</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062119209</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c6b814aa-e5f1-4d47-b751-2214dfb4651a</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jim Collins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-30T06:47:42+00:00" name="calibre:timestamp"/>
+        <meta content="Good to Great" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

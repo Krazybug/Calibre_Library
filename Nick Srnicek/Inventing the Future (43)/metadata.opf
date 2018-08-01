@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2aadd820-dfe3-4b92-889c-eea44613e8b5</dc:identifier>
+        <dc:title>Inventing the Future</dc:title>
+        <dc:creator opf:file-as="Srnicek, Nick &amp; Williams, Alex" opf:role="aut">Nick Srnicek</dc:creator>
+        <dc:creator opf:file-as="Srnicek, Nick &amp; Williams, Alex" opf:role="aut">Alex Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;A major new manifesto for a high-tech future free from work&lt;/b&gt;&lt;br&gt;&lt;br&gt;Neoliberalism isn't working. Austerity is forcing millions into poverty and many more into precarious work, while the left remains trapped in stagnant political practices that offer no respite.&lt;br&gt;&lt;br&gt;&lt;i&gt; Inventing the Future&lt;/i&gt; is a bold new manifest0 for life &lt;i&gt;after&lt;/i&gt; capitalism. Against the confused understanding of our high-tech world by both the right and the left, this book claims that the emancipatory and future-oriented possibilities of our society can be reclaimed. Instead of running from a complex future, Nick Srnicek and Alex Williams demand a postcapitaiist economy capable of advancing standards, liberating humanity from work and developing technologies that expand our freedoms.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Trade Paperback edition.&lt;/i&gt;</dc:description>
+        <dc:publisher>Verso Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Alex Williams&quot;: &quot;&quot;, &quot;Nick Srnicek&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T08:26:58+00:00" name="calibre:timestamp"/>
+        <meta content="Inventing the Future" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

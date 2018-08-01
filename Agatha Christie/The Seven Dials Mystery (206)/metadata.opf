@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a76c678-b58d-42be-98e7-832c93f23ba2</dc:identifier>
+        <dc:title>The Seven Dials Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1929-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Gerry Wade had proved himself to be a champion sleeper, so the other houseguests decided to play a practical joke on him. Eight alarm clocks were set to go off, one after the other, starting at 6:30 a.m. But when morning arrived, one clock was missing and the prank then backfired, with tragic consequences. &lt;br&gt;&lt;/p&gt;&lt;p&gt;For Jimmy Thesiger in particular, the words "Seven Dials" were to take on a new and chilling significance. . . .&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'Her gift is pure genius.' Observer 'An amusing, exciting, well-written story.' Outlook 'All signs indicate that Mrs Christie has been reading P.G. Wodehouse, and she does it very well in spots. This is her gayest thriller and mustn't be missed.' Books &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'Her gift is pure genius.' Observer 'An amusing, exciting, well-written story.' Outlook 'All signs indicate that Mrs Christie has been reading P.G. Wodehouse, and she does it very well in spots. This is her gayest thriller and mustn't be missed.' Books &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Ku73D0S--1gC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062006745</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B007XIEEUY</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007XIEEUY</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/seven-dials-mystery</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/seven-dials-mystery-agatha-christie/1100153753</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7735790</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Women Sleuths</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Superintendent Battle" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-02-08T17:12:54+00:00" name="calibre:timestamp"/>
+        <meta content="Seven Dials Mystery, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ccf64f2-1501-4e61-a857-29f07f6f3fe7</dc:identifier>
+        <dc:title>By Night in Chile</dc:title>
+        <dc:creator opf:file-as="Bolaño, Roberto" opf:role="aut">Roberto Bolaño</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A deathbed confession revolving around Opus Dei and Pinochet, By Night in Chile pours out the self-justifying dark memories of the Jesuit priest Father Urrutia.As through a crack in the wall, By Night in Chile's single night-long rant provides a terrifying, clandestine view of the strange bedfellows of Church and State in Chile. This wild, eerily compact novel—Roberto Bolano's first work available in English—recounts the tale of a poor boy who wanted to be a poet, but ends up a half-hearted Jesuit priest and a conservative literary critic, a sort of lap dog to the rich and powerful cultural elite, in whose villas he encounters Pablo Neruda and Ernst Junger. Father Urrutia is offered a tour of Europe by agents of Opus Dei (to study "the disintegration of the churches," a journey into realms of the surreal); and ensnared by this plum, he is next assigned—after the destruction of Allende—the secret, never-to-be-disclosed job of teaching Pinochet, at night, all about Marxism, so the junta generals can know their enemy. Soon, searingly, his memories go from bad to worse. Heart-stopping and hypnotic, By Night in Chile marks the American debut of an astonishing writer.&lt;/p&gt;</dc:description>
+        <dc:publisher>New Directions Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f7ddbcc3-000a-4074-ac3a-b16a8f442d24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780811220514</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Roberto Bolaño&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:34:06.794047+00:00" name="calibre:timestamp"/>
+        <meta content="By Night in Chile" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

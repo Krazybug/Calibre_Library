@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fc3273c-9b07-4ff6-8ebc-79c8c1a014a1</dc:identifier>
+        <dc:title>The Adventure of the Christmas Pudding and Other Stories</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1960-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;First came a sinister warning to Poirot not to eat any plum pudding! then the discovery of a corpse in a chest, but what can link these baffling cases? The little grey cells of Monsieur Hercule Poirot! Feast yourself on these intriguing crime mysteries from the distinctive hand of the queen of crime fiction. Stories include: * The Adventure of the Christmas Pudding * The Mystery of the Spanish Chest * Four-And-Twenty Blackbirds * The Under Dog * The Dream&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'There is irresistible simplicity and buoyancy of a Christmas treat about it all' Times Literary Supplement &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Agatha Christie was born in Torquay in 1890 and became, quite simply, the best-selling novelist in history. Her first novel, The Mysterious Affair at Styles, written towards the end of the First World War, introduced us to Hercule Poirot, who was to become the most popular detective in crime fiction since Sherlock Holmes. She is known throughout the world as the Queen of Crime. Her books have sold over a billion copies in the English language and another billion in over 100 foreign languages. She is the author of 80 crime novels and short story collections, 19 plays, and six novels under the name of Mary Westmacott. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Audiobooks,</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0007211694</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780007211692</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/the-adventure-of-the-christmas-pudding-and-other-stories-agatha-christie/1007624968</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">1115351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="40" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2012-07-02T00:43:57+00:00" name="calibre:timestamp"/>
+        <meta content="Adventure of the Christmas Pudding and Other Stories, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

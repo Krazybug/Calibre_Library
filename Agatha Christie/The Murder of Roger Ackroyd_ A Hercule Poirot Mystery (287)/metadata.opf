@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a0b73fb-308c-447c-8f3a-074511a121c6</dc:identifier>
+        <dc:title>The Murder of Roger Ackroyd: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-02T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks…including the unforgettable Hercule Poirot classic, &lt;em&gt;The Murder of Roger Ackroyd&lt;/em&gt;, one of her own ten favorite novels. &lt;/p&gt;&lt;h3&gt;From Library Journal&lt;/h3&gt;&lt;p&gt;This novel, written in 1927, is considered the best and most successful of the early mysteries. It met with no small outrage when it appeared, as it uses a plot device many readers thought "unfair." There is a full complement of characters populating the cozy English village of King's Abbot: Major Blunt, Colonel Carter, Miss Gannett, the butler, the housekeeper, the narrator, Dr. Sheppard, and his know-it-all sister (the precursor of Miss Marple, according to Christie), and, of course, the redoubtable Hercule Poirot and his little grey cells. There are clues with a capital C to mislead us, and the listener gets so involved with these red herrings (or not) that the very simple truth eludes the puzzler. Venerable reader Robin Bailey keeps the light, almost comic tone alive, although his voices are not particularly differentiated, and often he rushes the reading of dialog. A classic of the genre and essential for any fiction collection. Harriet Edwards, East Meadow P.L., NY &lt;/p&gt;&lt;p&gt;Copyright 2002 Cahners Business Information, Inc.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“A classic—the book has worthily earned its fame.” (Irish Independent (Ireland) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“One of the landmarks of detective literature.” (H. R. F. Keating, Crime &amp;amp; Mystery: The 100 Best Books )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Agatha Christie had a mind like a mousetrap and taught me, in novels like The Murder of Roger Ackroyd, the pleasure of literary surprise.” (William Dietrich, New York Times bestselling author of the Ethan Gage Historical AdventuresWilliam Dietrich, New York Times bestselling author of the Ethan Gage Historical AdventuresWilliam Dietrich, New York Times bestselling author of the Ethan Gage ) &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073563</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073567</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FC12YQ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T17:34:43+00:00" name="calibre:timestamp"/>
+        <meta content="Murder of Roger Ackroyd: A Hercule Poirot Mystery, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

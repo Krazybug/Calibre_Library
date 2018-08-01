@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67393e83-cf01-479f-9271-6c265ffae727</dc:identifier>
+        <dc:title>Hickory Dickory Dock: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Queen of Mystery has come to Harper Collins! Agatha Christie, the acknowledged mistress of suspense—creator of indomitable sleuth Miss Marple, meticulous Belgian detective Hercule Poirot, and so many other unforgettable characters—brings her entire oeuvre of ingenious whodunits, locked room mysteries, and perplexing puzzles to Harper Paperbacks. A most unusual series of crimes at a student hostel intrigues Inspector Poirot in Christie’s &lt;em&gt;Hickory Dickory Dock&lt;/em&gt;, especially when a simple case of kleptomania paves the way to murder.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Starred Review.&lt;/em&gt; Fraser, who played Captain Hastings, the sidekick for arch Belgian detective Hercule Poirot in the PBS &lt;em&gt;Mystery&lt;/em&gt; series, now performs the entire cast in Christie's 1955 mystery. Fraser's Poirot is derivative of the stellar performance of the series' star, David Suchet; nevertheless, Fraser gives Christie's work his own imprimatur. Poirot is absent much of the time in this tale of kleptomania, malice and murder set at a boarding house for students. Add to the mix a number of students from England, a temperamental Greek landlady and an Italian house staff, and one must conclude that Fraser is some sort of magician to keep all the players sorted out as they converge in the common room. Not to be missed among the clamoring voices is Christie's narrative, from which Fraser manages to wring every wry drop. The producers at the Mystery Masters division of the Audio Partners were smart to hire Fraser to record this classic, and listeners will find it a delightful romp that passes all too quickly. &lt;em&gt;(Dec.)&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“When it comes to fiendish plotting, there’s nobody to compare with Agatha Christie.” (Peter Robinson, &lt;em&gt;New York Times&lt;/em&gt; bestselling author of the Inspector Banks novels )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The Christie fan of longest standing, who thinks he knows every one of her tricks, will still be surprised by some of the twists here.” (&lt;em&gt;New York Times&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“The characters are as good as ever and there is plenty of entertainment.” (&lt;em&gt;Times Literary Supplement&lt;/em&gt; (London) ) &lt;em&gt;&lt;/em&gt;&lt;/p&gt;&lt;hr&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>William Morrow Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062073969</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062073966</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005LC1UR4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="29" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-26T18:00:55+00:00" name="calibre:timestamp"/>
+        <meta content="Hickory Dickory Dock: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

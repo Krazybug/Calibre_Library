@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d25ee09-d677-4d2d-a118-108c1caaeda9</dc:identifier>
+        <dc:title>Zombicorns</dc:title>
+        <dc:creator opf:file-as="Green, John" opf:role="aut">John Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-14T18:30:00+00:00</dc:date>
+        <dc:description>John Green's zombie apocalypse novella benefitting the Harry Potter Alliance.</dc:description>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;John Green&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:35:06.426989+00:00" name="calibre:timestamp"/>
+        <meta content="Zombicorns" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

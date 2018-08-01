@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfc807f5-90d0-4c3f-a8d0-09fd7d40cd33</dc:identifier>
+        <dc:title>The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead (1964)</dc:title>
+        <dc:creator opf:file-as="Leary, Timothy" opf:role="aut">Timothy Leary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-13T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Timothy Leary The Psychedelic Experience&lt;/p&gt;</dc:description>
+        <dc:publisher>Progressive Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00XMQ78YK</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Timothy Leary</dc:subject>
+        <meta content="{&quot;Timothy Leary&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T18:32:38+00:00" name="calibre:timestamp"/>
+        <meta content="Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead (1964), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

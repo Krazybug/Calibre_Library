@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47de37ad-0462-4b65-a999-708130f70072</dc:identifier>
+        <dc:title>The Hound of Death</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1933-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Twelve unexplained phenomena with no apparent earthly explanation... &lt;/p&gt;&lt;p&gt;A dog-shaped gunpowder mark; an omen from 'the other side'; a haunted house; a chilling seance; a case of split personalities; a recurring nightmare; an eerie wireless message; an elderly lady's hold over a young man; a disembodied cry of 'murder'; a young man's sudden amnesia; a levitation experience; a mysterious SOS. &lt;/p&gt;&lt;p&gt;To discover the answers, delve into the supernatural storytelling of Agath Christie.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ulverscroft</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">CgH5SAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780006171041</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003IWPIP4</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/hound-of-death</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/the-hound-of-death-and-other-stories-agatha-christie/1004633578</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">3526144</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Detective and Mystery Stories</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Crime &amp; mystery</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Traditional British</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>English fiction</dc:subject>
+        <dc:subject>Detective and Mystery Stories; English</dc:subject>
+        <dc:subject>Short stories; English</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2012-07-02T00:43:38+00:00" name="calibre:timestamp"/>
+        <meta content="Hound of Death, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

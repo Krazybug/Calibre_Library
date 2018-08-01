@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5410d95e-1b10-4a00-9c65-26416d082bb8</dc:identifier>
+        <dc:title>A More Beautiful Question</dc:title>
+        <dc:creator opf:file-as="Berger, Warren" opf:role="aut">Warren Berger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;In this groundbreaking book, journalist and innovation expert Warren Berger shows that one of the most powerful forces for igniting change in business and in our daily lives is a simple, under-appreciated tool&amp;#8212;one that has been available to us since childhood. &lt;b&gt;Questioning&lt;/b&gt;&amp;#8212;deeply, imaginatively, "beautifully"&amp;#8212;can help us identify and solve problems, come up with game-changing ideas, and pursue fresh opportunities. So why are we often reluctant to ask "Why?"&lt;p&gt;Berger's surprising findings reveal that even though children start out asking hundreds of questions a day, questioning "falls off a cliff" as kids enter school. In an education and business culture devised to reward rote answers over challenging inquiry, questioning isn't encouraged&amp;#8212;and, in fact, is sometimes barely tolerated.&lt;p&gt;And yet, as Berger shows, the most creative, successful people tend to be expert questioners. They've mastered the art of inquiry, raising questions no one else is...</dc:description>
+        <dc:publisher>Bloomsbury Publishing</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.helpandmanual.com/</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Warren Berger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T13:16:32.104561+00:00" name="calibre:timestamp"/>
+        <meta content="More Beautiful Question, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

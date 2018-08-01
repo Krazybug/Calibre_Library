@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05f4b9e2-81e5-40e5-bd62-56817da245cd</dc:identifier>
+        <dc:title>The Last Don</dc:title>
+        <dc:creator opf:file-as="Puzo, Mario" opf:role="aut">Puzo, Mario</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Mario Puzo, author of &lt;em&gt;The Godfather&lt;/em&gt;, knows a thing or two about the Mafia and about the movie business; here he brings them together. In the prologue, a Mafia don oversees the double christening of two infant boys, Dante and Cross, into the Clericuzio family. Later, when Cross is tapped to take over as the "Hammer" of the Clericuzios, their prime hit man, he proves not cold-blooded enough for the role. Dante takes his place, and Cross moves from Las Vegas to Hollywood, which proves to be an even worse den of iniquity. When he falls for a movie star Athena Aquitaine, he exhibits the "fatal flaw" the old don always warned against: loving a beautiful woman. A taut novel of sex and money, of love and power. &lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Age withers some writers. Others it ripens toward an Olympian wisdom. So it is with Puzo, who at age 76 returns after a quarter century to the terrain of his greatest success, The Godfather, to tell a second masterful tale of Mafia life. Puzo's vision is broader here, and more dispassionate. Times have changed since the day of the Corleones. America has fragmented, and Puzo's new family, the Clericuzios, the shadowy power behind the Mafia, is feeling modernity's centrifugal force. Though still based in New York, the Family has also scattered to Vegas and, as the novel progresses, to Hollywood. Puzo's protagonist is Cross De Lena, nephew of Don Domenico Clericuzio, his Bruglione in Vegas, who by investing in film may fulfill the Don's wish to legitimize the Family. But in Puzo's world, the search for power and wealth demands brutality; dream factories, whether of Vegas or Hollywood, are awash in vengeance, betrayal and blood. Puzo's take on the film world is scathing, yet there are no caricatures here; his men and women can be seduced by virtue as well as by vice and will throw away a lifetime in pursuit of love. Violence slashes through the narrative, but the real cruelty that laces the plot lies in each character's byzantine manipulations of others; the story line would delight a Medici. Nearly above the fray stand two old men, the Don and a film czar. Knowing what the world is, they neither condemn it nor bless it but acknowledge its wickedness and drink of its passion and beauty. As, in this mesmerizing tale, Puzo himself does, surveying the play of humanity in its mad glory.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arrow</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780099427872</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Puzo, Mario&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:34:44.868046+00:00" name="calibre:timestamp"/>
+        <meta content="Last Don, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

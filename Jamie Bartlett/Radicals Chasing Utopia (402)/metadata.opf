@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23348416-11fe-4d4d-8f95-7ae25ea4ad88</dc:identifier>
+        <dc:title>Radicals Chasing Utopia</dc:title>
+        <dc:creator opf:file-as="BARTLETT, JAMIE" opf:role="aut">Jamie Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;&amp;#147;The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." &amp;#8212;George Bernard Shaw&lt;/B&gt;&lt;br&gt;Within each society are sub-cultures&amp;#8212;groups that believe that our problems require radical solutions. Journalist Jamie Bartlett, an expert on these groups, takes readers into the strange worlds of the innovators, disrupters, idealists, and extremists who think we can do better, and believe they know how. From the Islamic State to transhumanists, from followers of Bernie Sanders, Beppe Grillo, and Jeremy Corbyn to citizens of Liberland, the world's first libertarian nation&amp;#8212;all these groups are grappling with very real problems in our society. Their methods may be extreme, scary, or outlandish, but Bartlett argues that they must be taken seriously.&lt;br&gt;The success of democratic societies hinge on our ability to grapple with&amp;#8212;and in some cases learn...</dc:description>
+        <dc:publisher>PublicAffairs</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jamie Bartlett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-29T12:04:04.285037+00:00" name="calibre:timestamp"/>
+        <meta content="Radicals Chasing Utopia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

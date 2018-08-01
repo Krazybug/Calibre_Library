@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0cc8f76-bf93-4e9a-86c6-4dc2b349ac95</dc:identifier>
+        <dc:title>While the Light Lasts</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;These five early stories, unpublished since their first magazine appearances in the '20s and '30s, were finally unearthed 21 years after Agatha Christie's death. Smartly jacketed in the contemporary Agatha Christie liverie, all show the deft touch of the Queen of Crime in the making. While the Light Lasts The Actress The House of Dreams The Edge Within a Wall Like many of her contemporaries, Agatha Christie wrote stories for a variety of magazines in the 1920s and '30s, and most of these eventually found their way into her books of short stories. Now, 21 years after her death, detective work worthy of Agatha Christie herself has unearthed 'new' stories, most of which have never been published anywhere in the world since their orginal appearances. In this new collection the author observes the tragic flaws in human nature, providing a glimpse of the Queen of Crime in the making. Anyone who has ever read Agatha Christie will enjoy every story for her skill at characterisation and her ability to deliver an unexpected twist in the tail... &lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">9i-y3FBJ5jMC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062007261</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1444803077</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/agatha-christie/while-light-lasts</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">910046</dc:identifier>
+        <dc:identifier opf:scheme="FICTIONDB">agatha-christie~while-the-light-lasts~184964~b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Detective and Mystery Stories</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Crime &amp; Thriller</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>General Fiction</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Detective and Mystery Stories; English</dc:subject>
+        <dc:subject>Classic crime</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot" name="calibre:series"/>
+        <meta content="41" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2018-07-12T09:30:27.957672+00:00" name="calibre:timestamp"/>
+        <meta content="While the Light Lasts" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

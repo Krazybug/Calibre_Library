@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f89ac353-e7ca-4d2a-9aa2-f0bcabf59c96</dc:identifier>
+        <dc:title>The Neapolitan Novels Boxed Set</dc:title>
+        <dc:creator opf:file-as="Ferrante, Elena" opf:role="aut">Elena Ferrante</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-05T19:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Nothing quite like this has ever been published before," proclaimed &lt;i&gt;The Guardian &lt;/i&gt;about the Neapolitan novels in 2014. Against the backdrop of a Naples that is as seductive as it is perilous and a world undergoing epochal change, Elena Ferrante tells the story of a sixty-year friendship between the brilliant and bookish Elena and the fiery, rebellious Lila with unmatched honesty and brilliance.&lt;br&gt;The four books in this novel cycle constitute a long, remarkable story, one that &lt;i&gt;Vogue&lt;/i&gt; described as "gutsy and compulsively readable," which readers will return to again and again, and each return will bring with it new revelations. &lt;/p&gt;</dc:description>
+        <dc:publisher>Europa</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novel</dc:subject>
+        <meta content="{&quot;Elena Ferrante&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-01T13:16:35.149193+00:00" name="calibre:timestamp"/>
+        <meta content="Neapolitan Novels by Elena Ferrante Boxed Set, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

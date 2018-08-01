@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e62e3b9-cac6-406a-9779-420c4cf683a9</dc:identifier>
+        <dc:title>1984</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Download classic literature as completely free eBooks from Planet eBook.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Download classic literature as completely free eBooks from Planet eBook.</dc:subject>
+        <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:22:18.043248+00:00" name="calibre:timestamp"/>
+        <meta content="1984" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

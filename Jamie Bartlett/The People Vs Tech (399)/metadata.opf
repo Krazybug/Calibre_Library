@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12d9aae5-469d-4b39-8bf9-c38deddad9bb</dc:identifier>
+        <dc:title>The People Vs Tech</dc:title>
+        <dc:creator opf:file-as="Bartlett, Jamie" opf:role="aut">Jamie Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;In the ongoing waves of the Facebook scandal, this is the book that explains all the dangers of the digital revolution, and how our mountains of personal cyberdata are being mined by everyone from our own governments and political parties to big business to exploit our trust and threaten our freedom.&lt;/b&gt;&lt;br&gt;The internet was meant to set us free. But have we unwittingly handed too much away to shadowy powers behind a wall of code, all manipulated by a handful of Silicon Valley utopians, ad men, and venture capitalists? And, in light of recent data breach scandals around companies like Facebook and Cambridge Analytica, what does that mean for democracy, our delicately balanced system of government that was created long before big data, total information, and artificial intelligence? In this urgent polemic, Jamie Bartlett argues that through our unquestioning embrace of big tech, the building blocks of democracy are slowly being removed. The middle class is being eroded, sovereign...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jamie Bartlett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-29T12:03:59.595281+00:00" name="calibre:timestamp"/>
+        <meta content="People Vs Tech, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

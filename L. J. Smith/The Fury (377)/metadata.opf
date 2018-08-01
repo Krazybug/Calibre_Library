@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">377</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86d8cf5f-b701-419e-ba4d-7897d1695781</dc:identifier>
+        <dc:title>The Fury</dc:title>
+        <dc:creator opf:file-as="Smith, L. J." opf:role="aut">L. J. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-06-08T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Elena, believing she was helping her boyfriend, Stefan, is tricked by 
+his brother Damon into exchanging blood with him - not realizing that 
+this will transform her into a vampire too. Now crazed with her own wild
+ craving for blood, it is up to Stephan to save her.&lt;/p&gt;</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dark Fantasy; Romance; Young-adult Fiction</dc:subject>
+        <meta content="{&quot;L. J. Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="The Vampire Diaries" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2018-07-12T09:35:47.311710+00:00" name="calibre:timestamp"/>
+        <meta content="Fury, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
