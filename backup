@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 find . -size +100M | sed 's|^\./||g' | cat >> .gitignore
 git add .
