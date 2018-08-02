@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef7f34dc-71e9-4029-9b1a-850df679a4f6</dc:identifier>
+        <dc:title>Letters From a Stoic</dc:title>
+        <dc:creator opf:file-as="Seneca" opf:role="aut">Seneca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-11-10T05:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Seneca&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-02T11:57:52.573190+00:00" name="calibre:timestamp"/>
+        <meta content="Letters From a Stoic" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

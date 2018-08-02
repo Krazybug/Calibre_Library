@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fc8c82e-2ef7-4fd4-a7a9-ce68d50be44e</dc:identifier>
+        <dc:title>Turing's Cathedral</dc:title>
+        <dc:creator opf:file-as="Dyson, George" opf:role="aut">George Dyson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"It is possible to invent a single machine which can be used to compute any computable sequence," twenty-four-year-old Alan Turing announced in 1936. In &lt;i&gt;Turing's Cathedral&lt;/i&gt;, George Dyson focuses on a small group of men and women, led by John von Neumann at the Institute for Advanced Study in Princeton, New Jersey, who built one of the first computers to realize Alan Turing's vision of a Universal Machine. Their work would break the distinction between numbers that &lt;i&gt;mean&lt;/i&gt; things and numbers that &lt;i&gt;do&lt;/i&gt; things--and our universe would never be the same.&lt;br&gt;&lt;br&gt;Using five kilobytes of memory (the amount allocated to displaying the cursor on a computer desktop of today), they achieved unprecedented success in both weather prediction and nuclear weapons design, while tackling, in their spare time, problems ranging from the evolution of viruses to the evolution of stars.&lt;br&gt;&lt;br&gt;Dyson's account, both historic and prophetic, sheds important new light on how the digital...</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-90706-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;George Dyson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-02T11:59:11.033805+00:00" name="calibre:timestamp"/>
+        <meta content="Turing's Cathedral" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

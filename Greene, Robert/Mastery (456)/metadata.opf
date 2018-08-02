@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2df36d6a-36b9-4ccd-b622-013b2e33cb80</dc:identifier>
+        <dc:title>Mastery</dc:title>
+        <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Greene, Robert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-12T23:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101601020</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Greene, Robert&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-02T11:59:07.990753+00:00" name="calibre:timestamp"/>
+        <meta content="Mastery" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
