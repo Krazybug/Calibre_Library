@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5be1a4c9-8103-43ee-9ba3-ec4a5459f22b</dc:identifier>
+        <dc:title>Survival of the Prettiest: The Science of Beauty</dc:title>
+        <dc:creator opf:file-as="Etcoff, Nancy" opf:role="aut">Nancy Etcoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-01T18:30:00+00:00</dc:date>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307779113</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004G5ZYLA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Nancy Etcoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-03T11:23:52.556482+00:00" name="calibre:timestamp"/>
+        <meta content="Survival of the Prettiest: The Science of Beauty" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

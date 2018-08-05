@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47994f04-78e6-4c52-92b2-c65a576285da</dc:identifier>
+        <dc:title>The Odyssey</dc:title>
+        <dc:creator opf:file-as="Homer" opf:role="aut">Homer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-12T22:00:00+00:00</dc:date>
+        <dc:description>The Odyssey, the second of the epic texts attributed to Homer, and also a major founding work of European literature, is usually dated to around the 8th century BC.  It is an epic poem, effectively a sequel to the Iliad, written in Ancient Greek but assumed to be derived from earlier oral sources, telling the story of Odysseus’ wanderings and his eventual return from the Trojan War to his home island of Ithaca.</dc:description>
+        <dc:publisher>Poetry In Translation</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry Translation</dc:subject>
+        <meta content="{&quot;Homer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-04T15:37:46.883079+00:00" name="calibre:timestamp"/>
+        <meta content="Odyssey, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
