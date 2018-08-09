@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">461</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4782b57-bf6b-4633-ab65-edbfd6ee473b</dc:identifier>
+        <dc:title>High Output Management</dc:title>
+        <dc:creator opf:file-as="Grove, Andrew S." opf:role="aut">Andrew S. Grove</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-18T05:00:00+00:00</dc:date>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B015VACHOK</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780679762881</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Andrew S. Grove&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-05T11:43:00.469620+00:00" name="calibre:timestamp"/>
+        <meta content="High Output Management" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
