@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab2dbb72-726d-4e48-8576-033cbe1341f0</dc:identifier>
+        <dc:title>Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist</dc:title>
+        <dc:creator opf:file-as="Raworth, Kate" opf:role="aut">Raworth, Kate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-05T18:30:00+00:00</dc:date>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B01BUOGF58</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781473517813</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Raworth, Kate&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-16T20:56:54.544274+00:00" name="calibre:timestamp"/>
+        <meta content="Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

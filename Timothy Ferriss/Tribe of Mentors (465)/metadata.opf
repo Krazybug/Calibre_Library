@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6ef47df-4c79-4000-ae24-4ba28471193d</dc:identifier>
+        <dc:title>Tribe of Mentors</dc:title>
+        <dc:creator opf:file-as="Ferriss, Timothy" opf:role="aut">Timothy Ferriss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;We All Need Mentors. Here Are More than 100 of the World's Best.&lt;/B&gt;&lt;BR /&gt; When facing life's questions, who do you turn to for advice? We all need mentors, particularly when the odds seem stacked against us. For this book, best-selling author Tim Ferriss tracked down more than 100 eclectic mentors to help him, and you, navigate life. Through short, action-packed profiles, he shares their secrets for success, happiness, meaning, and more. No matter the challenge or opportunity, something in these pages can help.&lt;BR /&gt; &lt;BR /&gt; You will learn:&lt;li&gt;The three books legendary investor Ray Dalio recommends most often&lt;/li&gt;&lt;li&gt;Lessons and tips from elite athletes like Maria Sharapova, Kelly Slater, Dara Torres, Tony Hawk, Dan Gable, and more&lt;/li&gt;&lt;li&gt;How and why Facebook co-founder Dustin Moskovitz says no to most incoming requests&lt;/li&gt;&lt;li&gt;The mental models of poker phenoms Daniel Negreanu, Annie Duke, Fedor Holz, and Liv Boeree&lt;/li&gt;&lt;li&gt;The meditation and mindfulness practices of David...</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Timothy Ferriss&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-16T20:56:51.798610+00:00" name="calibre:timestamp"/>
+        <meta content="Tribe of Mentors" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

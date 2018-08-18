@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d38b4a50-e2c4-4eba-a386-8c762de0b138</dc:identifier>
+        <dc:title>Tools of Titans</dc:title>
+        <dc:creator opf:file-as="Ferriss, Timothy" opf:role="aut">Timothy Ferriss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-25T18:21:22+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;The latest groundbreaking tome from Tim Ferriss, the #1 &lt;/B&gt;&lt;I&gt;&lt;B&gt;New York Times &lt;/B&gt;&lt;/I&gt;&lt;B&gt;best-selling author of &lt;/B&gt;&lt;I&gt;&lt;B&gt;The 4-Hour Workweek&lt;/B&gt;&lt;/I&gt;&lt;B&gt;.&lt;/B&gt;&lt;BR /&gt; &lt;BR /&gt;&lt;B&gt;From the author:&lt;/B&gt;&lt;BR /&gt; &lt;BR /&gt; "For the last two years, I've interviewed nearly two hundred world-class performers for my podcast, &lt;I&gt;The Tim Ferriss Show. &lt;/I&gt;The guests range from super celebs (Jamie Foxx, Arnold Schwarzenegger, etc.) and athletes (icons of powerlifting, gymnastics, surfing, etc.) to legendary Special Operations commanders and black-market biochemists. For most of my guests, it's the first time they've agreed to a two-to-three-hour interview, and the show is on the cusp of passing 1 million downloads.&lt;BR /&gt; &lt;BR /&gt; "This book contains the distilled tools, tactics, and 'inside baseball' you won't find anywhere else. It also includes new tips from past guests, and life lessons from new 'guests' you haven't met.&lt;BR /&gt; &lt;BR /&gt; "What makes the show different is a relentless focus on...</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Timothy Ferriss&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-16T20:56:53.271007+00:00" name="calibre:timestamp"/>
+        <meta content="Tools of Titans" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
