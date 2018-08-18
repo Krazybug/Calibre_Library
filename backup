@@ -1,6 +1,11 @@
 #!/bin/bash
-
+echo "backing up Calibre Library"
+echo "updating git ignore"
 find . -size +100M | sed 's|^\./||g' | cat >> .gitignore
+echo "copying ignored files to Dropbox folder"
+find .  -size +100M -exec cp --parents -t ../Dropbox/big_books "{}" +
+echo "uploading books to github..."
 git add .
 git commit -m "backing up"
 git push
+echo "Calibre backup done"
