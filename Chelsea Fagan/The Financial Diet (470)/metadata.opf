@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edf94e90-9fac-47d8-8d50-125180499041</dc:identifier>
+        <dc:title>The Financial Diet</dc:title>
+        <dc:creator opf:file-as="Fagan, Chelsea &amp; Hage, Lauren Ver" opf:role="aut">Chelsea Fagan</dc:creator>
+        <dc:creator opf:file-as="Fagan, Chelsea &amp; Hage, Lauren Ver" opf:role="aut">Lauren Ver Hage</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;A budget boot camp and guide to long-term transformation that will help you save, date, decorate and dream your way to your best financial life.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;THE FINANCIAL DIET is the personal finance book for people who don't care about personal finance; it's your savvy older sister, your trusted friend, and the girl at the office who always seems to have her shit together all rolled into one. Whether you're in need of an overspending detox, buried under student loans, or just trying to figure out how to live on an entry-level salary, THE FINANCIAL DIET gives you tools to make a budget, consider investments, and deal with your credit. Author Chelsea Fagan has tapped a range of experts to help you make the best choices for &lt;i&gt;you&lt;/i&gt;, but she also knows that being smarter with money isn't just about what you put in the bank. It's about everything&amp;#8212;from the clothes you put in your closet to the food you put in your kitchen (instead of ordering in, again). So THE FINANCIAL...</dc:description>
+        <dc:publisher>Henry Holt and Co.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lauren Ver Hage&quot;: &quot;&quot;, &quot;Chelsea Fagan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-24T05:02:47.986825+00:00" name="calibre:timestamp"/>
+        <meta content="Financial Diet, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

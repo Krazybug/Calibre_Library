@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f961c55-4f27-4751-8e86-8c0e431cc35a</dc:identifier>
+        <dc:title>The Uses and Abuses of History</dc:title>
+        <dc:creator opf:file-as="Macmillan, Margaret" opf:role="aut">Margaret MacMillan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-16T04:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"'In a world where the spin doctor has replaced the historian, MacMillan reminds readers of the importance of dispassionate, fact-driven narrative, as opposed to reassuring or self-serving accounts that pass for history while burying the unpleasant truths.' - Ottawa Sun 'This is history used as its own best argument' - The Toronto Sun" &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;The past is capricious enough to support every stance - no matter how questionable. In 2002, the Bush administration decided that dealing with Saddam Hussein was like appeasing Hitler or Mussolini, and promptly invaded Iraq. Were they wrong to look to history for guidance? No; their mistake was to exaggerate one of its lessons while suppressing others of equal importance. History is often hijacked through suppression, manipulation, and, sometimes, even outright deception. MacMillan's book is packed full of examples of the abuses of history. In response, she urges us to treat the past with care and respect. &lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780143054788</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Historiography</dc:subject>
+        <dc:subject>Study &amp; Teaching</dc:subject>
+        <dc:subject>Decision Making</dc:subject>
+        <meta content="{&quot;Margaret MacMillan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="4" name="calibre:rating"/>
+        <meta content="2018-08-24T05:02:46.528091+00:00" name="calibre:timestamp"/>
+        <meta content="Uses and Abuses of History, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

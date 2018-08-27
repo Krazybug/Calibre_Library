@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70f8ba85-e334-46c0-b74b-424671eccacc</dc:identifier>
+        <dc:title>The Fountainhead</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn &amp; Peikoff, Leonard" opf:role="aut">Ayn</dc:creator>
+        <dc:creator opf:file-as="Rand, Ayn &amp; Peikoff, Leonard" opf:role="aut">Peikoff Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;A special edition hardcover in celebration of Ayn Rand's centennial.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When it was first published in 1943, &lt;em&gt;The Fountainhead&lt;/em&gt;--containing Ayn Rand's daringly original literary vision with the seeds of her groundbreaking philosophy, Objectivismwon immediate worldwide acclaim. This instant classic is the story of an intransigent young architect, his violent battle against conventional standards, and his explosive love affair with a beautiful woman who struggles to defeat him. This centennial edition of &lt;em&gt;The Fountainhead&lt;/em&gt;, celebrating the controversial and eduring legacy of its author, features an afterword by Rand's literary executor, Leonard Peikoff, offering some of Ayn Rand's personal notes on the development of her masterwork. &lt;/p&gt;&lt;p&gt;“A writer of great power. She has a subtle and ingenious mind and the capacity of writing brilliantly, beautifully, bitterly.”&lt;br&gt;--&lt;em&gt;The New York Times&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;h4&gt;Annotation&lt;/h4&gt;&lt;p&gt;A phenomenal bestseller since its publication in 1943, The Fountainhead brought Ayn Rand's philosophy of Objectivism to a worldwide audience. As original today as it was when it was written, this novel reinvents the modern-day hero. This anniversary edition includes a special afterword by Leonard Peikoff and excerpts from Rand's own notes about the book. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452273337</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Man-Woman Relationships</dc:subject>
+        <dc:subject>Psychological Fiction</dc:subject>
+        <dc:subject>Architects</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Individual Architect</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Didactic Fiction</dc:subject>
+        <dc:subject>Individualism</dc:subject>
+        <meta content="{&quot;Peikoff Rand&quot;: &quot;&quot;, &quot;Ayn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-27T17:19:07.455603+00:00" name="calibre:timestamp"/>
+        <meta content="Fountainhead, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

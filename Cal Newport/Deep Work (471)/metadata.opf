@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9352e76-7fea-4aaf-a710-7f0baef01e6b</dc:identifier>
+        <dc:title>Deep Work</dc:title>
+        <dc:creator opf:file-as="NEWPORT, CAL" opf:role="aut">Cal Newport</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;An Amazon Best Book of January 2016 in Business &amp; Leadership Pick&lt;/b&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;p&gt;&lt;b&gt;One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.&lt;/b&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;p&gt;Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.&lt;p&gt;&lt;br&gt;&lt;p&gt;In DEEP WORK, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he...</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics / Time Management</dc:subject>
+        <meta content="{&quot;Cal Newport&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-25T07:43:27.749556+00:00" name="calibre:timestamp"/>
+        <meta content="Deep Work" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
