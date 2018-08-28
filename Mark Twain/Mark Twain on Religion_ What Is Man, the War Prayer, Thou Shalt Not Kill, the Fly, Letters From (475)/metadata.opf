@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f86831bf-5689-4578-ac72-cd2a7f0e4725</dc:identifier>
+        <dc:title>Mark Twain on Religion: What Is Man, the War Prayer, Thou Shalt Not Kill, the Fly, Letters From the Earth</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Book Description:&lt;/strong&gt;   &lt;/p&gt;&lt;p&gt;Mark Twain talks about his personal views on religion, the Bible and God, in these five writings.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Table of Contents:&lt;/strong&gt;   &lt;/p&gt;&lt;p&gt;Publisher’s Preface; What Is Man? And Other Essays Of Mark Twain; What Is Man?; The Death Of Jean; The Turning-point Of My Life; How To Make History Dates Stick; The Memorable Assassination; A Scrap Of Curious History; Switzerland, The Cradle Of Liberty; At The Shrine Of St. Wagner; William Dean Howells; English As She Is Taught; A Simplified Alphabet; As Concerns Interpreting The Deity; Concerning Tobacco; The Bee; Taming The Bicycle; Is Shakespeare Dead?; The War Prayer; Thou Shalt Not Kill; The Fly; Letters From The Earth  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;About the Publisher:&lt;/strong&gt;   &lt;/p&gt;&lt;p&gt;Forgotten Books is a publisher of historical writings, such as: Philosophy, Classics, Science, Religion, Esoteric and Mythology. www.forgottenbooks.org  &lt;/p&gt;&lt;p&gt;Forgotten Books is about sharing information, not about making money. All books are priced at wholesale prices. We are also the only publisher we know of to print in large sans-serif font, which is proven to make the text easier to read and put less strain on your eyes. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;About the Author:&lt;/strong&gt;   &lt;/p&gt;&lt;p&gt;"Samuel Langhorne Clemens... better known by the pen name Mark Twain, was an American humorist, satirist, lecturer and writer. Twain is most noted for his novels Adventures of Huckleberry Finn, which has since been called the Great American Novel, and The Adventures of Tom Sawyer. He is also known for his quotations. During his lifetime, Clemens became a friend to presidents, artists, leading industrialists and European royalty.  &lt;/p&gt;&lt;p&gt;Clemens enjoyed immense public popularity, and his keen wit and incisive satire earned him praise from both critics and peers. American author William Faulkner called Twain 'the father of American literature.'" &lt;em&gt;(Quote from wikipedia.org)&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Forgotten Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781605060361</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mark Twain&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-08-28T13:23:10.537489+00:00" name="calibre:timestamp"/>
+        <meta content="Mark Twain on Religion: What Is Man, the War Prayer, Thou Shalt Not Kill, the Fly, Letters From the Earth" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

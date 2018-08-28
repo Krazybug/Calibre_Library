@@ -519,40 +519,64 @@
   "tag_browser_hidden_categories": [], 
   "gui_view_history": [
     [
+      427, 
+      "Meditations"
+    ], 
+    [
+      138, 
+      "nc.rev.final2.dvi"
+    ], 
+    [
+      186, 
+      "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein-Introduction to algorithms-The MIT Press (2001)"
+    ], 
+    [
+      324, 
+      "Ventura - GBBFRNT.CHP"
+    ], 
+    [
+      153, 
+      "Essential-Skills"
+    ], 
+    [
+      132, 
+      "inf_cam_supp.pdf"
+    ], 
+    [
+      420, 
+      "James Davidson-Courtesans and Fishcakes The Consuming Passions of Classical Athens-Fontana Press (1997)"
+    ], 
+    [
+      1, 
+      "Quick Start Guide"
+    ], 
+    [
+      447, 
+      "Brain-\ufffdComputer Interfacing: An Introduction"
+    ], 
+    [
+      20, 
+      "Robert J. Shiller-Irrational exuberance-Princeton University Press (2000)"
+    ], 
+    [
+      79, 
+      "gd-revisited"
+    ], 
+    [
+      75, 
+      "book.dvi"
+    ], 
+    [
+      62, 
+      "(Springer Series in Statistics) Trevor Hastie, Robert Tibshirani, Jerome Friedman-The elements of statistical learning Data mining, inference, and prediction-Springer (2009)"
+    ], 
+    [
+      148, 
+      "59306pre"
+    ], 
+    [
       26, 
       "Antifragile: Things That Gain from Disorder"
-    ], 
-    [
-      395, 
-      "The Accidental Universe"
-    ], 
-    [
-      328, 
-      "Hacker's Delight"
-    ], 
-    [
-      40, 
-      "The transparent society"
-    ], 
-    [
-      40, 
-      "file:///Users/clement/Calibre%20Library/Brin/The%20transparent%20society%20(111)/The%20transparent%20society%20-%20Brin/index.html"
-    ], 
-    [
-      31, 
-      "Skin in the Game"
-    ], 
-    [
-      18, 
-      "Animal Spirits"
-    ], 
-    [
-      19, 
-      "Fooled by Randomness"
-    ], 
-    [
-      21, 
-      "Phishing for Phools"
     ]
   ], 
   "library_view books view state": {
@@ -562,34 +586,66 @@
       "size": "center"
     }, 
     "column_sizes": {
-      "publisher": 95, 
+      "rating": 0, 
       "pubdate": 98, 
-      "rating": 75, 
-      "series": 70, 
-      "tags": 61, 
+      "tags": 0, 
+      "series": 0, 
+      "timestamp": 0, 
+      "title": 868, 
+      "publisher": 0, 
       "languages": 0, 
       "last_modified": 0, 
-      "timestamp": 91, 
       "authors": 287, 
-      "title": 521, 
-      "size": 94
+      "size": 0
     }, 
     "languages_injected": true, 
     "column_positions": {
-      "publisher": 8, 
-      "pubdate": 9, 
       "rating": 5, 
+      "pubdate": 9, 
+      "title": 1, 
       "series": 7, 
+      "timestamp": 3, 
       "tags": 6, 
+      "publisher": 8, 
       "languages": 11, 
       "last_modified": 10, 
       "ondevice": 0, 
       "authors": 2, 
-      "title": 1, 
-      "timestamp": 3, 
       "size": 4
     }, 
     "sort_history": [
+      [
+        "authors", 
+        false
+      ], 
+      [
+        "title", 
+        true
+      ], 
+      [
+        "pubdate", 
+        true
+      ], 
+      [
+        "tags", 
+        true
+      ], 
+      [
+        "authors", 
+        true
+      ], 
+      [
+        "timestamp", 
+        false
+      ], 
+      [
+        "last_modified", 
+        true
+      ], 
+      [
+        "title", 
+        true
+      ], 
       [
         "timestamp", 
         false
@@ -608,6 +664,12 @@
       ]
     ], 
     "hidden_columns": [
+      "timestamp", 
+      "size", 
+      "rating", 
+      "tags", 
+      "series", 
+      "publisher", 
       "last_modified", 
       "languages"
     ], 

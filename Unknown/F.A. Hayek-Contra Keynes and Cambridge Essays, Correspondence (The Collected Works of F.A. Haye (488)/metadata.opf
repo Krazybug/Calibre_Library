@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4c35302-0ec6-48bf-82ba-ed0f2ff493ce</dc:identifier>
+        <dc:title>F.A. Hayek-Contra Keynes and Cambridge Essays, Correspondence (The Collected Works of F.A. Hayek)-Routledge (1995)</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-15T23:47:52+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T13:24:01.277011+00:00" name="calibre:timestamp"/>
+        <meta content="F.A. Hayek-Contra Keynes and Cambridge Essays, Correspondence (The Collected Works of F.A. Hayek)-Routledge (1995)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

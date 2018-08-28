@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf7ccd13-5d05-430f-9551-ca5c07b131ad</dc:identifier>
+        <dc:title>Moby Dick</dc:title>
+        <dc:creator opf:file-as="Melville, Herman" opf:role="aut">Herman Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-15T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+On board the whaling ship Pequod, a crew of wise men and fools, renegades, and seeming phantoms is hurled through treacherous seas by a crazed captain hell-bent on hunting down the mythic White Whale. As the "great flood-gates of the wonder-world" swing open, Melville transforms the little world of the whale-ship into a crucible where mankind's fears, faith and frailties are pitted against a relentless fate. Teeming with ideas and imagery, and with its extraordinary, compressed intensity sustained by a buoyant, mischievous irony and by moments of exquisite beauty, Melville's masterpiece is both a great American epic and one of the most profoundly imaginative creations in literary history. Herman Melville was born in 1819 in New York City. Both his grandfathers were Revolutionary War heroes but his father, a merchant, died bankrupt in 1833. Melville left school and worked at various jobs before shipping on the whaler Acushnet in 1841. The next year he deserted, traveled the South Seas and joined the US Navy. After three years he retired, settled in Massachusetts and started to write. His first two novels, Typee (1846) and Omoo (1847), were fictionalized accounts of his travels: they remained his most popular works during his lifetime. In 1847 Melville married and wrote a series of novels he considered potboilers for money. With Moby-Dick (1851) he changed course, partly under the influence of Nathaniel Hawthorne; but the novel's extravagant intensity lost him readers. Pierre (1852) fared no better, and after publishing one more novel Melville took a job as a customs inspector in the New York City harbor and turned to writing poetry. He died there in 1891; an unfinished novel, Billy Budd, Sailor, was published in 1924.
+&lt;h3&gt;From School Library Journal&lt;/h3&gt;
+&lt;p&gt;Grade 5 Up-Opening with the classic line, "Call me Ishmael," the narrator's New England accent adds a touch of authenticity to this sometimes melodramatic presentation. The St. Charles Players do a credible job on the major roles, but some of the group responses, such as "Aye, aye Captain," sound more comic than serious. This adaptation retains a good measure of Melville's dialogue and key passages which afford listeners a vivid connection with the lengthy novel. Background music and appropriate sound effects enhance the telling of the story about Captain Ahab's obsessive pursuit of the malevolent white whale. The cassettes are clearly marked, and running times are noted on each side of the tapes. Announcements at the beginning of each side and a subtle chime signal at the end make it easy to follow the story, but a stereo player must be used to hear some dialogue. The lightweight cardboard package is inadequate for circulation. Done in a radio theatre format, the recording does a nice job of introducing the deeper themes of the book and covering the major events. For school libraries that support an American literature curriculum, this recording offers a different interpretation of an enduring classic.&lt;br /&gt;
+&lt;em&gt;Barbara Wysocki, Cora J. Belden Library. Rocky Hill, CT &lt;/em&gt;&lt;br /&gt;
+Copyright 1999 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;From Library Journal&lt;/h3&gt;
+&lt;p&gt;In a sense, this work is the piece de resistance of the textual revolution in American scholarship of the past generation. The first half is the final MLA "Approved Text" of the classic novel, prepared under the auspices of the Center for Editions of American Authors. The second half consists of an Historical Note detailing background, genetic composition, publication, and ensuing critical reception; a discussion of its textual history; and some relevant marginalia. The work is not only thorough and rigorous, but, considering the scholarly grittiness of the endeavor, surprisingly lucid and graceful in its exposition. Highly recommended for special collections. Earl Rovit, City Coll., CUNY&lt;br /&gt;
+Copyright 1988 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780142437247</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Sailors</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Ship captains</dc:subject>
+        <dc:subject>Mentally ill</dc:subject>
+        <dc:subject>Shipwrecks</dc:subject>
+        <dc:subject>Ahab; Captain (Fictitious character)</dc:subject>
+        <dc:subject>Whaling</dc:subject>
+        <dc:subject>Whaling ships</dc:subject>
+        <dc:subject>Whales</dc:subject>
+        <dc:subject>Fisheries &amp; Aquaculture</dc:subject>
+        <meta content="{&quot;Herman Melville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2018-08-01T03:37:24+00:00" name="calibre:timestamp"/>
+        <meta content="Moby Dick" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

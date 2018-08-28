@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">066fce16-f145-40a2-b23b-b2d1daa79dc0</dc:identifier>
+        <dc:title>Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)</dc:title>
+        <dc:creator opf:file-as="Rosenberg, Marshall B." opf:role="aut">Marshall B. Rosenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div style="text-align: justify;"&gt;The latest edition of the communication guide that has sold more than 1,000,000 copies&lt;/div&gt;&lt;div style="text-align: justify;"&gt;An enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller uses stories, examples, and sample dialogues to provide solutions to communication problems both at home and in the workplace. Guidance is provided on identifying and articulating feelings and needs, expressing anger fully, and exploring the power of empathy in order to speak honestly without creating hostility, break patterns of thinking that lead to anger and depression, and communicate compassionately. Practical nonviolent communication skills are partnered with a powerful consciousness and vocabulary that can be applied to personal, professional, and political differences. Included in the new edition is a complete chapter on conflict resolution and mediation.&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Puddledancer Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B014OISVU4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781892005281</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>1. Interpersonal communication. 2. Interpersonal relations. 3. Nonviolence.</dc:subject>
+        <meta content="{&quot;Marshall B. Rosenberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T13:31:16.537231+00:00" name="calibre:timestamp"/>
+        <meta content="Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

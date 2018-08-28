@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cfa0d1e-c12a-417a-abad-6a4c6065b276</dc:identifier>
+        <dc:title>Homo Deus: A Brief History of Tomorrow</dc:title>
+        <dc:creator opf:file-as="Harari, Yuval Noah" opf:role="aut">Yuval Noah Harari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-13T00:00:00+00:00</dc:date>
+        <dc:publisher>Signal</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0771038682</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780771038686</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">29640063</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Yuval Noah Harari&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T13:24:09.481556+00:00" name="calibre:timestamp"/>
+        <meta content="Homo Deus: A Brief History of Tomorrow" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
