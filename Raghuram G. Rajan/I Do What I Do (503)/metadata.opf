@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ce56e3b-d1b6-4ced-948c-3ac6f984ae33</dc:identifier>
+        <dc:title>I Do What I Do</dc:title>
+        <dc:creator opf:file-as="Rajan, Raghuram G." opf:role="aut">Raghuram G. Rajan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-03T18:30:00+00:00</dc:date>
+        <dc:description>null</dc:description>
+        <dc:publisher>HarperCollins Publishers India</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B074VZGMNT</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>null</dc:subject>
+        <meta content="{&quot;Raghuram G. Rajan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:06:02.104815+00:00" name="calibre:timestamp"/>
+        <meta content="I Do What I Do" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

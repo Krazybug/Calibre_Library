@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecf67a70-c142-48b8-9811-8ae829a1bb2c</dc:identifier>
+        <dc:title>THE RED QUEEN</dc:title>
+        <dc:creator opf:file-as="Ridley, Matt" opf:role="aut">Matt Ridley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-08T18:30:00+00:00</dc:date>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141965451</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Matt Ridley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:05:47.085639+00:00" name="calibre:timestamp"/>
+        <meta content="RED QUEEN, THE" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

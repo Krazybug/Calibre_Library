@@ -519,6 +519,10 @@
   "tag_browser_hidden_categories": [], 
   "gui_view_history": [
     [
+      519, 
+      "My books"
+    ], 
+    [
       148, 
       "Ecnomics and Language"
     ], 
@@ -573,10 +577,6 @@
     [
       393, 
       "On Computable Numbers, with an Application to the Entscheidungsproblem"
-    ], 
-    [
-      181, 
-      "Steven S. Skiena (auth.)-The Algorithm Design Manual-Springer-Verlag London (2008)"
     ]
   ], 
   "library_view books view state": {
@@ -591,12 +591,12 @@
       "tags": 0, 
       "series": 0, 
       "timestamp": 0, 
-      "title": 549, 
+      "title": 425, 
       "publisher": 0, 
       "languages": 0, 
-      "last_modified": 0, 
+      "last_modified": 92, 
       "authors": 287, 
-      "size": 0
+      "size": 94
     }, 
     "languages_injected": true, 
     "column_positions": {
@@ -615,7 +615,31 @@
     }, 
     "sort_history": [
       [
+        "size", 
+        true
+      ], 
+      [
+        "title", 
+        true
+      ], 
+      [
         "pubdate", 
+        true
+      ], 
+      [
+        "authors", 
+        true
+      ], 
+      [
+        "last_modified", 
+        true
+      ], 
+      [
+        "title", 
+        true
+      ], 
+      [
+        "last_modified", 
         true
       ], 
       [
@@ -635,60 +659,8 @@
         true
       ], 
       [
-        "pubdate", 
-        true
-      ], 
-      [
-        "authors", 
-        false
-      ], 
-      [
-        "pubdate", 
-        true
-      ], 
-      [
         "title", 
-        true
-      ], 
-      [
-        "pubdate", 
-        true
-      ], 
-      [
-        "authors", 
         false
-      ], 
-      [
-        "pubdate", 
-        true
-      ], 
-      [
-        "authors", 
-        false
-      ], 
-      [
-        "pubdate", 
-        true
-      ], 
-      [
-        "authors", 
-        false
-      ], 
-      [
-        "title", 
-        true
-      ], 
-      [
-        "authors", 
-        false
-      ], 
-      [
-        "title", 
-        true
-      ], 
-      [
-        "pubdate", 
-        true
       ], 
       [
         "timestamp", 
@@ -697,12 +669,10 @@
     ], 
     "hidden_columns": [
       "timestamp", 
-      "size", 
       "rating", 
       "tags", 
       "series", 
       "publisher", 
-      "last_modified", 
       "languages"
     ], 
     "last_modified_injected": true

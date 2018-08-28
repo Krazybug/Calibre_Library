@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca464b5a-43c4-4494-8ec3-455951063f54</dc:identifier>
+        <dc:title>Tao Te Ching</dc:title>
+        <dc:creator opf:file-as="Mitchell, Stephen" opf:role="aut">Stephen Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-07-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;Lao-tzu's Tao Te Ching, or Book of the Way, is the classic manual on the art of living, and one of the wonders of the world. In eighty-one brief chapters, the Tao Te Ching looks at the basic predicament of being alive and gives advice that imparts balance and perspective, a serene and generous spirit. This book is about wisdom in action. It teaches how to work for the good with the effortless skill that comes from being in accord with the Tao (the basic principle of the universe) and applies equally to good government and sexual love; to child rearing, business, and ecology.&lt;P&gt;Stephen Mitchell's bestselling version has been widely acclaimed as a gift to contemporary culture.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="9780061807398">9780061807398</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Stephen Mitchell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:06:43.981760+00:00" name="calibre:timestamp"/>
+        <meta content="Tao Te Ching" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

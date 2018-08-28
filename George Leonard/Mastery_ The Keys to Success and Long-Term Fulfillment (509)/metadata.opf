@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13744c03-6aba-40e7-9308-25a8da72e628</dc:identifier>
+        <dc:title>Mastery: The Keys to Success and Long-Term Fulfillment</dc:title>
+        <dc:creator opf:file-as="Leonard, George" opf:role="aut">George Leonard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-22T17:58:29+00:00</dc:date>
+        <dc:description>self-help, mastery, long-term success, personal transformation, goals</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>mastery</dc:subject>
+        <dc:subject>long-term success</dc:subject>
+        <dc:subject>personal transformation</dc:subject>
+        <dc:subject>goals</dc:subject>
+        <meta content="{&quot;George Leonard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:06:16.433544+00:00" name="calibre:timestamp"/>
+        <meta content="Mastery: The Keys to Success and Long-Term Fulfillment" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

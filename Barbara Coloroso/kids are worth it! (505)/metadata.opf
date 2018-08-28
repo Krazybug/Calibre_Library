@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec917dd2-1f84-484b-939a-562a1bb8c9ba</dc:identifier>
+        <dc:title>kids are worth it!</dc:title>
+        <dc:creator opf:file-as="Coloroso, Barbara" opf:role="aut">Barbara Coloroso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-14T16:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0034EJL40</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Barbara Coloroso&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:06:07.038423+00:00" name="calibre:timestamp"/>
+        <meta content="kids are worth it!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

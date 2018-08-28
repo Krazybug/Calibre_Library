@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d5affe7-992b-4b8a-8705-07986eb8903a</dc:identifier>
+        <dc:title>Monoculture: How One Story is Changing Everything</dc:title>
+        <dc:creator opf:file-as="Michaels, F.S." opf:role="aut">Michaels, F.S.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-25T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;As human beings, we’ve always told stories: stories about who we are, where we come from, and where we’re going. Now imagine that one of those stories is taking over the others, narrowing our diversity and creating a monoculture. Because of the rise of the economic story, six areas of your world — your work, your relationships with others and the environment, your community, your physical and spiritual health, your education, and your creativity — are changing, or have already changed, in subtle and not-so-subtle ways. And because how you think shapes how you act, the monoculture isn’t just changing your mind — it’s changing your life.&lt;/p&gt;
+&lt;p class="description"&gt;In Monoculture, FS Michaels draws on extensive research and makes surprising connections among disciplines to take a big-picture look at how one story is changing everything. Her research and writing have been supported by the Social Sciences and Humanities Research Council of Canada, the Killam Trusts, and regional and municipal arts councils. Michaels has an MBA, and lives and writes in British Columbia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Red Clover Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business and Economics</dc:subject>
+        <dc:subject>Social Science - General</dc:subject>
+        <meta content="{&quot;Michaels, F.S.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:05:56.838840+00:00" name="calibre:timestamp"/>
+        <meta content="Monoculture: How One Story is Changing Everything" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a294195-fe05-4531-9fd7-49134d912a26</dc:identifier>
+        <dc:title>The History of the Peloponnesian War</dc:title>
+        <dc:creator opf:file-as="Thucydides" opf:role="aut">Thucydides</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Written by Thucydides around 400 AD, &lt;i&gt;The History of the Peloponnesian War&lt;/i&gt; is a meticulous account by the Athenian general of the extended struggle that raged between Athens and Sparta for the better part of twenty years. Thucydides eschews the romance of heroics and dramatics and his precise and thorough account of the ill-fated conflict is one of the first surviving scholarly works of history.</dc:description>
+        <dc:publisher>Duke Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781620117163</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Thucydides&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:06:42.388566+00:00" name="calibre:timestamp"/>
+        <meta content="History of the Peloponnesian War, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

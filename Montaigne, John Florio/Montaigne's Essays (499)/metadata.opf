@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c2f3da6-55fe-4267-ac1e-8f992c696f86</dc:identifier>
+        <dc:title>Montaigne's Essays</dc:title>
+        <dc:creator opf:file-as="Montaigne, John Florio" opf:role="aut">Montaigne, John Florio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1600-07-31T18:30:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Montaigne, John Florio&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:05:52.169780+00:00" name="calibre:timestamp"/>
+        <meta content="Montaigne's Essays" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

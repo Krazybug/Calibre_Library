@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f6c9e3e-eed4-4246-aa0a-2f1ef1db8d80</dc:identifier>
+        <dc:title>Design Thinking</dc:title>
+        <dc:creator opf:file-as="Cross, Nigel" opf:role="aut">Nigel Cross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;Design thinking is the core creative process for any designer; this book explores and explains this apparently mysterious "design ability". Focusing on what designers do when they design, &lt;i&gt;Design Thinking&lt;/i&gt; is structured around a series of in-depth case studies of outstanding and expert designers at work, interwoven with overviews and analyses. The range covered reflects the breadth of Design, from hardware to software product design, from architecture to Formula One design. The book offers new insights and understanding of design thinking, based on evidence from observation and investigation of design practice. &lt;i&gt;Design Thinking&lt;/i&gt; is the distillation of the work of one of Design's most influential thinkers. Nigel Cross goes to the heart of what it means to think and work as a designer. The book is an ideal guide for anyone who wants to be a designer or to know how good designers work in the field of contemporary Design.</dc:description>
+        <dc:publisher>Berg Publishers</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Nigel Cross&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:05:59.378071+00:00" name="calibre:timestamp"/>
+        <meta content="Design Thinking" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

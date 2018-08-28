@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2f9c77a-9d1d-459a-b4fc-9c2061a836e2</dc:identifier>
+        <dc:title>A Pattern Language : Towns, Buildings, Construction</dc:title>
+        <dc:creator opf:file-as="Christopher Alexander, Murray Silverstein, Sara Ishikawa" opf:role="aut">Christopher Alexander, Murray Silverstein, Sara Ishikawa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-04-01T07:04:32+00:00</dc:date>
+        <dc:identifier opf:scheme="GOOGLE">Ri06tAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Christopher Alexander, Murray Silverstein, Sara Ishikawa&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T19:06:47.574214+00:00" name="calibre:timestamp"/>
+        <meta content="Pattern Language : Towns, Buildings, Construction, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
