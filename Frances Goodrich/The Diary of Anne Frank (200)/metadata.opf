@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc2683db-cc0b-4436-a17b-ad731add2c28</dc:identifier>
+        <dc:title>The Diary of Anne Frank</dc:title>
+        <dc:creator opf:file-as="Goodrich, Frances &amp; Frank, Anne &amp; Hackett, Albert" opf:role="aut">Frances Goodrich</dc:creator>
+        <dc:creator opf:file-as="Goodrich, Frances &amp; Frank, Anne &amp; Hackett, Albert" opf:role="aut">Anne Frank</dc:creator>
+        <dc:creator opf:file-as="Goodrich, Frances &amp; Frank, Anne &amp; Hackett, Albert" opf:role="aut">Albert Hackett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1958-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Adapted from Anne Frank: The Diary of a Young Girl, edited by Otto Frank, winner of the 1956 Pulitzer Prize, Tony Award, Critics Circle Award, and virtually every other coveted prize of the theatre. During the Nazi occupation of the Netherlands Anne Frank began to keep a diary on June 14, 1942, two days after her 13th birthday, and twenty two days before going into hiding with her mother, father, sister, and three other people. The group went into hiding in the sealed-off upper rooms of the annex of her father's office building in Amsterdam. The sealed-off upper-rooms also contained a hidden door which the Franks would hide in during the parts when Nazi soldiers were investigating the buildings for harbored Jews. They remained hidden for two years and one month, until their betrayal in August 1944, which resulted in their deportation going to Nazi concentration camps.&lt;/p&gt;</dc:description>
+        <dc:publisher>Samuel French Limited</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">CA-CGgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780573011047</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>European</dc:subject>
+        <dc:subject>English; Irish; Scottish; Welsh</dc:subject>
+        <meta content="{&quot;Anne Frank&quot;: &quot;&quot;, &quot;Albert Hackett&quot;: &quot;&quot;, &quot;Frances Goodrich&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:27:54+00:00" name="calibre:timestamp"/>
+        <meta content="Diary of Anne Frank, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

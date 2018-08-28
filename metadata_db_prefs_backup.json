@@ -519,64 +519,64 @@
   "tag_browser_hidden_categories": [], 
   "gui_view_history": [
     [
-      427, 
-      "Meditations"
-    ], 
-    [
-      138, 
-      "nc.rev.final2.dvi"
-    ], 
-    [
-      186, 
-      "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein-Introduction to algorithms-The MIT Press (2001)"
-    ], 
-    [
-      324, 
-      "Ventura - GBBFRNT.CHP"
-    ], 
-    [
-      153, 
-      "Essential-Skills"
-    ], 
-    [
-      132, 
-      "inf_cam_supp.pdf"
-    ], 
-    [
-      420, 
-      "James Davidson-Courtesans and Fishcakes The Consuming Passions of Classical Athens-Fontana Press (1997)"
-    ], 
-    [
-      1, 
-      "Quick Start Guide"
-    ], 
-    [
-      447, 
-      "Brain-\ufffdComputer Interfacing: An Introduction"
-    ], 
-    [
-      20, 
-      "Robert J. Shiller-Irrational exuberance-Princeton University Press (2000)"
-    ], 
-    [
-      79, 
-      "gd-revisited"
-    ], 
-    [
-      75, 
-      "book.dvi"
-    ], 
-    [
-      62, 
-      "(Springer Series in Statistics) Trevor Hastie, Robert Tibshirani, Jerome Friedman-The elements of statistical learning Data mining, inference, and prediction-Springer (2009)"
-    ], 
-    [
       148, 
-      "59306pre"
+      "Ecnomics and Language"
     ], 
     [
-      26, 
-      "Antifragile: Things That Gain from Disorder"
+      134, 
+      "An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing)"
+    ], 
+    [
+      29, 
+      "Fashionable Nonsense"
+    ], 
+    [
+      30, 
+      "We"
+    ], 
+    [
+      474, 
+      "The Fountainhead"
+    ], 
+    [
+      167, 
+      "Modeling Bounded Rationality"
+    ], 
+    [
+      87, 
+      "1051_2"
+    ], 
+    [
+      175, 
+      "RL sutton 2018jan1"
+    ], 
+    [
+      90, 
+      "random backprop"
+    ], 
+    [
+      448, 
+      "ml-for-prog"
+    ], 
+    [
+      84, 
+      "metalearn17 furlanello"
+    ], 
+    [
+      496, 
+      "Introduction to algorithms"
+    ], 
+    [
+      189, 
+      "The unreasonable effectiveness of mathematics in the natural sciences. Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959"
+    ], 
+    [
+      393, 
+      "On Computable Numbers, with an Application to the Entscheidungsproblem"
+    ], 
+    [
+      181, 
+      "Steven S. Skiena (auth.)-The Algorithm Design Manual-Springer-Verlag London (2008)"
     ]
   ], 
   "library_view books view state": {
@@ -591,7 +591,7 @@
       "tags": 0, 
       "series": 0, 
       "timestamp": 0, 
-      "title": 868, 
+      "title": 549, 
       "publisher": 0, 
       "languages": 0, 
       "last_modified": 0, 
@@ -615,8 +615,36 @@
     }, 
     "sort_history": [
       [
+        "pubdate", 
+        true
+      ], 
+      [
+        "authors", 
+        true
+      ], 
+      [
+        "title", 
+        false
+      ], 
+      [
+        "pubdate", 
+        true
+      ], 
+      [
+        "authors", 
+        true
+      ], 
+      [
+        "pubdate", 
+        true
+      ], 
+      [
         "authors", 
         false
+      ], 
+      [
+        "pubdate", 
+        true
       ], 
       [
         "title", 
@@ -627,35 +655,39 @@
         true
       ], 
       [
-        "tags", 
+        "authors", 
+        false
+      ], 
+      [
+        "pubdate", 
         true
       ], 
       [
         "authors", 
-        true
-      ], 
-      [
-        "timestamp", 
         false
       ], 
       [
-        "last_modified", 
+        "pubdate", 
         true
+      ], 
+      [
+        "authors", 
+        false
       ], 
       [
         "title", 
         true
       ], 
       [
-        "timestamp", 
-        false
-      ], 
-      [
         "authors", 
         false
       ], 
       [
-        "rating", 
+        "title", 
+        true
+      ], 
+      [
+        "pubdate", 
         true
       ], 
       [

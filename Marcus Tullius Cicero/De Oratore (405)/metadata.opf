@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56fbe70f-45d8-4d72-8296-88243c9e846a</dc:identifier>
+        <dc:title>De Oratore</dc:title>
+        <dc:creator opf:file-as="Cicero, Marcus Tullius" opf:role="aut">Marcus Tullius Cicero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Cicero (Marcus Tullius, 106-43 BCE), Roman lawyer, orator, politician and philosopher, of whom we know more than of any other Roman, lived through the stirring era which saw the rise, dictatorship, and death of Julius Caesar in a tottering republic. In his political speeches especially and in his correspondence we see the excitement, tension and intrigue of politics and the part he played in the turmoil of the time. Of about 106 speeches, delivered before the Roman people or the Senate if they were political, before jurors if judicial, 58 survive (a few of them incompletely). In the fourteenth century Petrarch and other Italian humanists discovered manuscripts containing more than 900 letters of which more than 800 were written by Cicero and nearly 100 by others to him. These afford a revelation of the man all the more striking because most were not written for publication. Six rhetorical works survive and another in fragments. Philosophical works include seven extant major compositions and a number of others; and some lost. There is also poetry, some original, some as translations from the Greek. The Loeb Classical Library edition of Cicero is in twenty-nine volumes.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ldaktQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780674993839</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Public Speaking</dc:subject>
+        <meta content="{&quot;Marcus Tullius Cicero&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-29T12:04:08+00:00" name="calibre:timestamp"/>
+        <meta content="De Oratore" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

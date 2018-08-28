@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7119e03-2fd3-4614-9582-7d25bd12bc51</dc:identifier>
+        <dc:title>The Myth of Monogamy: Fidelity and Infidelity in Animals and People</dc:title>
+        <dc:creator opf:file-as="Barash, David P. &amp; Lipton, Judith Eve" opf:role="aut">David P. Barash</dc:creator>
+        <dc:creator opf:file-as="Barash, David P. &amp; Lipton, Judith Eve" opf:role="aut">Judith Eve Lipton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-05-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;"Using the same DNA fingerprinting technology used in the courtroom, biologists have now been able to trace parenthood in animals for the first time with certainty. The results have been astonishing: Even among those species previously thought to be monogamous, cheating on your mate is common--for both sexes. In The Myth of Monogamy, David Barash and Judith Eve Lipton describe how this new research shows that there is simply no question whether sexual desire for multiple partners is 'natural.' It is. Similarly, there is no question of monogamy being 'natural.' It isn't. Armed with this evidence, scientists have also been able to explain such important questions as why animals (including humans) cheat, why the myth of monogamy was created in the first place, how men and women were sucked into the monogamy hoax, who stands to gain the most by perpetuating the myth of monogamy, and how big of a role procreation plays in the desire to have several sex partners. Finally, The Myth of Monogamy explores the implications of these dramatic new findings for humans, in terms of relationships, parenting, aggression, and more"--Publisher description.&lt;/p&gt;</dc:description>
+        <dc:publisher>Henry Holt and Company</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Jl19414uE1gC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780805071368</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Human Sexuality</dc:subject>
+        <dc:subject>Interpersonal Relations</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Genetics &amp; Genomics</dc:subject>
+        <dc:subject>Zoology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Henry Holt and Company</dc:subject>
+        <meta content="{&quot;David P. Barash&quot;: &quot;&quot;, &quot;Judith Eve Lipton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T08:27:44+00:00" name="calibre:timestamp"/>
+        <meta content="Myth of Monogamy: Fidelity and Infidelity in Animals and People, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

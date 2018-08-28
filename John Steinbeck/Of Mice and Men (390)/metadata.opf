@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72c771f8-be15-4761-ae57-9edfbafe96cd</dc:identifier>
+        <dc:title>Of Mice and Men</dc:title>
+        <dc:creator opf:file-as="Steinbeck, John" opf:role="aut">John Steinbeck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1937-11-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;They are an unlikely pair: George is "small and quick and dark of face"; Lennie, a man of tremendous size, has the mind of a young child. Yet they have formed a "family," clinging together in the face of loneliness and alienation. Laborers in California's dusty vegetable fields, they hustle work when they can, living a hand-to-mouth existence. For George and Lennie have a plan: to own an acre of land and a shack they can call their own.&lt;/p&gt;</dc:description>
+        <dc:publisher>Thinking Ink Limited</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">WLtypwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781907590337</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;John Steinbeck&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:36:29+00:00" name="calibre:timestamp"/>
+        <meta content="Of Mice and Men" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

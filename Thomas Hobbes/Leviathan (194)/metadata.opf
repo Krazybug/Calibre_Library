@@ -6,8 +6,16 @@
         <dc:title>Leviathan</dc:title>
         <dc:creator opf:file-as="Hobbes, Thomas" opf:role="aut">Thomas Hobbes</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:language>en</dc:language>
+        <dc:date>2006-01-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;By a deep and careful analysis of the text, enabling a new printing history of Leviathan to be constructed, this edition demonstrates that the traditional picture is substantially wrong. Both the Bear and Ornaments editions contain corrections and changes by Hobbes himself and are therefore central to reconstructing his text. In their substantial Introduction the editors examine all previous editions of Leviathan (as well as the manuscript copy prepared for Hobbes as a presentation copy for the King), throwing light on its history and calling into question the assumptions of previous editors. They thus provide an entirely new picture of its production. Schuhmann and Rogers also make full use of the Latin edition of Leviathan, published in 1668 when Hobbes was 80 years old. Through these new perspectives they are able to offer the first complete critical edition to take proper account of the publishing history and of Hobbes's own wishes. The result is as definitive an edition of Leviathan as modern scholarship can provide. &amp;gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>A&amp;C Black</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">MV9GtQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781843711322</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>History &amp; Theory</dc:subject>
         <meta content="{&quot;Thomas Hobbes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2018-07-12T09:23:52+00:00" name="calibre:timestamp"/>
         <meta content="Leviathan" name="calibre:title_sort"/>

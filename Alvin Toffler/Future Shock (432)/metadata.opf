@@ -6,10 +6,11 @@
         <dc:title>Future Shock</dc:title>
         <dc:creator opf:file-as="Toffler, Alvin" opf:role="aut">Alvin Toffler</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:language>en</dc:language>
+        <dc:date>1970-08-14T18:30:00+00:00</dc:date>
+        <dc:identifier opf:scheme="GOOGLE">sgQySAq1A0YC</dc:identifier>
+        <dc:language>eng</dc:language>
         <meta content="{&quot;Alvin Toffler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-08-01T13:16:30.621704+00:00" name="calibre:timestamp"/>
+        <meta content="2018-08-01T13:16:30+00:00" name="calibre:timestamp"/>
         <meta content="Future Shock" name="calibre:title_sort"/>
     </metadata>
     <guide>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b624084-0c69-480c-9cec-bd641fb91ac6</dc:identifier>
+        <dc:title>The Confessions of J. J. Rousseau</dc:title>
+        <dc:creator opf:file-as="Rousseau, Jean-Jacques" opf:role="aut">Jean-Jacques Rousseau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/ebooks/3913</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Unread</dc:subject>
+        <meta content="{&quot;Jean-Jacques Rousseau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T13:23:20+00:00" name="calibre:timestamp"/>
+        <meta content="Confessions of J. J. Rousseau, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

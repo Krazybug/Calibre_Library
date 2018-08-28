@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1199dd3b-8def-40d8-ab77-b0cad667afdf</dc:identifier>
+        <dc:title>Reinforcement Learning : An Introduction</dc:title>
+        <dc:creator opf:file-as="Richard S. Sutton , Andrew G. Barto" opf:role="aut">Richard S. Sutton , Andrew G. Barto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-27T18:30:00+00:00</dc:date>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Richard S. Sutton , Andrew G. Barto&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:23:20+00:00" name="calibre:timestamp"/>
+        <meta content="Reinforcement Learning : An Introduction" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

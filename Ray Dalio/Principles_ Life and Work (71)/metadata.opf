@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Dalio, Ray" opf:role="aut">Ray Dalio</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-18T18:30:00+00:00</dc:date>
-        <dc:publisher>SIMON &amp; SCHUSTER</dc:publisher>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B071CTK28D</dc:identifier>
         <dc:language>eng</dc:language>
         <meta content="{&quot;Ray Dalio&quot;: &quot;&quot;}" name="calibre:author_link_map"/>

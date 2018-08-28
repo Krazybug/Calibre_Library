@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a0523ab-8859-4f71-92b0-fd672432f635</dc:identifier>
+        <dc:title>Bowling Alone</dc:title>
+        <dc:creator opf:file-as="Putnam, Robert D." opf:role="aut">Robert D. Putnam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-06-14T18:30:00+00:00</dc:date>
+        <dc:description>THE COLLAPSE AND REVIVAL OF AMERICAN COMMUNITY</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robert D. Putnam&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-06-01T08:27:16+00:00" name="calibre:timestamp"/>
+        <meta content="Bowling Alone" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

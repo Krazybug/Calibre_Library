@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e37b452f-d51b-4b1b-93b7-6058f5454791</dc:identifier>
+        <dc:title>Feeling Good : The New Mood Therapy</dc:title>
+        <dc:creator opf:file-as="Burns, David D." opf:role="aut">David D. Burns</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-30T18:30:00+00:00</dc:date>
+        <dc:publisher>Harper Paperbacks</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;David D. Burns&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T13:23:23+00:00" name="calibre:timestamp"/>
+        <meta content="Feeling Good : The New Mood Therapy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

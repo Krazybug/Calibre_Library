@@ -6,10 +6,10 @@
         <dc:title>Letters from the Earth</dc:title>
         <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2018-12-31T08:10:43+00:00</dc:date>
+        <dc:date>1962-12-31T08:10:43+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Mark Twain&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-08-28T13:23:15.483400+00:00" name="calibre:timestamp"/>
+        <meta content="2018-08-28T13:23:15+00:00" name="calibre:timestamp"/>
         <meta content="Letters from the Earth" name="calibre:title_sort"/>
     </metadata>
     <guide>

@@ -6,12 +6,11 @@
         <dc:title>The Prince</dc:title>
         <dc:creator opf:file-as="Machiavelli, Nicolo" opf:role="aut">Nicolo Machiavelli</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1532-08-27T18:30:00+00:00</dc:date>
         <dc:description>Download classic literature as completely free eBooks from Planet eBook.</dc:description>
         <dc:language>en</dc:language>
-        <dc:subject>Download classic literature as completely free eBooks from Planet eBook.</dc:subject>
         <meta content="{&quot;Nicolo Machiavelli&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-07-12T09:21:19.446742+00:00" name="calibre:timestamp"/>
+        <meta content="2018-07-12T09:21:19+00:00" name="calibre:timestamp"/>
         <meta content="Prince, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

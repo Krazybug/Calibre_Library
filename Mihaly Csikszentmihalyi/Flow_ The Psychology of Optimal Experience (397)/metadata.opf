@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1ae967a-ae0f-4f54-a154-12b47db72d3f</dc:identifier>
+        <dc:title>Flow: The Psychology of Optimal Experience</dc:title>
+        <dc:creator opf:file-as="Csikszentmihalyi, Mihaly" opf:role="aut">Mihaly Csikszentmihalyi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;THE BESTSELLING CLASSIC ON 'FLOW' – THE KEY TO UNLOCKING MEANING, CREATIVITY, PEAK PERFORMANCE, AND TRUE HAPPINESSLegendary psychologist Mihaly Csikszentmihalyi's famous investigations of "optimal experience" have revealed that what makes an experience genuinely satisfying is a state of consciousness called flow. During flow, people typically experience deep enjoyment, creativity, and a total involvement with life. In this new edition of his groundbreaking classic work, Csikszentmihalyi ("the leading researcher into ‘flow states’" —Newsweek) demonstrates the ways this positive state can be controlled, not just left to chance. Flow: The Psychology of Optimal Experience teaches how, by ordering the information that enters our consciousness, we can discover true happiness, unlock our potential, and greatly improve the quality of our lives."Explores a happy state of mind called flow, the feeling of complete engagement in a creative or playful activity." —Time&lt;/p&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">QVjPsd1UukEC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780061876721</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Creative Ability</dc:subject>
+        <dc:subject>Applied Psychology</dc:subject>
+        <meta content="{&quot;Mihaly Csikszentmihalyi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-25T12:52:46+00:00" name="calibre:timestamp"/>
+        <meta content="Flow: The Psychology of Optimal Experience" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

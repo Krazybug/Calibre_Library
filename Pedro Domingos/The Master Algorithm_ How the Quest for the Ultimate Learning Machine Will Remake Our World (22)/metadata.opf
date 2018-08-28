@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1706d1df-723c-4b6d-a1dd-d7e2f0078b61</dc:identifier>
+        <dc:title>The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</dc:title>
+        <dc:creator opf:file-as="Domingos, Pedro" opf:role="aut">Pedro Domingos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;"Wonderfully erudite, humorous, and easy to read." --KDNuggetsIn the world's top research labs and universities, the race is on to invent the ultimate learning algorithm: one capable of discovering any knowledge from data, and doing anything we want, before we even ask. In The Master Algorithm, Pedro Domingos lifts the veil to give us a peek inside the learning machines that power Google, Amazon, and your smartphone. He assembles a blueprint for the future universal learner--the Master Algorithm--and discusses what it will mean for business, science, and society. If data-ism is today's philosophy, this book is its bible.&lt;/p&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">9ilWDgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780465061921</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>Bayesian Analysis</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Information Theory</dc:subject>
+        <dc:subject>Logic Design</dc:subject>
+        <dc:subject>Machine Theory</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <dc:subject>Human-Computer Interaction</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Development</dc:subject>
+        <dc:subject>Business Development</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Forecasting</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <meta content="{&quot;Pedro Domingos&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-08T06:50:26+00:00" name="calibre:timestamp"/>
+        <meta content="Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
