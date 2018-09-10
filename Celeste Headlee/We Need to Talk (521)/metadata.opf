@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d72b781d-2d32-4197-82fc-d480844658ec</dc:identifier>
+        <dc:title>We Need to Talk</dc:title>
+        <dc:creator opf:file-as="Headlee, Celeste" opf:role="aut">Celeste Headlee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;"WE NEED TO TALK."&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;They are, perhaps, the most dreaded four words in the English language. But in her timely, insightful, and wonderfully practical book, We Need to Talk, Celeste Headlee&amp;#8212;who earns a living by talking on the airwaves of National Public Radio&amp;#8212;makes the case that they are urgently needed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Today most of us communicate from behind electronic screens, and studies show that Americans feel less connected and more divided than ever before. The blame for some of this disconnect can be attributed to our political landscape, but the erosion of our conversational skills as a society lies with us as individuals. &lt;/p&gt;&lt;p&gt;And the only way forward, says Headlee, is to start talking to each other. In We Need to Talk, she outlines the strategies that have made her a better conversationalist&amp;#8212;and offers simple tools that can improve anyone's communication. For example: &lt;/p&gt;&lt;li&gt;BE THERE OR GO ELSEWHERE. Human beings are...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Celeste Headlee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-09-03T04:23:04.703399+00:00" name="calibre:timestamp"/>
+        <meta content="We Need to Talk" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
