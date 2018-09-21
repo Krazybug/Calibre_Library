@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1ea1518-5227-469f-9041-990138e06caf</dc:identifier>
+        <dc:title>Other Minds</dc:title>
+        <dc:creator opf:file-as="Godfrey-Smith, Peter" opf:role="aut">Peter Godfrey-Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Although mammals and birds are widely regarded as the smartest creatures on earth, it has lately become clear that a very distant branch of the tree of life has also sprouted higher intelligence: the cephalopods, consisting of the squid, the cuttlefish, and above all the octopus. In captivity, octopuses have been known to identify individual human keepers, raid neighboring tanks for food, turn off lightbulbs by spouting jets of water, plug drains, and make daring escapes. How is it that a creature with such gifts evolved through an evolutionary lineage so radically distant from our own? What does it mean that evolution built minds not once but at least twice? The octopus is the closest we will come to meeting an intelligent alien. What can we learn from the encounter? &lt;/p&gt;&lt;p&gt;In &lt;i&gt;Other Minds&lt;/i&gt;, Peter Godfrey-Smith, a distinguished philosopher of science and a skilled scuba diver, tells a bold new story of how subjective experience crept into being&amp;#8212;how nature became...</dc:description>
+        <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Peter Godfrey-Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-09-20T18:49:34.949878+00:00" name="calibre:timestamp"/>
+        <meta content="Other Minds" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

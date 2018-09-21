@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03ec1f6c-3451-4881-85fa-45e068df3dac</dc:identifier>
+        <dc:title>Lolita</dc:title>
+        <dc:creator opf:file-as="Nabokov, Vladimir" opf:role="aut">Vladimir Nabokov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-01T18:33:58.717000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Vladimir Nabokov's Lolita is a dark and daring story of obsessive love and transgression. Humbert Humbert's lust for his pubescent step-daughter, Lolita, shocked readers when it was first published in the 1950s; yet the novel was also celebrated for its beautifully lyrical writing. Almost fifty years after its first publication, Lolita remains a powerful tale of perversion and love gone wrong.</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141037431</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction / General</dc:subject>
+        <dc:subject>Fiction / Literary</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Middle-aged men</dc:subject>
+        <dc:subject>Intergenerational relations</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Pedophilia</dc:subject>
+        <meta content="{&quot;Vladimir Nabokov&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-09-20T18:49:37.855879+00:00" name="calibre:timestamp"/>
+        <meta content="Lolita" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

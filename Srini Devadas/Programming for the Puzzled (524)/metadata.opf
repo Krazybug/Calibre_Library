@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">858d0a88-6c17-4c3f-a806-f8d63050fe44</dc:identifier>
+        <dc:title>Programming for the Puzzled</dc:title>
+        <dc:creator opf:file-as="Devadas, Srini" opf:role="aut">Srini Devadas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Learning programming with one of “the coolest applications around“: algorithmic puzzles ranging from scheduling selfie time to verifying the six degrees of separation hypothesis.</dc:description>
+        <dc:publisher>The MIT Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>computer science; programming languages; problems; algorithms; Python; coding; data structures; optimization; software engineering; recursion; Divide and Conquer; greedy algorithm; exhaustive search; backtracking; case analysis; information; encoding information; decoding information; functions; control flow; hashing; hash tables; radix representation; conflict detection; implication; binary search; bisection search; independent set; set covering; Decrease-by-One search; pivoting; in-place algorithm; Object-oriented programming; breadth-first search; depth-first search; graph; graph traversal; Binary Search Trees</dc:subject>
+        <meta content="{&quot;Srini Devadas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-09-20T18:49:36.344673+00:00" name="calibre:timestamp"/>
+        <meta content="Programming for the Puzzled" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -519,6 +519,10 @@
   "tag_browser_hidden_categories": [], 
   "gui_view_history": [
     [
+      500, 
+      "Operating System Concepts"
+    ], 
+    [
       519, 
       "My books"
     ], 
@@ -573,10 +577,6 @@
     [
       189, 
       "The unreasonable effectiveness of mathematics in the natural sciences. Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959"
-    ], 
-    [
-      393, 
-      "On Computable Numbers, with an Application to the Entscheidungsproblem"
     ]
   ], 
   "library_view books view state": {
