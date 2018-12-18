@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f385381a-2598-4bc3-933d-cf42eb8bbf83</dc:identifier>
+        <dc:title>Making of the Atomic Bomb</dc:title>
+        <dc:creator opf:file-as="Rhodes, Richard" opf:role="aut">Richard Rhodes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Winner of the Pulitzer Prize, the National Book Award, and the National Book Critics Circle Award.&lt;br /&gt;Twenty-five years after its initial publication, &lt;i&gt;The Making of the Atomic Bomb &lt;/i&gt;remains the seminal and complete story of how the bomb was developed, from the turn-of-the-century discovery of the vast energy locked inside the atom to the dropping of the first bombs on Japan. &lt;br /&gt; &lt;br /&gt;Few great discoveries have evolved so swiftly&amp;#8212;or have been so misunderstood. From the theoretical discussions of nuclear energy to the bright glare of Trinity, there was a span of hardly more than twenty-five years. What began as merely an interesting speculative problem in physics grew into the Manhattan Project, and then into the bomb, with frightening rapidity, while scientists known only to their peers&amp;#8212;Szilard, Teller, Oppenheimer, Bohr, Meitner, Fermi, Lawrence, and von Neumann&amp;#8212;stepped from their ivory towers into the limelight. &lt;br /&gt; &lt;br /&gt;Richard Rhodes gives...</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Richard Rhodes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-10-13T08:37:23.845513+00:00" name="calibre:timestamp"/>
+        <meta content="Making of the Atomic Bomb" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

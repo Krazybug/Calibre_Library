@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30d40790-0dc7-4342-9d38-4ecbe07eb3cf</dc:identifier>
+        <dc:title>Get a Financial Life</dc:title>
+        <dc:creator opf:file-as="Kobliner, Beth" opf:role="aut">Beth Kobliner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A completely revised and updated fourth edition of the &lt;i&gt;New York Times &lt;/i&gt;bestseller, designed to guide younger adults through the world of personal finance.&lt;BR&gt;More than ever before, people in their twenties and thirties need help getting their financial lives in order. And who could blame them?&lt;BR&gt; &lt;BR&gt;These so-called millennials have come of age in the wake of the worst economic crisis in memory, and are now trying to get by in its aftermath. They owe record levels of student loan debt, face sky-high rents, and struggle to live on a budget in an uncertain economy.&lt;BR&gt; &lt;BR&gt;It's time for them to get a financial life.&lt;BR&gt; &lt;BR&gt;For two decades, Beth Kobliner's bestseller has been the financial bible for people in their twenties and thirties. With her down-to-earth style, she has taught them how to get out of debt, learn to save, and invest for their futures. In this completely revised and updated edition, Kobliner shares brand-new insights and concrete, actionable advice geared...</dc:description>
+        <dc:publisher>Touchstone</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Beth Kobliner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-10-13T08:37:18.980732+00:00" name="calibre:timestamp"/>
+        <meta content="Get a Financial Life" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

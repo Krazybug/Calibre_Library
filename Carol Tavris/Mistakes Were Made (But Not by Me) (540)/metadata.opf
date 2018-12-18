@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93632db3-8d1d-4c53-9209-de33e0840e09</dc:identifier>
+        <dc:title>Mistakes Were Made (But Not by Me)</dc:title>
+        <dc:creator opf:file-as="Tavris, Carol" opf:role="aut">Carol Tavris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Why do people dodge responsibility when things fall apart? Why the parade of public figures unable to own up when they screw up? Why the endless marital quarrels over who is right? Why can we see hypocrisy in others but not in ourselves? Are we all liars? Or do we really believe the stories we tell? Backed by years of research and delivered in lively, energetic prose, &lt;i&gt;Mistakes Were Made (But Not by&lt;/i&gt; Me&lt;i&gt;)&lt;/i&gt; offers a fascinating explanation of self-deception—how it works, the harm it can cause, and how we can overcome it.&lt;/p&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="URN">0151010986</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Carol Tavris&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-11-04T17:39:43.987819+00:00" name="calibre:timestamp"/>
+        <meta content="Mistakes Were Made (But Not by Me)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

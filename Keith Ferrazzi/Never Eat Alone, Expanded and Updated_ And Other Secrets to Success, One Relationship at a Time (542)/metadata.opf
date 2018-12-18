@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db7b4d5c-8f2f-4d03-a155-8700d7326069</dc:identifier>
+        <dc:title>Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time</dc:title>
+        <dc:creator opf:file-as="Ferrazzi, Keith" opf:role="aut">Keith Ferrazzi</dc:creator>
+        <dc:creator opf:file-as="Ferrazzi, Keith" opf:role="aut">Tahl Raz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-02T18:30:00+00:00</dc:date>
+        <dc:publisher>The Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385346665</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00H6JBFOS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Keith Ferrazzi&quot;: &quot;&quot;, &quot;Tahl Raz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-12-07T09:45:43.497947+00:00" name="calibre:timestamp"/>
+        <meta content="Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

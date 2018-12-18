@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ebc3113-7f3e-49c2-b76d-83d31f1cad15</dc:identifier>
+        <dc:title>The Design of Everyday Things</dc:title>
+        <dc:creator opf:file-as="Norman, Don" opf:role="aut">Don Norman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-19T23:23:10+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Don Norman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-10-13T08:47:57.184721+00:00" name="calibre:timestamp"/>
+        <meta content="Design of Everyday Things, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efd8c87d-64f2-43d1-819a-131c77aa41a7</dc:identifier>
+        <dc:title>How to Calculate Quickly</dc:title>
+        <dc:creator opf:file-as="Sticker, Henry" opf:role="aut">Henry Sticker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Dover Publications</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Henry Sticker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-10-23T17:01:32.204282+00:00" name="calibre:timestamp"/>
+        <meta content="How to Calculate Quickly" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
