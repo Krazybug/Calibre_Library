@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7a01b8a-4466-4cfd-9f0d-77a41e178c95</dc:identifier>
+        <dc:title>Dr. William F. Clocksin (auth.)</dc:title>
+        <dc:creator opf:file-as="4&lt;8=8AB@0B&gt;@" opf:role="aut">4&lt;8=8AB@0B&gt;@</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;4&lt;8=8AB@0B&gt;@&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-27T09:36:39.286270+00:00" name="calibre:timestamp"/>
+        <meta content="Dr. William F. Clocksin (auth.)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

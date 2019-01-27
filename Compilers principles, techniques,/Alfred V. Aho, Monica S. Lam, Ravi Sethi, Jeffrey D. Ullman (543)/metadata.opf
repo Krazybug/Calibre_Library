@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e18c9aec-d285-41af-a7b1-c7b672f2e82d</dc:identifier>
+        <dc:title>Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman</dc:title>
+        <dc:creator opf:file-as="Compilers principles, techniques, &amp; Wesley, tools-Pearson Addison" opf:role="aut">Compilers principles, techniques,</dc:creator>
+        <dc:creator opf:file-as="Compilers principles, techniques, &amp; Wesley, tools-Pearson Addison" opf:role="aut">tools-Pearson Addison Wesley (2007)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Compilers principles, techniques,&quot;: &quot;&quot;, &quot;tools-Pearson Addison Wesley (2007)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-27T09:36:30.833160+00:00" name="calibre:timestamp"/>
+        <meta content="Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

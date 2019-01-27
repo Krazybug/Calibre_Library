@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f04bcce4-1cb5-458c-9146-d30b54d50f98</dc:identifier>
+        <dc:title>Barbarian Days</dc:title>
+        <dc:creator opf:file-as="Finnegan, William" opf:role="aut">William Finnegan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;A deeply-rendered self-portrait of a life-long surfer.&lt;/b&gt;&lt;br /&gt;	&lt;br /&gt; Barbarian Days is William Finnegan's memoir of an obsession, of a complex enchantment. Surfing looks like a sport, but that's only to outsiders. To initiates, it is something else entirely: a beautiful addiction, a morally dangerous pastime, a way of life. Raised in California and Hawaii, Finnegan started surfing as a child. He has chased waves all over the world, wandering for years through the South Pacific, Australia, Asia, Africa. A bookish boy, then an excessively adventurous young man, he went on to become a distinguished writer and war reporter. Barbarian Days takes us deep into unfamiliar worlds, some of them right under our noses&amp;#8212;off the coasts of New York and San Francisco&amp;#8212;and dramatizes the edgy camaraderie of close male friendships annealed in challenging waves. &lt;br&gt; &lt;br&gt; Finnegan shares stories of life in a whites-only gang in a tough school in Honolulu while his closest friend was...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;William Finnegan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-27T09:36:35.227984+00:00" name="calibre:timestamp"/>
+        <meta content="Barbarian Days" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

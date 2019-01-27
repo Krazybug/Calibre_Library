@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c968c1aa-2d3e-406f-8a7b-7149c6c8ef3b</dc:identifier>
+        <dc:title>The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics</dc:title>
+        <dc:creator opf:file-as="Bueno, de Mesquita" opf:role="aut">de Mesquita Bueno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Perseus Books Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781610390453</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e28eef2d-954f-4c2b-a4c7-d5f5554a5dee</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;de Mesquita Bueno&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-27T09:36:40.552399+00:00" name="calibre:timestamp"/>
+        <meta content="Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

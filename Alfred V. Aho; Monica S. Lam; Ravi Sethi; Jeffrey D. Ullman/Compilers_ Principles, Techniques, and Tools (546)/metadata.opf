@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">750a2ce5-1d4e-428b-b64d-c3625df65b82</dc:identifier>
+        <dc:title>Compilers: Principles, Techniques, and Tools</dc:title>
+        <dc:creator opf:file-as="Ullman, Alfred V. Aho; Monica S. Lam; Ravi Sethi; Jeffrey D." opf:role="aut">Alfred V. Aho; Monica S. Lam; Ravi Sethi; Jeffrey D. Ullman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-04T15:55:44+00:00</dc:date>
+        <dc:description>Programming</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Programming</dc:subject>
+        <meta content="{&quot;Alfred V. Aho; Monica S. Lam; Ravi Sethi; Jeffrey D. Ullman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-27T09:36:38.050738+00:00" name="calibre:timestamp"/>
+        <meta content="Compilers: Principles, Techniques, and Tools" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
