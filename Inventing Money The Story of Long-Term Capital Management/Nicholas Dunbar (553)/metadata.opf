@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e411311-9853-4974-a0ce-7dfbd088c9fc</dc:identifier>
+        <dc:title>Nicholas Dunbar</dc:title>
+        <dc:creator opf:file-as="Management, Inventing Money The Story of Long-Term Capital &amp; Wiley, the Legends Behind It-John &amp; Sons (2001)" opf:role="aut">Inventing Money The Story of Long-Term Capital Management</dc:creator>
+        <dc:creator opf:file-as="Management, Inventing Money The Story of Long-Term Capital &amp; Wiley, the Legends Behind It-John &amp; Sons (2001)" opf:role="aut">the Legends Behind It-John Wiley</dc:creator>
+        <dc:creator opf:file-as="Management, Inventing Money The Story of Long-Term Capital &amp; Wiley, the Legends Behind It-John &amp; Sons (2001)" opf:role="aut">Sons (2001)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-17T13:46:39+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Inventing Money The Story of Long-Term Capital Management&quot;: &quot;&quot;, &quot;the Legends Behind It-John Wiley&quot;: &quot;&quot;, &quot;Sons (2001)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-07T11:06:51.535372+00:00" name="calibre:timestamp"/>
+        <meta content="Nicholas Dunbar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

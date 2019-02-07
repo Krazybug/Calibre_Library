@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3370a58b-4a72-4355-bcfe-b66063f108d7</dc:identifier>
+        <dc:title>Neal Stephenson - Diamond Age 0553380966.doc</dc:title>
+        <dc:creator opf:file-as="User, Registered" opf:role="aut">Registered User</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-17T05:06:37+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">0553380966</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Registered User&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-30T15:12:21.003771+00:00" name="calibre:timestamp"/>
+        <meta content="Neal Stephenson - Diamond Age 0553380966.doc" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

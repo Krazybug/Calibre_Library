@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adaeeeb9-78a5-4b3c-a49a-136d321b6853</dc:identifier>
+        <dc:title>The Big Short: Inside the Doomsday Machine</dc:title>
+        <dc:creator opf:file-as="Lewis, Michael" opf:role="aut">Michael Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-02T05:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The #1 New York Times bestseller: a brilliant account—character-rich and darkly humorous—of how the U.S. economy was driven over the cliff.  When the crash of the U. S. stock market became public knowledge in the fall of 2008, it was already old news. The real crash, the silent crash, had taken place over the previous year, in bizarre feeder markets where the sun doesn’t shine, and the SEC doesn’t dare, or bother, to tread: the bond and real estate derivative markets where geeks invent impenetrable securities to profit from the misery of lower- and middle-class Americans who can’t pay their debts. The smart people who understood what was or might be happening were paralyzed by hope and fear; in any case, they weren’t talking.    The crucial question is this: Who understood the risk inherent in the assumption of ever-rising real estate prices, a risk compounded daily by the creation of those arcane, artificial securities loosely based on piles of doubtful mortgages?  Michael Lewis turns the inquiry on its head to create a fresh, character-driven narrative brimming with indignation and dark humor, a fitting sequel to his #1 best-selling Liar’s Poker. Who got it right? he asks. Who saw the real estate market for the black hole it would become, and eventually made billions of dollars from that perception? And what qualities of character made those few persist when their peers and colleagues dismissed them as Chicken Littles? Out of this handful of unlikely—really unlikely—heroes, Lewis fashions a story as compelling and unusual as any of his earlier bestsellers, proving yet again that he is the finest and funniest chronicler of our times.</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393072235</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Financial crises</dc:subject>
+        <dc:subject>Contemporary Economic Situations And Conditions</dc:subject>
+        <dc:subject>c 2000 to c 2010</dc:subject>
+        <dc:subject>Economics: Professional &amp; General</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial crises &amp; disasters</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>21st century</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Economic Conditions</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Global Financial Crisis; 2008-2009</dc:subject>
+        <dc:subject>Economic History</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta content="{&quot;Michael Lewis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-02-07T11:06:58.039511+00:00" name="calibre:timestamp"/>
+        <meta content="Big Short: Inside the Doomsday Machine, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
