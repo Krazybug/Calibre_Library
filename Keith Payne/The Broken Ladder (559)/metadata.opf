@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de1bc3db-f77b-481c-87a1-a070ab75ff5c</dc:identifier>
+        <dc:title>The Broken Ladder</dc:title>
+        <dc:creator opf:file-as="Payne, Keith" opf:role="aut">Keith Payne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-08T17:00:09+00:00</dc:date>
+        <dc:description>&lt;b&gt;A timely examination by a leading scientist of the physical, psychological, and moral effects of inequality.&lt;/b&gt;&lt;br&gt; &lt;br&gt; Today's inequality is on a scale that none of us has seen in our lifetimes, yet this disparity between rich and poor has ramifications that extend far beyond mere financial means. In &lt;i&gt;The Broken Ladder&lt;/i&gt; psychologist Keith Payne examines how inequality divides us not just economically, but has profound consequences for how we think, how our cardiovascular systems respond to stress, how our immune systems function, and how we view moral ideas like justice and fairness. Experiments in psychology, neuroscience, and behavioral economics have not only revealed important new insights on how inequality changes people in predictable ways, but have provided a corrective to our flawed way of viewing poverty as the result of individual character failings. Among modern, developed societies, economic inequality is not primarily about money, but rather about relative...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Keith Payne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-10T05:11:46.023619+00:00" name="calibre:timestamp"/>
+        <meta content="Broken Ladder, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
