@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">785f4157-b42a-4c9b-b5be-c7a2b558b75f</dc:identifier>
+        <dc:title>The Handmaid's Tale</dc:title>
+        <dc:creator opf:file-as="Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;I&gt;The Handmaid's Tale &lt;/I&gt;is not only a radical and brilliant departure for Margaret Atwood, it is a novel of such power that the reader will be unable to forget its images and its forecast. Set in the near future, it describes life in what was once the United States, now called the Republic of Gilead, a monotheocracy that has reacted to social unrest and a sharply declining birthrate by reverting to, and going beyond, the repressive intolerance of the original Puritans. The regime takes the Book of Genesis absolutely at its word, with bizarre consequences for the women and men of its population.&lt;p&gt;The story is told through the eyes of Offred, one of the unfortunate Handmaids under the new social order. In condensed but eloquent prose, by turns cool-eyed, tender, despairing, passionate, and wry, she reveals to us the dark corners behind the establishment's calm facade, as certain tendencies now in existence are carried to their logical conclusions. &lt;I&gt;The Handmaid's Tale &lt;/I&gt;is...</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn:uuid:91DED147-92F4-1014-9066-D63D42FFF4D7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Margaret Atwood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-19T16:25:10.659171+00:00" name="calibre:timestamp"/>
+        <meta content="Handmaid's Tale, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

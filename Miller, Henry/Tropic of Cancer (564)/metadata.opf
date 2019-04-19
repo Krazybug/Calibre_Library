@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">564</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba84d192-1ded-4873-aa7b-06ac7d3b31dd</dc:identifier>
+        <dc:title>Tropic of Cancer</dc:title>
+        <dc:creator opf:file-as="Miller, Henry" opf:role="aut">Miller, Henry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1961-10-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;No punches are pulled in Henry Miller's most famous work. Still pretty rough going for even our jaded sensibilities, but &lt;em&gt;Tropic of Cancer&lt;/em&gt; is an unforgettable novel of self-confession. Maybe the most honest book ever written, this autobiographical fiction about Miller's life as an expatriate American in Paris was deemed obscene and banned from publication in this country for years. When you read this, you see immediately how much modern writers owe Miller. &lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Starred Review. Millers once controversial story that ended up altering United States censorship laws tells of a young writer and his pals in Paris during the Great Depression. Part memoir, part fictional tale, Millers prose is a complex mix that demands the readers utmost attention. Campbell Scott reads with a gentle, steady voice that captures the more personal side of Millers writing. Scott is in conversation with himself, posing questions and offering up answers apparently on a whim. His reading is incredibly rich and layered, filled with emotions and ideologies. The result is a stunning, intimate listen that will lure listeners in with its straightforward approach and keep them rapt with its raw honesty. &lt;em&gt;(Sept.)&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grove Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780802131782</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Brooklyn (New York</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Erotic stories</dc:subject>
+        <dc:subject>Erotic Fiction</dc:subject>
+        <dc:subject>Americans</dc:subject>
+        <dc:subject>Bohemianism</dc:subject>
+        <dc:subject>Authorship</dc:subject>
+        <dc:subject>Paris (France)</dc:subject>
+        <dc:subject>N.Y.)</dc:subject>
+        <dc:subject>Sex Customs</dc:subject>
+        <meta content="{&quot;Miller, Henry&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-19T16:25:13.326827+00:00" name="calibre:timestamp"/>
+        <meta content="Tropic of Cancer" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
