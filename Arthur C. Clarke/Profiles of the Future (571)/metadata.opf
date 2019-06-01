@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1b0d87f-2bdc-488b-8219-f2d17fc20a6b</dc:identifier>
+        <dc:title>Profiles of the Future</dc:title>
+        <dc:creator opf:file-as="CLARKE, ARTHUR C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Orion Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Arthur C. Clarke&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-01T10:09:23.097074+00:00" name="calibre:timestamp"/>
+        <meta content="Profiles of the Future" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
