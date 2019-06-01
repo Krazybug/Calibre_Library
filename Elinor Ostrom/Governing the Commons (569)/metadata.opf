@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8945ccd1-1cb3-4f22-bd36-ecd433d3a54f</dc:identifier>
+        <dc:title>Governing the Commons</dc:title>
+        <dc:creator opf:file-as="Ostrom, Elinor" opf:role="aut">Elinor Ostrom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Elinor Ostrom&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-01T05:03:59.953227+00:00" name="calibre:timestamp"/>
+        <meta content="Governing the Commons" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
