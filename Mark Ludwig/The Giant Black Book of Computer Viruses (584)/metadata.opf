@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d825110-1bc9-4990-b8c7-0de9b440dcb8</dc:identifier>
+        <dc:title>The Giant Black Book of Computer Viruses</dc:title>
+        <dc:creator opf:file-as="Ludwig, Mark" opf:role="aut">Mark Ludwig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;In this book you'll learn everything you wanted to know about computer viruses, ranging from the simplest 44-byte virus right on up to viruses for 32-bit Windows, Unix and the Internet. You'll learn how anti-virus programs stalk viruses and what viruses do to evade these digital policemen, including stealth techniques and poly-morphism. Next, you'll take a fascinating trip to the frontiers of science and learn about genetic viruses. Will such viruses take over the world, or will they become the tools of choice for the information warriors of the 21st century? Finally, you'll learn about payloads for viruses, not just destructive code, but also how to use a virus to compromise the security of a computer, and the possibility of beneficial viruses.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="GOOGLE">TE12DQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781365510939</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mark Ludwig&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-02T04:21:58.688988+00:00" name="calibre:timestamp"/>
+        <meta content="Giant Black Book of Computer Viruses, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

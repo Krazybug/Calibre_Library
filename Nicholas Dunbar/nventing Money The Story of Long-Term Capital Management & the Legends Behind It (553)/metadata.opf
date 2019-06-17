@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e411311-9853-4974-a0ce-7dfbd088c9fc</dc:identifier>
+        <dc:title>nventing Money The Story of Long-Term Capital Management &amp; the Legends Behind It</dc:title>
+        <dc:creator opf:file-as="Dunbar, Nicholas" opf:role="aut">Nicholas Dunbar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-01T13:46:39+00:00</dc:date>
+        <dc:description>&lt;font face="Product Sans, sans-serif"&gt;I-&lt;/font&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Nicholas Dunbar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-07T11:06:51+00:00" name="calibre:timestamp"/>
+        <meta content="nventing Money The Story of Long-Term Capital Management &amp; the Legends Behind It" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

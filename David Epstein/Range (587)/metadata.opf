@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbb64470-8af5-4b67-82f5-058eaf275bf5</dc:identifier>
+        <dc:title>Range</dc:title>
+        <dc:creator opf:file-as="Epstein, David" opf:role="aut">David Epstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;"Urgent and important. . . an essential read for bosses, parents, coaches, and anyone who cares about improving performance." &amp;#8212;Daniel H. Pink&lt;/b&gt;&lt;br&gt; &lt;br&gt; &lt;b&gt;"So much crucial and revelatory information about performance, success, and education." &amp;#8212;Susan Cain, bestselling author of &lt;i&gt;Quiet &lt;/i&gt;&lt;/b&gt;&lt;br&gt; &lt;b&gt; &lt;/b&gt;&lt;br&gt; &lt;b&gt;A powerful argument for how to succeed in any field: develop broad interests and skills while everyone around you is rushing to specialize.&lt;/b&gt; &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Plenty of experts argue that anyone who wants to develop a skill, play an instrument, or lead their field should start early, focus intensely, and rack up as many hours of deliberate practice as possible. If you dabble or delay, you'll never catch up to the people who got a head start. But a closer look at research on the world's top performers, from professional athletes to Nobel laureates, shows that early specialization is the exception, not the rule. &lt;br&gt;David Epstein examined the world's most...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;David Epstein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-17T06:49:09.111361+00:00" name="calibre:timestamp"/>
+        <meta content="Range" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23a8cffc-467a-4dad-8bce-8b1398538984</dc:identifier>
+        <dc:title>Microsoft Word - Document1</dc:title>
+        <dc:creator opf:file-as="CIA, The Search for the Manchurian Candidate The &amp; Norton, Mind Control The Secret History of the Behavioral Sciences-W. W. &amp; Company (1991)" opf:role="aut">The Search for the Manchurian Candidate The CIA</dc:creator>
+        <dc:creator opf:file-as="CIA, The Search for the Manchurian Candidate The &amp; Norton, Mind Control The Secret History of the Behavioral Sciences-W. W. &amp; Company (1991)" opf:role="aut">Mind Control The Secret History of the Behavioral Sciences-W. W. Norton</dc:creator>
+        <dc:creator opf:file-as="CIA, The Search for the Manchurian Candidate The &amp; Norton, Mind Control The Secret History of the Behavioral Sciences-W. W. &amp; Company (1991)" opf:role="aut">Company (1991)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-09T19:17:17+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Company (1991)&quot;: &quot;&quot;, &quot;The Search for the Manchurian Candidate The CIA&quot;: &quot;&quot;, &quot;Mind Control The Secret History of the Behavioral Sciences-W. W. Norton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-17T06:49:35.191217+00:00" name="calibre:timestamp"/>
+        <meta content="Microsoft Word - Document1" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

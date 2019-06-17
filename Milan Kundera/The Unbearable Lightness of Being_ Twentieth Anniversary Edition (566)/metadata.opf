@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e97d598-4db9-447d-ac92-2e99627d316b</dc:identifier>
+        <dc:title>The Unbearable Lightness of Being: Twentieth Anniversary Edition</dc:title>
+        <dc:creator opf:file-as="Kundera, Milan" opf:role="aut">Milan Kundera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;When The Unbearable Lightness of Being was first published in English, it was hailed as "a work of the boldest mastery, originality, and richness" by critic Elizabeth Hardwick and named one of the best books of 1984 by the New York Times Book Review. It went on to win the Los Angeles Times Book Prize for Fiction and quickly became an international bestseller. Twenty years later, the novel has established itself as a modern classic. To commemorate the anniversary of its first English-language publication, HarperCollins is proud to offer a special hardcover edition. A young woman in love with a man torn between his love for her and his incorrigible womanizing; one of his mistresses and her humbly faithful lover -- these are the two couples whose story is told in this masterful novel. Controlled by day, Tereza's jealousy awakens by night, transformed into ineffably sad death-dreams, while Tomas, a successful surgeon, alternates loving devotion to the dependent Tereza with the ardent pursuit of other women. Sabina, an independent, free-spirited artist, lives her life as a series of betrayals -- of parents, husband, country, love itself -- whereas her lover, the intellectual Franz, loses all because of his earnest goodness and fidelity. In a world in which lives are shaped by irrevocable choices and by fortuitous events, a world in which everything occurs but once, existence seems to lose its substance, its weight. Hence we feel, says the novelist, "the unbearable lightness of being" -- not only as the consequence of our private acts but also in the public sphere, and the two inevitably intertwine. This magnificent novel encompasses the extremes of comedy and tragedy, and embraces, it seems, all aspects of human existence. It juxtaposes geographically distant places (Prague, Geneva, Paris, Thailand, the United States, a forlorn Bohemian village); brilliant and playful reflections (on "eternal return," on kitsch, on man and animals -- Tomas and Tereza have a beloved doe named Karenin); and a variety of styles (from the farcical to the elegiac) to take its place as perhaps the major achievement of one of the world's truly great writers.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7QpErH6s8hcC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780060597184</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <meta content="{&quot;Milan Kundera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-19T16:25:21+00:00" name="calibre:timestamp"/>
+        <meta content="Unbearable Lightness of Being: Twentieth Anniversary Edition, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

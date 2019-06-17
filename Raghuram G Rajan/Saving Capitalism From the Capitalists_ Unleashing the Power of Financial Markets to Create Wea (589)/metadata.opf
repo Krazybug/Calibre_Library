@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69d1b423-2a7f-46bc-80b1-d70152ce42e4</dc:identifier>
+        <dc:title>Saving Capitalism From the Capitalists: Unleashing the Power of Financial Markets to Create Wealth and Spread Opportunity</dc:title>
+        <dc:creator opf:file-as="Rajan, Raghuram G &amp; Zingales, Luigi" opf:role="aut">Raghuram G Rajan</dc:creator>
+        <dc:creator opf:file-as="Rajan, Raghuram G &amp; Zingales, Luigi" opf:role="aut">Luigi Zingales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;For nearly two centuries, scholars and politicians have debated the future of capitalism. In India, its critics have viewed it as intrinsically unstable, seeing signs of its collapse in every fall of the Mumbai stock market. Its supporters see it as the b&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers India</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789351362098</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">458d8806-3252-46a2-941c-cec78c069171</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Raghuram G Rajan&quot;: &quot;&quot;, &quot;Luigi Zingales&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-17T06:49:33.348272+00:00" name="calibre:timestamp"/>
+        <meta content="Saving Capitalism From the Capitalists: Unleashing the Power of Financial Markets to Create Wealth and Spread Opportunity" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

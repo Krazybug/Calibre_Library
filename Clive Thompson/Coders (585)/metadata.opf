@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">117cf187-6264-46e9-a609-dfa4e9a4d03f</dc:identifier>
+        <dc:title>Coders</dc:title>
+        <dc:creator opf:file-as="Thompson, Clive" opf:role="aut">Clive Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;You use software nearly every instant you're awake. And this may sound weirdly obvious, but every single one of those pieces of software was written by a programmer. Programmers are thus among the most quietly influential people on the planet. As we live in a world made of software, they're the architects. The decisions they make guide our behavior. When they make something newly easy to do, we do a lot more of it. If they make it hard or impossible to do something, we do less of it.&lt;/p&gt;&lt;p&gt;If we want to understand how today's world works, we ought to understand something about coders. Who exactly are the people that are building today's world? What makes them tick? What type of personality is drawn to writing software? And perhaps most interestingly - what does it do to them?&lt;/p&gt;&lt;p&gt;One of the first pieces of coding a newbie learns is the program to make the computer say "Hello, world!" Like that piece of code, Clive Thompson's &lt;i&gt;Coders&lt;/i&gt; is a delightful place to begin to...</dc:description>
+        <dc:publisher>Pan Macmillan UK</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Clive Thompson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-02T04:21:59.951691+00:00" name="calibre:timestamp"/>
+        <meta content="Coders" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
