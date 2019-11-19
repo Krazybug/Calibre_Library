@@ -517,7 +517,49 @@
   "news_to_be_synced": [], 
   "grouped_search_terms": {}, 
   "tag_browser_hidden_categories": [], 
+  "books view split pane state": {
+    "column_sizes": {
+      "publisher": 100, 
+      "pubdate": 100, 
+      "rating": 100, 
+      "series": 100, 
+      "tags": 100, 
+      "languages": 100, 
+      "last_modified": 100, 
+      "timestamp": 100, 
+      "authors": 100, 
+      "title": 100, 
+      "size": 100
+    }, 
+    "hidden_columns": [], 
+    "column_positions": {
+      "publisher": 8, 
+      "pubdate": 9, 
+      "rating": 5, 
+      "series": 7, 
+      "tags": 6, 
+      "languages": 11, 
+      "last_modified": 10, 
+      "ondevice": 0, 
+      "authors": 2, 
+      "title": 1, 
+      "timestamp": 3, 
+      "size": 4
+    }
+  }, 
   "gui_view_history": [
+    [
+      592, 
+      "Seeking Wisdom: From Darwin To Munger"
+    ], 
+    [
+      42, 
+      "Poor Charlie's Almanack, Expanded Third Edition"
+    ], 
+    [
+      591, 
+      "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash"
+    ], 
     [
       546, 
       "Compilers: Principles, Techniques, and Tools"
@@ -565,18 +607,6 @@
     [
       87, 
       "1051_2"
-    ], 
-    [
-      175, 
-      "RL sutton 2018jan1"
-    ], 
-    [
-      90, 
-      "random backprop"
-    ], 
-    [
-      448, 
-      "ml-for-prog"
     ]
   ], 
   "library_view books view state": {
